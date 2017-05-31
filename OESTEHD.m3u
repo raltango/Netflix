@@ -1,108 +1,182 @@
 #EXTM3U
 
-#EXTINF:0,[COLOR red]              CINE[/COLOR][COLOR cyan] DIABLO[/COLOR] [COLOR white] *CINE OESTE* [/COLOR]
+#EXTINF:0,[COLOR red]*CINE [/COLOR][COLOR skyblue] DIABLO[/COLOR] [COLOR blue] *CINE OESTE* [/COLOR]
 
 
-#EXTINF:0,[COLOR lime]Abierto hasta el amanecer 3: La hija del verdugo [/COLOR][COLOR tomato](HD)[/COLOR]
+#EXTINF:0,[COLOR lime]Abierto hasta el amanecer 3: La hija del verdugo [/COLOR][COLOR skyblue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=81403&peli=pI2raGeceg==&id=31889&tit=QWJpZXJ0byBoYXN0YSBlbCBhbWFuZWNlciAzOiBMYSBoaWphIGRlbCB2ZXJkdWdv
-#EXTINF:0,[COLOR lime]Ataque al carro blindado [/COLOR][COLOR tomato](HD)[/COLOR]
+#EXTINF:0,[COLOR lime]Ataque al carro blindado [/COLOR][COLOR skyblue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=85562&peli=pIuncGiYeQ==&id=31420&tit=QXRhcXVlIGFsIGNhcnJvIGJsaW5kYWRv
-#EXTINF:0,[COLOR lime]Bailando con lobos [/COLOR][COLOR tomato](HD)[/COLOR]
+#EXTINF:0,[COLOR lime]Bailando con lobos [/COLOR][COLOR skyblue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=84649&peli=pIukcGiXdw==&id=31550&tit=QmFpbGFuZG8gY29uIGxvYm9z
-#EXTINF:0,[COLOR lime]Bala sin nombre [/COLOR][COLOR tomato](HD)[/COLOR]
+#EXTINF:0,[COLOR lime]Bala sin nombre [/COLOR][COLOR skyblue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&peli=pI-kbmqedA==&id=34656&tit=QmFsYSBzaW4gbm9tYnJl
-#EXTINF:0,[COLOR lime]Belle Starr [/COLOR][COLOR tomato](HD)[/COLOR]
+#EXTINF:0,[COLOR lime]Belle Starr [/COLOR][COLOR skyblue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=4brmnZvW&cole=19889&peli=qoqsbWw=&id=2433&tit=QmVsbGUgU3RhcnI=
-#EXTINF:0,[COLOR lime]BloodRayne 2: Deliverance [/COLOR][COLOR tomato](HD)[/COLOR]
+#EXTINF:0,[COLOR lime]BloodRayne 2: Deliverance [/COLOR][COLOR skyblue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=101963&peli=pI6lbmycdA==&id=33210&tit=Qmxvb2RSYXluZSAyOiBEZWxpdmVyYW5jZQ==
-#EXTINF:0,[COLOR lime]Bone Tomahawk [/COLOR][COLOR tomato](HD)[/COLOR]
+#EXTINF:0,[COLOR lime]Bone Tomahawk [/COLOR][COLOR skyblue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=tqLCfZvMg5bGdKQ=&cole=58248&peli=qomkbW2a&id=33510&tit=Qm9uZSBUb21haGF3aw==
-#EXTINF:0,[COLOR lime]Caballos salvajes [/COLOR][COLOR tomato](HD)[/COLOR]
+#EXTINF:0,[COLOR lime]Caballos salvajes [/COLOR][COLOR skyblue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=3cbg&cole=25581&peli=pY6samug&id=5614&tit=Q2FiYWxsb3Mgc2FsdmFqZXM=
-#EXTINF:0,[COLOR lime]Cazador de demonios [/COLOR][COLOR tomato](HD)[/COLOR]
+#EXTINF:0,[COLOR lime]Cazador de demonios [/COLOR][COLOR skyblue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=81180&peli=pI6na22edw==&id=31022&tit=Q2F6YWRvciBkZSBkZW1vbmlvcw==
-#EXTINF:0,[COLOR lime]Centauros del desierto [/COLOR][COLOR tomato](HD)[/COLOR]
+#EXTINF:0,[COLOR lime]Centauros del desierto [/COLOR][COLOR skyblue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=85562&peli=pIuncGiXdQ==&id=31421&tit=Q2VudGF1cm9zIGRlbCBkZXNpZXJ0bw==
-#EXTINF:0,[COLOR lime]Chato, el apache [/COLOR][COLOR tomato](HD)[/COLOR]
+#EXTINF:0,[COLOR lime]Chato, el apache [/COLOR][COLOR skyblue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=85562&peli=pIuncGibcg==&id=31422&tit=Q2hhdG8sIGVsIGFwYWNoZQ==
-#EXTINF:0,[COLOR lime]Cometieron dos errores [/COLOR][COLOR tomato](HD)[/COLOR]
+#EXTINF:0,[COLOR lime]Cometieron dos errores [/COLOR][COLOR skyblue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=85562&peli=pIuncGiddA==&id=31423&tit=Q29tZXRpZXJvbiBkb3MgZXJyb3Jlcw==
-#EXTINF:0,[COLOR lime]Cowboys & Aliens [/COLOR][COLOR tomato](HD)[/COLOR]
+#EXTINF:0,[COLOR lime]Cowboys & Aliens [/COLOR][COLOR skyblue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=2MvhnaHWsw==&cole=29815&peli=qYqsb2uf&id=30229&tit=Q293Ym95cyAmIEFsaWVucw==
-#EXTINF:0,[COLOR lime]Desapariciones [/COLOR][COLOR tomato](HD)[/COLOR]
+#EXTINF:0,[COLOR lime]Desapariciones [/COLOR][COLOR skyblue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=48149&peli=qpCscW-Y&id=33879&tit=RGVzYXBhcmljaW9uZXM=
-#EXTINF:0,[COLOR lime]Deuda de honor [/COLOR][COLOR tomato](HD)[/COLOR]
+#EXTINF:0,[COLOR lime]Deuda de honor [/COLOR][COLOR skyblue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=2MvhnaHWsw==&cole=29815&peli=pY-rbmyZ&id=30232&tit=RGV1ZGEgZGUgaG9ub3I=
-#EXTINF:0,[COLOR lime]Django desencadenado [/COLOR][COLOR tomato](HD)[/COLOR]
+#EXTINF:0,[COLOR lime]Django desencadenado [/COLOR][COLOR skyblue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=81403&peli=pI2raGiccg==&id=31891&tit=RGphbmdvIGRlc2VuY2FkZW5hZG8=
-#EXTINF:0,[COLOR lime]Django... Adios!  [/COLOR][COLOR tomato](HD)[/COLOR]
+#EXTINF:0,[COLOR lime]Django... Adios!  [/COLOR][COLOR skyblue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=4brmnZvW&cole=19889&peli=qpKsbW-e&id=34786&tit=RGphbmdvLi4uIEFkaW9zISA=
-#EXTINF:0,[COLOR lime]Dos mulas y una mujer [/COLOR][COLOR tomato](HD)[/COLOR]
+#EXTINF:0,[COLOR lime]Dos mulas y una mujer [/COLOR][COLOR skyblue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=85562&peli=pIuncGigeg==&id=31424&tit=RG9zIG11bGFzIHkgdW5hIG11amVy
-#EXTINF:0,[COLOR lime]Duelo al sol [/COLOR][COLOR tomato](HD)[/COLOR]
+#EXTINF:0,[COLOR lime]Duelo al sol [/COLOR][COLOR skyblue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=81403&peli=pI2taWmgeg==&id=32511&tit=RHVlbG8gYWwgc29s
-#EXTINF:0,[COLOR lime]Duelo de titanes [/COLOR][COLOR tomato](HD)[/COLOR]
+#EXTINF:0,[COLOR lime]Duelo de titanes [/COLOR][COLOR skyblue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=94361&peli=pI6laWmYeQ==&id=32991&tit=RHVlbG8gZGUgdGl0YW5lcw==
-#EXTINF:0,[COLOR lime]El bueno, el feo y el malo [/COLOR][COLOR tomato](HD)[/COLOR]
+#EXTINF:0,[COLOR lime]El bueno, el feo y el malo [/COLOR][COLOR skyblue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=85562&peli=pIuncGifcQ==&id=31425&tit=RWwgYnVlbm8sIGVsIGZlbyB5IGVsIG1hbG8=
-#EXTINF:0,[COLOR lime]El día de la ira [/COLOR][COLOR tomato](HD)[/COLOR]
+#EXTINF:0,[COLOR lime]El día de la ira [/COLOR][COLOR skyblue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=4brmnZvW&cole=19889&peli=qoqpaGg=&id=2598&tit=RWwgZMOtYSBkZSBsYSBpcmE=
-#EXTINF:0,[COLOR lime]El duelo [/COLOR][COLOR tomato](HD)[/COLOR]
+#EXTINF:0,[COLOR lime]El duelo [/COLOR][COLOR skyblue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=xr7moZzaiZk=&cole=35575&peli=ppCtam-g&id=30538&tit=RWwgZHVlbG8=
-#EXTINF:0,[COLOR lime]El fuera de la ley [/COLOR][COLOR tomato](HD)[/COLOR]
+#EXTINF:0,[COLOR lime]El fuera de la ley [/COLOR][COLOR skyblue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=85562&peli=pIuqaG2Zdw==&id=31427&tit=RWwgZnVlcmEgZGUgbGEgbGV5
-#EXTINF:0,[COLOR lime]El gato con botas [/COLOR][COLOR tomato](HD)[/COLOR]
+#EXTINF:0,[COLOR lime]El gato con botas [/COLOR][COLOR skyblue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=85645&peli=pIymcGybdg==&id=31396&tit=RWwgZ2F0byBjb24gYm90YXM=
-#EXTINF:0,[COLOR lime]El hombre que mató a Liberty Valance [/COLOR][COLOR tomato](HD)[/COLOR]
+#EXTINF:0,[COLOR lime]El hombre que mató a Liberty Valance [/COLOR][COLOR skyblue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=81403&peli=pI2scG-YdA==&id=32497&tit=RWwgaG9tYnJlIHF1ZSBtYXTDsyBhIExpYmVydHkgVmFsYW5jZQ==
-#EXTINF:0,[COLOR lime]El jinete pálido [/COLOR][COLOR tomato](HD)[/COLOR]
+#EXTINF:0,[COLOR lime]El jinete pálido [/COLOR][COLOR skyblue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=85562&peli=pI6nbG6YdQ==&id=31428&tit=RWwgamluZXRlIHDDoWxpZG8=
-#EXTINF:0,[COLOR lime]El Llanero Solitario [/COLOR][COLOR tomato](HD)[/COLOR]
+#EXTINF:0,[COLOR lime]El Llanero Solitario [/COLOR][COLOR skyblue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=2MvhnaHWsw==&cole=29815&peli=qYqtbWuc&id=9954&tit=RWwgTGxhbmVybyBTb2xpdGFyaW8=
-#EXTINF:0,[COLOR lime]El mexicano (Once Upon a Time in Mexico) [/COLOR][COLOR tomato](HD)[/COLOR]
+#EXTINF:0,[COLOR lime]El mexicano (Once Upon a Time in Mexico) [/COLOR][COLOR skyblue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=48149&peli=qo-pbGea&id=33171&tit=RWwgbWV4aWNhbm8gKE9uY2UgVXBvbiBhIFRpbWUgaW4gTWV4aWNvKQ==
-#EXTINF:0,[COLOR lime]El renacido (The Revenant) [/COLOR][COLOR tomato](HD)[/COLOR]
+#EXTINF:0,[COLOR lime]El renacido (The Revenant) [/COLOR][COLOR skyblue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=2MvhnaHWsw==&cole=29815&peli=pY-rbmmd&id=30319&tit=RWwgcmVuYWNpZG8gKFRoZSBSZXZlbmFudCk=
-#EXTINF:0,[COLOR lime]El tesoro de Sierra Madre [/COLOR][COLOR tomato](HD)[/COLOR]
+#EXTINF:0,[COLOR lime]El tesoro de Sierra Madre [/COLOR][COLOR skyblue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=3cbg&cole=25581&peli=qoynbGmZ&id=34212&tit=RWwgdGVzb3JvIGRlIFNpZXJyYSBNYWRyZQ==
-#EXTINF:0,[COLOR lime]El valle de la venganza [/COLOR][COLOR tomato](HD)[/COLOR]
+#EXTINF:0,[COLOR lime]El valle de la venganza [/COLOR][COLOR skyblue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=2MvhnaHWsw==&cole=29815&peli=qY2qcHCc&id=29351&tit=RWwgdmFsbGUgZGUgbGEgdmVuZ2FuemE=
-#EXTINF:0,[COLOR lime]En defensa propia [/COLOR][COLOR tomato](HD)[/COLOR]
+#EXTINF:0,[COLOR lime]En defensa propia [/COLOR][COLOR skyblue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=3cbg&cole=25581&peli=qJGrbGiZ&id=28663&tit=RW4gZGVmZW5zYSBwcm9waWE=
-#EXTINF:0,[COLOR lime]Espíritu de conquista [/COLOR][COLOR tomato](HD)[/COLOR]
+#EXTINF:0,[COLOR lime]Espíritu de conquista [/COLOR][COLOR skyblue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&peli=pI-ka2icdw==&id=34896&tit=RXNww61yaXR1IGRlIGNvbnF1aXN0YQ==
-#EXTINF:0,[COLOR lime]Fort Apache [/COLOR][COLOR tomato](HD)[/COLOR]
+#EXTINF:0,[COLOR lime]Fort Apache [/COLOR][COLOR skyblue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=44636&peli=qI-kbWye&id=27341&tit=Rm9ydCBBcGFjaGU=
-#EXTINF:0,[COLOR lime]Gritos de muerte [/COLOR][COLOR tomato](HD)[/COLOR]
+#EXTINF:0,[COLOR lime]Gritos de muerte [/COLOR][COLOR skyblue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=81180&peli=pIqscGebdg==&id=31052&tit=R3JpdG9zIGRlIG11ZXJ0ZQ==
-#EXTINF:0,[COLOR lime]Hasta que llegó su hora [/COLOR][COLOR tomato](HD)[/COLOR]
+#EXTINF:0,[COLOR lime]Hasta que llegó su hora [/COLOR][COLOR skyblue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=85562&peli=pI6nbG6Zdg==&id=31431&tit=SGFzdGEgcXVlIGxsZWfDsyBzdSBob3Jh
-#EXTINF:0,[COLOR lime]Infierno de cobardes [/COLOR][COLOR tomato](HD)[/COLOR]
+#EXTINF:0,[COLOR lime]Infierno de cobardes [/COLOR][COLOR skyblue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=vsjWmWigeok=&cole=53520&peli=qI-kam2X&id=8639&tit=SW5maWVybm8gZGUgY29iYXJkZXM=
-#EXTINF:0,[COLOR lime]Jonah Hex [/COLOR][COLOR tomato](HD)[/COLOR]
+#EXTINF:0,[COLOR lime]Jonah Hex [/COLOR][COLOR skyblue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=85562&peli=pI2obG-XeA==&id=31433&tit=Sm9uYWggSGV4
-#EXTINF:0,[COLOR lime]La carga de los indios Sioux [/COLOR][COLOR tomato](HD)[/COLOR]
+#EXTINF:0,[COLOR lime]La carga de los indios Sioux [/COLOR][COLOR skyblue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=4brmnZvW&cole=19889&peli=qIyramia&id=34768&tit=TGEgY2FyZ2EgZGUgbG9zIGluZGlvcyBTaW91eA==
-#EXTINF:0,[COLOR lime]La conquista del Oeste [/COLOR][COLOR tomato](HD)[/COLOR]
+#EXTINF:0,[COLOR lime]La conquista del Oeste [/COLOR][COLOR skyblue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=106222&peli=pI-oaGyccw==&id=35920&tit=TGEgY29ucXVpc3RhIGRlbCBPZXN0ZQ==
-#EXTINF:0,[COLOR lime]La legión invencible [/COLOR][COLOR tomato](HD)[/COLOR]
+#EXTINF:0,[COLOR lime]La legión invencible [/COLOR][COLOR skyblue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=4LrssJrV&cole=49117&peli=qY2raGeg&id=5784&tit=TGEgbGVnacOzbiBpbnZlbmNpYmxl
-#EXTINF:0,[COLOR lime]La leyenda de la ciudad sin nombre [/COLOR][COLOR tomato](HD)[/COLOR]
+#EXTINF:0,[COLOR lime]La leyenda de la ciudad sin nombre [/COLOR][COLOR skyblue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=49050&peli=qpKsamiY&id=34121&tit=TGEgbGV5ZW5kYSBkZSBsYSBjaXVkYWQgc2luIG5vbWJyZQ==
-#EXTINF:0,[COLOR lime]La muerte tenía un precio [/COLOR][COLOR tomato](HD)[/COLOR]
+#EXTINF:0,[COLOR lime]La muerte tenía un precio [/COLOR][COLOR skyblue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=3cbg&cole=25581&peli=qYulbWyc&id=31434&tit=TGEgbXVlcnRlIHRlbsOtYSB1biBwcmVjaW8=
-#EXTINF:0,[COLOR lime]La venganza de Jane [/COLOR][COLOR tomato](HD)[/COLOR]
+#EXTINF:0,[COLOR lime]La venganza de Jane [/COLOR][COLOR skyblue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=81403&peli=pI2qcG6XcQ==&id=31877&tit=TGEgdmVuZ2FuemEgZGUgSmFuZQ==
-#EXTINF:0,[COLOR lime]Le llamaban Trinidad [/COLOR][COLOR tomato](HD)[/COLOR]
+#EXTINF:0,[COLOR lime]Le llamaban Trinidad [/COLOR][COLOR skyblue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=85562&peli=pI6nbmifdw==&id=31435&tit=TGUgbGxhbWFiYW4gVHJpbmlkYWQ=
-#EXTINF:0,[COLOR lime]Le seguían llamando Trinidad [/COLOR][COLOR tomato](HD)[/COLOR]
+#EXTINF:0,[COLOR lime]Le seguían llamando Trinidad [/COLOR][COLOR skyblue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=85562&peli=pIuncG2feg==&id=31436&tit=TGUgc2VndcOtYW4gbGxhbWFuZG8gVHJpbmlkYWQ=
-#EXTINF:0,[COLOR lime]Los cuatro hijos de Katie Elder [/COLOR][COLOR tomato](HD)[/COLOR]
+#EXTINF:0,[COLOR lime]Los cuatro hijos de Katie Elder [/COLOR][COLOR skyblue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=85562&peli=pI6nbmigcQ==&id=31438&tit=TG9zIGN1YXRybyBoaWpvcyBkZSBLYXRpZSBFbGRlcg==
-#EXTINF:0,[COLOR lime]Los cuatro implacables [/COLOR][COLOR tomato](HD)[/COLOR]
+#EXTINF:0,[COLOR lime]Los cuatro implacables [/COLOR][COLOR skyblue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=4brmnZvW&cole=19889&peli=qIyscWiZ&id=34788&tit=TG9zIGN1YXRybyBpbXBsYWNhYmxlcw==
-#EXTINF:0,[COLOR lime]Los forajidos de Río Bravo [/COLOR][COLOR tomato](HD)[/COLOR]
+#EXTINF:0,[COLOR lime]Los forajidos de Río Bravo [/COLOR][COLOR skyblue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=85562&peli=pI2scHCXeA==&id=33238&tit=TG9zIGZvcmFqaWRvcyBkZSBSw61vIEJyYXZv
+#EXTINF:0,[COLOR red]Los odiosos ocho [/COLOR][COLOR skyblue](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=tqLCfZvMg5bGdKQ=&cole=84780&peli=pIuna2yYeQ==&id=33303&tit=TG9zIG9kaW9zb3Mgb2Nobw==
+#EXTINF:0,[COLOR red]Los olvidados [/COLOR][COLOR skyblue](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=3cbg&cole=25581&peli=pY6samqZ&id=5659&tit=TG9zIG9sdmlkYWRvcw==
+#EXTINF:0,[COLOR red]Los siete magníficos [/COLOR][COLOR skyblue](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=vsjWmWigeok=&cole=94060&peli=pI2namueeA==&id=8646&tit=TG9zIHNpZXRlIG1hZ27DrWZpY29z
+#EXTINF:0,[COLOR red]Los siete magníficos [/COLOR][COLOR skyblue](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=42775&peli=qYykaGuY&id=29328&tit=TG9zIHNpZXRlIG1hZ27DrWZpY29z
+#EXTINF:0,[COLOR red]Más muerto que vivo [/COLOR][COLOR skyblue](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=4brmnZvW&cole=19889&peli=q4mrbm6d&id=34796&tit=TcOhcyBtdWVydG8gcXVlIHZpdm8=
+#EXTINF:0,[COLOR red]Mayor Dundee [/COLOR][COLOR skyblue](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=81403&peli=pI2nbGuYdw==&id=30793&tit=TWF5b3IgRHVuZGVl
+#EXTINF:0,[COLOR red]McQuade, lobo solitario [/COLOR][COLOR skyblue](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=85564&peli=pIykbWiaeA==&id=31413&tit=TWNRdWFkZSwgbG9ibyBzb2xpdGFyaW8=
+#EXTINF:0,[COLOR red]Mil maneras de morder el polvo [/COLOR][COLOR skyblue](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=85447&peli=pIyma2egdA==&id=31491&tit=TWlsIG1hbmVyYXMgZGUgbW9yZGVyIGVsIHBvbHZv
+#EXTINF:0,[COLOR red]Murieron con las botas puestas [/COLOR][COLOR skyblue](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&peli=pI-kcWmXcQ==&id=2783&tit=TXVyaWVyb24gY29uIGxhcyBib3RhcyBwdWVzdGFz
+#EXTINF:0,[COLOR red]Nevada Express [/COLOR][COLOR skyblue](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&peli=pI6rcW2gcw==&id=34560&tit=TmV2YWRhIEV4cHJlc3M=
+#EXTINF:0,[COLOR red]Oklahoma! [/COLOR][COLOR skyblue](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=4brmnZvW&cole=19889&peli=q4mrbm6g&id=34806&tit=T2tsYWhvbWEh
+#EXTINF:0,[COLOR red]Open Range [/COLOR][COLOR skyblue](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=85562&peli=pI6nbmmZdg==&id=28929&tit=T3BlbiBSYW5nZQ==
+#EXTINF:0,[COLOR red]Por un puñado de dólares [/COLOR][COLOR skyblue](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=85562&peli=pIuncG6ceA==&id=31442&tit=UG9yIHVuIHB1w7FhZG8gZGUgZMOzbGFyZXM=
+#EXTINF:0,[COLOR red]Regreso al futuro III [/COLOR][COLOR skyblue](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3brnoKfco8Hd&cole=53881&peli=qoupcG2e&id=12384&tit=UmVncmVzbyBhbCBmdXR1cm8gSUlJ
+#EXTINF:0,[COLOR red]Río Bravo [/COLOR][COLOR skyblue](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=85562&peli=pIuncG-ddw==&id=31443&tit=UsOtbyBCcmF2bw==
+#EXTINF:0,[COLOR red]Río Grande [/COLOR][COLOR skyblue](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2cvVpqLQpsXZntPb4cDZpKPQ&cole=41656&peli=p5KlaG-g&id=5786&tit=UsOtbyBHcmFuZGU=
+#EXTINF:0,[COLOR red]Río Grande [/COLOR][COLOR skyblue](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=45847&peli=qI-naW6X&id=27399&tit=UsOtbyBHcmFuZGU=
+#EXTINF:0,[COLOR red]Río Lobo [/COLOR][COLOR skyblue](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=85562&peli=pIuoaGibeg==&id=31444&tit=UsOtbyBMb2Jv
+#EXTINF:0,[COLOR red]Río sin retorno [/COLOR][COLOR skyblue](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=4LrssJrV&cole=49117&peli=qY2qamuX&id=29525&tit=UsOtbyBzaW4gcmV0b3Jubw==
+#EXTINF:0,[COLOR red]Scooby-Doo! Duelo en el viejo oeste [/COLOR][COLOR skyblue](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=94361&peli=pI2ta2qddg==&id=32858&tit=U2Nvb2J5LURvbyEgRHVlbG8gZW4gZWwgdmllam8gb2VzdGU=
+#EXTINF:0,[COLOR red]Sheriff, hora H [/COLOR][COLOR skyblue](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=4brmnZvW&cole=19889&peli=q4mrbmuc&id=34774&tit=U2hlcmlmZiwgaG9yYSBI
+#EXTINF:0,[COLOR red]Sillas de montar calientes [/COLOR][COLOR skyblue](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=81403&peli=pI2qb2yfcg==&id=31870&tit=U2lsbGFzIGRlIG1vbnRhciBjYWxpZW50ZXM=
+#EXTINF:0,[COLOR red]Silverado [/COLOR][COLOR skyblue](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MvhnaHWsw==&cole=29815&peli=poqpaXCY&id=30449&tit=U2lsdmVyYWRv
+#EXTINF:0,[COLOR red]Sin perdón [/COLOR][COLOR skyblue](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=3cbg&cole=25581&peli=qY-saWee&id=31446&tit=U2luIHBlcmTDs24=
+#EXTINF:0,[COLOR red]Sol rojo [/COLOR][COLOR skyblue](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=85562&peli=pIuoaGibdg==&id=31447&tit=U29sIHJvam8=
+#EXTINF:0,[COLOR red]Solo ante el peligro [/COLOR][COLOR skyblue](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=106222&peli=pI-oaWmgdQ==&id=35933&tit=U29sbyBhbnRlIGVsIHBlbGlncm8=
+#EXTINF:0,[COLOR red]Sombras en el rancho [/COLOR][COLOR skyblue](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=41773&peli=p5GnaGqZ&id=4858&tit=U29tYnJhcyBlbiBlbCByYW5jaG8=
+#EXTINF:0,[COLOR red]Tambores lejanos [/COLOR][COLOR skyblue](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=49050&peli=qpKlaGue&id=34020&tit=VGFtYm9yZXMgbGVqYW5vcw==
+#EXTINF:0,[COLOR red]Tombstone: la leyenda de Wyatt Earp [/COLOR][COLOR skyblue](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=85562&peli=pI6nbGuXdw==&id=34166&tit=VG9tYnN0b25lOiBsYSBsZXllbmRhIGRlIFd5YXR0IEVhcnA=
+#EXTINF:0,[COLOR red]Tres amigos [/COLOR][COLOR skyblue](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=85447&peli=pIynaWeedQ==&id=31496&tit=VHJlcyBhbWlnb3M=
+#EXTINF:0,[COLOR red]Tres padrinos [/COLOR][COLOR skyblue](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=4LrssJrV&cole=49117&peli=qY2raGiX&id=29545&tit=VHJlcyBwYWRyaW5vcw==
+#EXTINF:0,[COLOR red]Un hombre [/COLOR][COLOR skyblue](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=42775&peli=qYylcGib&id=29345&tit=VW4gaG9tYnJl
+#EXTINF:0,[COLOR red]Un hombre llamado Caballo [/COLOR][COLOR skyblue](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=4LrssJrV&cole=49117&peli=qY6na2mc&id=29632&tit=VW4gaG9tYnJlIGxsYW1hZG8gQ2FiYWxsbw==
+#EXTINF:0,[COLOR red]Un horizonte muy lejano [/COLOR][COLOR skyblue](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=48149&peli=qpGlaGeY&id=33501&tit=VW4gaG9yaXpvbnRlIG11eSBsZWphbm8=
+#EXTINF:0,[COLOR red]Valor de ley [/COLOR][COLOR skyblue](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=81403&peli=pI2scHCXdw==&id=32495&tit=VmFsb3IgZGUgbGV5
+#EXTINF:0,[COLOR red]Vampiros de John Carpenter [/COLOR][COLOR skyblue](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=81180&peli=pIqmbmydcg==&id=31101&tit=VmFtcGlyb3MgZGUgSm9obiBDYXJwZW50ZXI=
+#EXTINF:0,[COLOR red]¡Agáchate, maldito! [/COLOR][COLOR skyblue](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=85562&peli=pIuncGiadA==&id=4319&tit=wqFBZ8OhY2hhdGUsIG1hbGRpdG8h
 
 
 
