@@ -3,7 +3,7 @@
 <items>
 	
 <item>
-<title>PELICULAS DIABLO</title>
+<title>*PELICULAS DIABLO</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -86,7 +86,7 @@
 <items>
 	
 <item>
-<title> [COLOR red]*DIABLO [/COLOR] [COLOR skyblue] 1990**[/COLOR] [COLOR yellow]2016 [/COLOR]</title>
+<title>[COLOR red]*DIABLO [/COLOR] [COLOR skyblue] 1990**[/COLOR] [COLOR yellow]2016 [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
