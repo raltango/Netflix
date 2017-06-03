@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+<item>
+   <title>[COLOR red] DRAGON BALLZ [/COLOR][COLOR red] SAGA BUU[/COLOR]</title>
+<fanart>https://img.yescdn.ru/2016/02/14/poster/808ed14a34616c728087509599c6e86c-dragon-ball-z-kai-season-4.jpg</fanart>
+<thumbnail>https://img.yescdn.ru/2016/02/14/poster/808ed14a34616c728087509599c6e86c-dragon-ball-z-kai-season-4.jpg</thumbnail>
+   	<genre>
+
+
+<link>$doregex[makelist]</link>
+<regex>
+      <name>makelist</name>
+      <listrepeat><![CDATA[
+               <title>[B][COLOR red] DIABLO[/COLOR] [COLOR blue][makelist.param0][/COLOR][/B]</title>
+               <link>$doregex[finalURL]</link>
+<fanart>https://img.yescdn.ru/2016/02/14/poster/808ed14a34616c728087509599c6e86c-dragon-ball-z-kai-season-4.jpg</fanart>
+<thumbnail>https://img.yescdn.ru/2016/02/14/poster/808ed14a34616c728087509599c6e86c-dragon-ball-z-kai-season-4.jpg</thumbnail>
+      ]]></listrepeat>
+      <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
+      <page>http://diskokosmiko.mx/SeriesHD/07-dragon-ball-z-saga-de-buu-38288/list,1,3</page>
+      <cookieJar></cookieJar>
+</regex>
+<regex>
+      <name>finalURL</name>
+      <expres>Url":"(.*?)"</expres>
+      <page>http://diskokosmiko.mx/[makelist.param2]</page>
+      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=[makelist.param3]</rawpost>
+      <referer>http://diskokosmiko.mx/</referer>
+      <x-req>XMLHttpRequest</x-req>
+      <cookiejar></cookiejar>
+</regex>	
+</item>
