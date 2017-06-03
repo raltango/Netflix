@@ -1,130 +1,161 @@
 #EXTM3U
  
  
-#EXTINF:0,[COLOR tomato]              * CINE[/COLOR][COLOR cyan] DIABLO [/COLOR] [COLOR white] CINE TERROR [/COLOR]
+#EXTINF:0,[COLOR skyblue]              * CINE[/COLOR][COLOR cyan] DIABLO [/COLOR] [COLOR white] CINE TERROR [/COLOR]
 
-#EXTINF:0,[COLOR tomato]*DIABLO [/COLOR][COLOR lime]13 fantasmas [/COLOR][COLOR lime](HD)[/COLOR]
+#EXTINF:0,[COLOR skyblue]*DIABLO [/COLOR][COLOR lime]13 fantasmas [/COLOR][COLOR lime](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=81180&peli=pIqmbG2geQ==&id=31014&tit=MTMgZmFudGFzbWFz
-#EXTINF:0,[COLOR tomato]*DIABLO [/COLOR][COLOR lime]28 días después [/COLOR][COLOR lime](HD)[/COLOR]
+#EXTINF:0,[COLOR skyblue]*DIABLO [/COLOR][COLOR lime]28 días después [/COLOR][COLOR lime](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=80526&peli=pIqkb2eZeQ==&id=31761&tit=MjggZMOtYXMgZGVzcHXDqXM=
-#EXTINF:0,[COLOR tomato]*DIABLO [/COLOR][COLOR lime]28 semanas después [/COLOR][COLOR lime](HD)[/COLOR]
+#EXTINF:0,[COLOR skyblue]*DIABLO [/COLOR][COLOR lime]28 semanas después [/COLOR][COLOR lime](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=vrrmpJjLhA==&cole=58737&peli=qYyobm6Z&id=10068&tit=Mjggc2VtYW5hcyBkZXNwdcOpcw==
-#EXTINF:0,[COLOR tomato]*DIABLO [/COLOR][COLOR lime]Abbott y Costello contra los fantasmas [/COLOR][COLOR lime](HD)[/COLOR]
+#EXTINF:0,[COLOR skyblue]*DIABLO [/COLOR][COLOR lime]Abbott y Costello contra los fantasmas [/COLOR][COLOR lime](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=44636&peli=qI2na22d&id=23115&tit=QWJib3R0IHkgQ29zdGVsbG8gY29udHJhIGxvcyBmYW50YXNtYXM=
-#EXTINF:0,[COLOR tomato]*DIABLO [/COLOR][COLOR lime]Abierto hasta el amanecer [/COLOR][COLOR lime](HD)[/COLOR]
+#EXTINF:0,[COLOR skyblue]*DIABLO [/COLOR][COLOR lime]Abierto hasta el amanecer [/COLOR][COLOR lime](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=81403&peli=pI2qcG-bdQ==&id=31879&tit=QWJpZXJ0byBoYXN0YSBlbCBhbWFuZWNlcg==
-#EXTINF:0,[COLOR tomato]*DIABLO [/COLOR][COLOR lime]Abierto hasta el amanecer 2: Texas Blood Money [/COLOR][COLOR lime](HD)[/COLOR]
+#EXTINF:0,[COLOR skyblue]*DIABLO [/COLOR][COLOR lime]Abierto hasta el amanecer 2: Texas Blood Money [/COLOR][COLOR lime](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=vrrmpJjLhA==&cole=58737&peli=qY6oaGue&id=33356&tit=QWJpZXJ0byBoYXN0YSBlbCBhbWFuZWNlciAyOiBUZXhhcyBCbG9vZCBNb25leQ==
-#EXTINF:0,[COLOR tomato]*DIABLO [/COLOR][COLOR lime]Abierto hasta el amanecer 3: La hija del verdugo [/COLOR][COLOR lime](HD)[/COLOR]
+#EXTINF:0,[COLOR skyblue]*DIABLO [/COLOR][COLOR lime]Abierto hasta el amanecer 3: La hija del verdugo [/COLOR][COLOR lime](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=81403&peli=pI2raGeceg==&id=31889&tit=QWJpZXJ0byBoYXN0YSBlbCBhbWFuZWNlciAzOiBMYSBoaWphIGRlbCB2ZXJkdWdv
-#EXTINF:0,[COLOR tomato]*DIABLO [/COLOR][COLOR lime]Alguien mueve los hilos [/COLOR][COLOR lime](HD)[/COLOR]
+#EXTINF:0,[COLOR skyblue]*DIABLO [/COLOR][COLOR lime]Alguien mueve los hilos [/COLOR][COLOR lime](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=49050&peli=qpKlaXCa&id=34023&tit=QWxndWllbiBtdWV2ZSBsb3MgaGlsb3M=
-#EXTINF:0,[COLOR tomato]*DIABLO [/COLOR][COLOR lime]Alien 3 (Alien³) [/COLOR][COLOR lime](HD)[/COLOR]
+#EXTINF:0,[COLOR skyblue]*DIABLO [/COLOR][COLOR lime]Alien 3 (Alien³) [/COLOR][COLOR lime](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87321&peli=pIupb2qfcQ==&id=31327&tit=QWxpZW4gMyAoQWxpZW7Csyk=
-#EXTINF:0,[COLOR tomato]*DIABLO [/COLOR][COLOR lime]Alien Raiders [/COLOR][COLOR lime](HD)[/COLOR]
+#EXTINF:0,[COLOR skyblue]*DIABLO [/COLOR][COLOR lime]Alien Raiders [/COLOR][COLOR lime](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=81180&peli=pIusbm2XeQ==&id=31016&tit=QWxpZW4gUmFpZGVycw==
-#EXTINF:0,[COLOR tomato]*DIABLO [/COLOR][COLOR lime]Alien vs. Predator [/COLOR][COLOR lime](HD)[/COLOR]
+#EXTINF:0,[COLOR skyblue]*DIABLO [/COLOR][COLOR lime]Alien vs. Predator [/COLOR][COLOR lime](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87322&peli=pIupcXCgeg==&id=31323&tit=QWxpZW4gdnMuIFByZWRhdG9y
-#EXTINF:0,[COLOR tomato]*DIABLO [/COLOR][COLOR lime]Alien vs. Predator 2 [/COLOR][COLOR lime](HD)[/COLOR]
+#EXTINF:0,[COLOR skyblue]*DIABLO [/COLOR][COLOR lime]Alien vs. Predator 2 [/COLOR][COLOR lime](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=vsjWmWigeok=&cole=42199&peli=po-rbGuf&id=8807&tit=QWxpZW4gdnMuIFByZWRhdG9yIDI=
-#EXTINF:0,[COLOR tomato]*DIABLO [/COLOR][COLOR lime]Alien, el octavo pasajero [/COLOR][COLOR lime](HD)[/COLOR]
+#EXTINF:0,[COLOR skyblue]*DIABLO [/COLOR][COLOR lime]Alien, el octavo pasajero [/COLOR][COLOR lime](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87321&peli=pIupb2ydeg==&id=31325&tit=QWxpZW4sIGVsIG9jdGF2byBwYXNhamVybw==
-#EXTINF:0,[COLOR tomato]*DIABLO [/COLOR][COLOR lime]Alien: Resurrección [/COLOR][COLOR lime](HD)[/COLOR]
+#EXTINF:0,[COLOR skyblue]*DIABLO [/COLOR][COLOR lime]Alien: Resurrección [/COLOR][COLOR lime](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87321&peli=pIupcHCddQ==&id=31328&tit=QWxpZW46IFJlc3VycmVjY2nDs24=
-#EXTINF:0,[COLOR tomato]*DIABLO [/COLOR][COLOR lime]Amanecer de los muertos [/COLOR][COLOR lime](HD)[/COLOR]
+#EXTINF:0,[COLOR skyblue]*DIABLO [/COLOR][COLOR lime]Amanecer de los muertos [/COLOR][COLOR lime](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=3cbg&cole=25581&peli=pY6tbmua&id=5611&tit=QW1hbmVjZXIgZGUgbG9zIG11ZXJ0b3M=
-#EXTINF:0,[COLOR tomato]*DIABLO [/COLOR][COLOR lime]Amor zombie [/COLOR][COLOR lime](HD)[/COLOR]
+#EXTINF:0,[COLOR skyblue]*DIABLO [/COLOR][COLOR lime]Amor zombie [/COLOR][COLOR lime](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&peli=pI-kcG6acw==&id=34993&tit=QW1vciB6b21iaWU=
-#EXTINF:0,[COLOR tomato]*DIABLO [/COLOR][COLOR lime]Anabel [/COLOR][COLOR lime](HD)[/COLOR]
+#EXTINF:0,[COLOR skyblue]*DIABLO [/COLOR][COLOR lime]Anabel [/COLOR][COLOR lime](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=vrrmpJjLhA==&cole=58737&peli=pImsbWeZdg==&id=10084&tit=QW5hYmVs
-#EXTINF:0,[COLOR tomato]*DIABLO [/COLOR][COLOR lime]Anaconda [/COLOR][COLOR lime](HD)[/COLOR]
+#EXTINF:0,[COLOR skyblue]*DIABLO [/COLOR][COLOR lime]Anaconda [/COLOR][COLOR lime](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=3bzYoZzhsw==&cole=39990&peli=p46pa2iY&id=13351&tit=QW5hY29uZGE=
-#EXTINF:0,[COLOR tomato]*DIABLO [/COLOR][COLOR lime]Anarchy: La noche de las bestias [/COLOR][COLOR lime](HD)[/COLOR]
+#EXTINF:0,[COLOR skyblue]*DIABLO [/COLOR][COLOR lime]Anarchy: La noche de las bestias [/COLOR][COLOR lime](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=81910&peli=pIqnaW2fdw==&id=31615&tit=QW5hcmNoeTogTGEgbm9jaGUgZGUgbGFzIGJlc3RpYXM=
-#EXTINF:0,[COLOR tomato]*DIABLO [/COLOR][COLOR lime]Annabelle [/COLOR][COLOR lime](HD)[/COLOR]
+#EXTINF:0,[COLOR skyblue]*DIABLO [/COLOR][COLOR lime]Annabelle [/COLOR][COLOR lime](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=81180&peli=pIqlcWmYcQ==&id=31018&tit=QW5uYWJlbGxl
-#EXTINF:0,[COLOR tomato]*DIABLO [/COLOR][COLOR lime]Another Heaven: La puerta del Infierno [/COLOR][COLOR lime](HD)[/COLOR]
+#EXTINF:0,[COLOR skyblue]*DIABLO [/COLOR][COLOR lime]Another Heaven: La puerta del Infierno [/COLOR][COLOR lime](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&peli=pI-ncGqgdQ==&id=35888&tit=QW5vdGhlciBIZWF2ZW46IExhIHB1ZXJ0YSBkZWwgSW5maWVybm8=
-#EXTINF:0,[COLOR tomato]*DIABLO [/COLOR][COLOR lime]Apollo 18 [/COLOR][COLOR lime](HD)[/COLOR]
+#EXTINF:0,[COLOR skyblue]*DIABLO [/COLOR][COLOR lime]Apollo 18 [/COLOR][COLOR lime](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=2MvhnaHWsw==&cole=29815&peli=qYqqb2yg&id=30208&tit=QXBvbGxvIDE4
-#EXTINF:0,[COLOR tomato]*DIABLO [/COLOR][COLOR lime]Aracnofobia [/COLOR][COLOR lime](HD)[/COLOR]
+#EXTINF:0,[COLOR skyblue]*DIABLO [/COLOR][COLOR lime]Aracnofobia [/COLOR][COLOR lime](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=42683&peli=qIqtcHCY&id=13523&tit=QXJhY25vZm9iaWE=
-#EXTINF:0,[COLOR tomato]*DIABLO [/COLOR][COLOR lime]Área de descanso [/COLOR][COLOR lime](HD)[/COLOR]
+#EXTINF:0,[COLOR skyblue]*DIABLO [/COLOR][COLOR lime]Área de descanso [/COLOR][COLOR lime](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=89358&peli=pIykcGueeA==&id=31130&tit=w4FyZWEgZGUgZGVzY2Fuc28=
-#EXTINF:0,[COLOR tomato]*DIABLO [/COLOR][COLOR lime]Área de descanso 2: No mires atrás [/COLOR][COLOR lime](HD)[/COLOR]
+#EXTINF:0,[COLOR skyblue]*DIABLO [/COLOR][COLOR lime]Área de descanso 2: No mires atrás [/COLOR][COLOR lime](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=89358&peli=pIykcGuedA==&id=31131&tit=w4FyZWEgZGUgZGVzY2Fuc28gMjogTm8gbWlyZXMgYXRyw6Fz
-#EXTINF:0,[COLOR tomato]*DIABLO [/COLOR][COLOR lime]Arrástrame al infierno [/COLOR][COLOR lime](HD)[/COLOR]
+#EXTINF:0,[COLOR skyblue]*DIABLO [/COLOR][COLOR lime]Arrástrame al infierno [/COLOR][COLOR lime](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=81180&peli=pIqlcWmYcw==&id=31019&tit=QXJyw6FzdHJhbWUgYWwgaW5maWVybm8=
-#EXTINF:0,[COLOR tomato]*DIABLO [/COLOR][COLOR lime]Ataúd blanco: El juego diabólico [/COLOR][COLOR lime](HD)[/COLOR]
+#EXTINF:0,[COLOR skyblue]*DIABLO [/COLOR][COLOR lime]Ataúd blanco: El juego diabólico [/COLOR][COLOR lime](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=81403&peli=pI6mbm6ceQ==&id=33181&tit=QXRhw7pkIGJsYW5jbzogRWwganVlZ28gZGlhYsOzbGljbw==
-#EXTINF:0,[COLOR tomato]*DIABLO [/COLOR][COLOR lime]Attack The Block [/COLOR][COLOR lime](HD)[/COLOR]
+#EXTINF:0,[COLOR skyblue]*DIABLO [/COLOR][COLOR lime]Attack The Block [/COLOR][COLOR lime](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=42775&peli=qYylaG-X&id=29342&tit=QXR0YWNrIFRoZSBCbG9jaw==
-#EXTINF:0,[COLOR tomato]*DIABLO [/COLOR][COLOR lime]Audition [/COLOR][COLOR lime](HD)[/COLOR]
+#EXTINF:0,[COLOR skyblue]*DIABLO [/COLOR][COLOR lime]Audition [/COLOR][COLOR lime](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=106222&peli=pI-oaGqadg==&id=35916&tit=QXVkaXRpb24=
-#EXTINF:0,[COLOR tomato]*DIABLO [/COLOR][COLOR lime]Aún sé lo que hicisteis el último verano [/COLOR][COLOR lime](HD)[/COLOR]
+#EXTINF:0,[COLOR skyblue]*DIABLO [/COLOR][COLOR lime]Aún sé lo que hicisteis el último verano [/COLOR][COLOR lime](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=84230&peli=pIuoa2mgeg==&id=31599&tit=QcO6biBzw6kgbG8gcXVlIGhpY2lzdGVpcyBlbCDDumx0aW1vIHZlcmFubw==
-#EXTINF:0,[COLOR tomato]*DIABLO [/COLOR][COLOR lime]Autopista al infierno [/COLOR][COLOR lime](HD)[/COLOR]
+#EXTINF:0,[COLOR skyblue]*DIABLO [/COLOR][COLOR lime]Autopista al infierno [/COLOR][COLOR lime](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=81403&peli=pI2taGqgcQ==&id=32505&tit=QXV0b3Bpc3RhIGFsIGluZmllcm5v
-#EXTINF:0,[COLOR tomato]*DIABLO [/COLOR][COLOR lime]Babadook [/COLOR][COLOR lime](HD)[/COLOR]
+#EXTINF:0,[COLOR skyblue]*DIABLO [/COLOR][COLOR lime]Babadook [/COLOR][COLOR lime](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=2MvhnaHWsw==&cole=29815&peli=po6paHCg&id=4126&tit=QmFiYWRvb2s=
-#EXTINF:0,[COLOR tomato]*DIABLO [/COLOR][COLOR lime]Cuidado con Slenderman [/COLOR][COLOR lime](HD)[/COLOR]
+#EXTINF:0,[COLOR skyblue]*DIABLO [/COLOR][COLOR lime]Cuidado con Slenderman [/COLOR][COLOR lime](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=94361&peli=pI2ob2mgeg==&id=30963&tit=Q3VpZGFkbyBjb24gU2xlbmRlcm1hbg==
-#EXTINF:0,[COLOR tomato]*DIABLO [/COLOR][COLOR lime]Bienvenidos a Zombieland [/COLOR][COLOR lime](HD)[/COLOR]
+#EXTINF:0,[COLOR skyblue]*DIABLO [/COLOR][COLOR lime]Bienvenidos a Zombieland [/COLOR][COLOR lime](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=vb7qoZjbqbbi&cole=23445&peli=pI2na2ye&id=11107&tit=QmllbnZlbmlkb3MgYSBab21iaWVsYW5k
-#EXTINF:0,[COLOR tomato]*DIABLO [/COLOR][COLOR lime]BloodRayne [/COLOR][COLOR lime](HD)[/COLOR]
+#EXTINF:0,[COLOR skyblue]*DIABLO [/COLOR][COLOR lime]BloodRayne [/COLOR][COLOR lime](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=101963&peli=pI6lbmyccw==&id=33209&tit=Qmxvb2RSYXluZQ==
-#EXTINF:0,[COLOR tomato]*DIABLO [/COLOR][COLOR lime]BloodRayne 2: Deliverance [/COLOR][COLOR lime](HD)[/COLOR]
+#EXTINF:0,[COLOR skyblue]*DIABLO [/COLOR][COLOR lime]BloodRayne 2: Deliverance [/COLOR][COLOR lime](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=101963&peli=pI6lbmycdA==&id=33210&tit=Qmxvb2RSYXluZSAyOiBEZWxpdmVyYW5jZQ==
-#EXTINF:0,[COLOR tomato]*DIABLO [/COLOR][COLOR lime]BloodRayne 3: The Third Reich [/COLOR][COLOR lime](HD)[/COLOR]
+#EXTINF:0,[COLOR skyblue]*DIABLO [/COLOR][COLOR lime]BloodRayne 3: The Third Reich [/COLOR][COLOR lime](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=101963&peli=pI6lbmyccg==&id=33211&tit=Qmxvb2RSYXluZSAzOiBUaGUgVGhpcmQgUmVpY2g=
-#EXTINF:0,[COLOR tomato]*DIABLO [/COLOR][COLOR lime]Bone Tomahawk [/COLOR][COLOR lime](HD)[/COLOR]
+#EXTINF:0,[COLOR skyblue]*DIABLO [/COLOR][COLOR lime]Bone Tomahawk [/COLOR][COLOR lime](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=tqLCfZvMg5bGdKQ=&cole=58248&peli=qomkbW2a&id=33510&tit=Qm9uZSBUb21haGF3aw==
-#EXTINF:0,[COLOR tomato]*DIABLO [/COLOR][COLOR lime]Boogeyman 2 [/COLOR][COLOR lime](HD)[/COLOR]
+#EXTINF:0,[COLOR skyblue]*DIABLO [/COLOR][COLOR lime]Boogeyman 2 [/COLOR][COLOR lime](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=80559&peli=pIqkcHCgcw==&id=31759&tit=Qm9vZ2V5bWFuIDI=
-#EXTINF:0,[COLOR tomato]*DIABLO [/COLOR][COLOR lime]Boogeyman 3 [/COLOR][COLOR lime](HD)[/COLOR]
+#EXTINF:0,[COLOR skyblue]*DIABLO [/COLOR][COLOR lime]Boogeyman 3 [/COLOR][COLOR lime](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=80559&peli=pIqkb2yfdQ==&id=31760&tit=Qm9vZ2V5bWFuIDM=
-#EXTINF:0,[COLOR tomato]*DIABLO [/COLOR][COLOR lime]Boogeyman, la puerta del miedo [/COLOR][COLOR lime](HD)[/COLOR]
+#EXTINF:0,[COLOR skyblue]*DIABLO [/COLOR][COLOR lime]Boogeyman, la puerta del miedo [/COLOR][COLOR lime](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=80559&peli=pIqkcWiedA==&id=31758&tit=Qm9vZ2V5bWFuLCBsYSBwdWVydGEgZGVsIG1pZWRv
-#EXTINF:0,[COLOR tomato] **[/COLOR][COLOR lime]Calle Cloverfield 10 [/COLOR][COLOR lime](HD)[/COLOR]
+#EXTINF:0,[COLOR skyblue] **[/COLOR][COLOR lime]Calle Cloverfield 10 [/COLOR][COLOR lime](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=2MvhnaHWsw==&cole=29815&peli=qYupaG-f&id=29309&tit=Q2FsbGUgQ2xvdmVyZmllbGQgMTA=
-#EXTINF:0,[COLOR tomato] **[/COLOR][COLOR lime]Camino sangriento 3 [/COLOR][COLOR lime](HD)[/COLOR]
+#EXTINF:0,[COLOR skyblue] **[/COLOR][COLOR lime]Camino sangriento 3 [/COLOR][COLOR lime](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=82555&peli=pIqsbnCgeA==&id=31610&tit=Q2FtaW5vIHNhbmdyaWVudG8gMw==
-#EXTINF:0,[COLOR tomato] **[/COLOR][COLOR lime]Camino sangriento 4: El origen [/COLOR][COLOR lime](HD)[/COLOR]
+#EXTINF:0,[COLOR skyblue] **[/COLOR][COLOR lime]Camino sangriento 4: El origen [/COLOR][COLOR lime](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=82555&peli=pIqsb2edcQ==&id=31611&tit=Q2FtaW5vIHNhbmdyaWVudG8gNDogRWwgb3JpZ2Vu
-#EXTINF:0,[COLOR tomato] **[/COLOR][COLOR lime]Camino sangriento 5 [/COLOR][COLOR lime](HD)[/COLOR]
+#EXTINF:0,[COLOR skyblue] **[/COLOR][COLOR lime]Camino sangriento 5 [/COLOR][COLOR lime](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=82555&peli=pIqsbnCgeg==&id=31612&tit=Q2FtaW5vIHNhbmdyaWVudG8gNQ==
-#EXTINF:0,[COLOR tomato] **[/COLOR][COLOR lime]Camino sangriento 6 [/COLOR][COLOR lime](HD)[/COLOR]
+#EXTINF:0,[COLOR skyblue] **[/COLOR][COLOR lime]Camino sangriento 6 [/COLOR][COLOR lime](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=82555&peli=pIqsbnCgeQ==&id=31613&tit=Q2FtaW5vIHNhbmdyaWVudG8gNg==
-#EXTINF:0,[COLOR tomato] **[/COLOR][COLOR lime]Carrera con el diablo [/COLOR][COLOR lime](HD)[/COLOR]
+#EXTINF:0,[COLOR skyblue] **[/COLOR][COLOR lime]Carrera con el diablo [/COLOR][COLOR lime](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=41773&peli=p5Gqa26Z&id=4730&tit=Q2FycmVyYSBjb24gZWwgZGlhYmxv
-#EXTINF:0,[COLOR tomato] **[/COLOR][COLOR lime]Carrie [/COLOR][COLOR lime](HD)[/COLOR]
+#EXTINF:0,[COLOR skyblue] **[/COLOR][COLOR lime]Carrie [/COLOR][COLOR lime](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=2MvhnaHWsw==&cole=29815&peli=qYqsbWmg&id=30218&tit=Q2Fycmll
-#EXTINF:0,[COLOR tomato] **[/COLOR][COLOR lime]Cazador de demonios [/COLOR][COLOR lime](HD)[/COLOR]
+#EXTINF:0,[COLOR skyblue] **[/COLOR][COLOR lime]Cazador de demonios [/COLOR][COLOR lime](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=81180&peli=pI6na22edw==&id=31022&tit=Q2F6YWRvciBkZSBkZW1vbmlvcw==
-#EXTINF:0,[COLOR tomato] **[/COLOR][COLOR lime]Cazador de demonios [/COLOR][COLOR lime](HD)[/COLOR]
+#EXTINF:0,[COLOR skyblue] **[/COLOR][COLOR lime]Cazador de demonios [/COLOR][COLOR lime](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=49050&peli=qo-qcG6g&id=33192&tit=Q2F6YWRvciBkZSBkZW1vbmlvcw==
-#EXTINF:0,[COLOR tomato] **[/COLOR][COLOR lime]Celda 213 [/COLOR][COLOR lime](HD)[/COLOR]
+#EXTINF:0,[COLOR skyblue] **[/COLOR][COLOR lime]Celda 213 [/COLOR][COLOR lime](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=81403&peli=pI2mamyccg==&id=30647&tit=Q2VsZGEgMjEz
-#EXTINF:0,[COLOR tomato] **[/COLOR][COLOR lime]Cell [/COLOR][COLOR lime](HD)[/COLOR]
+#EXTINF:0,[COLOR skyblue] **[/COLOR][COLOR lime]Cell [/COLOR][COLOR lime](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=81180&peli=pIqlcWmcdg==&id=31023&tit=Q2VsbA==
-#EXTINF:0,[COLOR tomato] **[/COLOR][COLOR lime]Christine [/COLOR][COLOR lime](HD)[/COLOR]
+#EXTINF:0,[COLOR skyblue] **[/COLOR][COLOR lime]Christine [/COLOR][COLOR lime](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=49050&peli=qpGsam-c&id=33996&tit=Q2hyaXN0aW5l
-#EXTINF:0,[COLOR tomato] **[/COLOR][COLOR lime]Cottage Country [/COLOR][COLOR lime](HD)[/COLOR]
+#EXTINF:0,[COLOR skyblue] **[/COLOR][COLOR lime]Cottage Country [/COLOR][COLOR lime](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=4LrssJrV&cole=48961&peli=qY-lcGeZ&id=29688&tit=Q290dGFnZSBDb3VudHJ5
-#EXTINF:0,[COLOR tomato] **[/COLOR][COLOR lime]Critters [/COLOR][COLOR lime](HD)[/COLOR]
+#EXTINF:0,[COLOR skyblue] **[/COLOR][COLOR lime]Critters [/COLOR][COLOR lime](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=vsjWmWigeok=&cole=55908&peli=qJGnaWqa&id=7893&tit=Q3JpdHRlcnM=
-#EXTINF:0,[COLOR tomato] **[/COLOR][COLOR lime]Critters 2 [/COLOR][COLOR lime](HD)[/COLOR]
+#EXTINF:0,[COLOR skyblue] **[/COLOR][COLOR lime]Critters 2 [/COLOR][COLOR lime](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&peli=pI6saGyXeA==&id=34568&tit=Q3JpdHRlcnMgMg==
-#EXTINF:0,[COLOR tomato] **[/COLOR][COLOR lime]Critters 3 [/COLOR][COLOR lime](HD)[/COLOR]
+#EXTINF:0,[COLOR skyblue] **[/COLOR][COLOR lime]Critters 3 [/COLOR][COLOR lime](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&peli=pI6saGmXdg==&id=34564&tit=Q3JpdHRlcnMgMw==
-#EXTINF:0,[COLOR tomato] **[/COLOR][COLOR lime]Critters 4 [/COLOR][COLOR lime](HD)[/COLOR]
+#EXTINF:0,[COLOR skyblue] **[/COLOR][COLOR lime]Critters 4 [/COLOR][COLOR lime](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&peli=pI6saGyXeQ==&id=34569&tit=Q3JpdHRlcnMgNA==
-#EXTINF:0,[COLOR tomato] **[/COLOR][COLOR lime]Crónicas mutantes [/COLOR][COLOR lime](HD)[/COLOR]
+#EXTINF:0,[COLOR skyblue] **[/COLOR][COLOR lime]Crónicas mutantes [/COLOR][COLOR lime](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=81180&peli=pI2kam-eeg==&id=29880&tit=Q3LDs25pY2FzIG11dGFudGVz
-#EXTINF:0,[COLOR tomato] **[/COLOR][COLOR lime]Cujo [/COLOR][COLOR lime](HD)[/COLOR]
+#EXTINF:0,[COLOR skyblue] **[/COLOR][COLOR lime]Cujo [/COLOR][COLOR lime](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=81403&peli=pI2mbGqfcQ==&id=12279&tit=Q3Vqbw==
-#EXTINF:0,[COLOR tomato] **[/COLOR][COLOR lime]Dark water (La huella) [/COLOR][COLOR lime](HD)[/COLOR]
+#EXTINF:0,[COLOR skyblue] **[/COLOR][COLOR lime]Dark water (La huella) [/COLOR][COLOR lime](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=tqLCfZvMg5bGdKQ=&cole=68659&peli=q4ytcGuZ&id=33325&tit=RGFyayB3YXRlciAoTGEgaHVlbGxhKQ==
+#EXTINF:0,[COLOR skyblue] **[/COLOR][COLOR lime]Darkman III: Muere, Darkman, Muere [/COLOR][COLOR lime](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=88074&peli=pIusamyedw==&id=31150&tit=RGFya21hbiBJSUk6IE11ZXJlLCBEYXJrbWFuLCBNdWVyZQ==
+#EXTINF:0,[COLOR skyblue] **[/COLOR][COLOR lime]Daybreakers [/COLOR][COLOR lime](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=81180&peli=pIqlcWmedQ==&id=31027&tit=RGF5YnJlYWtlcnM=
+#EXTINF:0,[COLOR skyblue] **[/COLOR][COLOR lime]De repente, la oscuridad [/COLOR][COLOR lime](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=42775&peli=qYqmbm6g&id=29143&tit=RGUgcmVwZW50ZSwgbGEgb3NjdXJpZGFk
+#EXTINF:0,[COLOR skyblue] **[/COLOR][COLOR lime]Dead 7 [/COLOR][COLOR lime](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&peli=pI-nbmmZcQ==&id=35855&tit=RGVhZCA3
+#EXTINF:0,[COLOR skyblue] **[/COLOR][COLOR lime]Deathgasm [/COLOR][COLOR lime](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=vrrmpJjLhA==&cole=58737&peli=pImka2eZeQ==&id=10096&tit=RGVhdGhnYXNt
+#EXTINF:0,[COLOR skyblue] **[/COLOR][COLOR lime]Deep Blue Sea [/COLOR][COLOR lime](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=3bzYoZzhsw==&cole=39990&peli=p46qa3Cg&id=13364&tit=RGVlcCBCbHVlIFNlYQ==
+#EXTINF:0,[COLOR skyblue] **[/COLOR][COLOR lime]Desaparecida [/COLOR][COLOR lime](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=42775&peli=qJKoamud&id=28870&tit=RGVzYXBhcmVjaWRh
+#EXTINF:0,[COLOR skyblue] **[/COLOR][COLOR lime]Destino final [/COLOR][COLOR lime](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=80709&peli=pIqkcWucdg==&id=31753&tit=RGVzdGlubyBmaW5hbA==
+#EXTINF:0,[COLOR skyblue] **[/COLOR][COLOR lime]Destino final 2 [/COLOR][COLOR lime](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=80709&peli=pIqkcWuccw==&id=31754&tit=RGVzdGlubyBmaW5hbCAy
+#EXTINF:0,[COLOR skyblue] **[/COLOR][COLOR lime]Destino final 3 [/COLOR][COLOR lime](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=80709&peli=pIqkcWucdA==&id=31755&tit=RGVzdGlubyBmaW5hbCAz
+#EXTINF:0,[COLOR skyblue] **[/COLOR][COLOR lime]Destino final 4 [/COLOR][COLOR lime](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1MDpoaPMs7bkkc0=&cole=65770&peli=q5Ktbm6f&id=10457&tit=RGVzdGlubyBmaW5hbCA0
+#EXTINF:0,[COLOR skyblue] **[/COLOR][COLOR lime]Destino final 5 [/COLOR][COLOR lime](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1MDpoaPMs7bkkc0=&cole=65770&peli=q5KtcGqg&id=10458&tit=RGVzdGlubyBmaW5hbCA1
+#EXTINF:0,[COLOR skyblue] **[/COLOR][COLOR lime]Detention of the Dead [/COLOR][COLOR lime](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=vai5ammYc4yr&cole=50026&peli=pImscW-XeA==&id=9599&tit=RGV0ZW50aW9uIG9mIHRoZSBEZWFk
+#EXTINF:0,[COLOR skyblue] **[/COLOR][COLOR lime]Don't Speak [/COLOR][COLOR lime](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&peli=pI6rcWyccQ==&id=34544&tit=RG9uJ3QgU3BlYWs=
+#EXTINF:0,[COLOR skyblue] **[/COLOR][COLOR lime]Drácula [/COLOR][COLOR lime](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=94361&peli=pI2ta3CZcw==&id=32868&tit=RHLDoWN1bGE=
+
 
 
 
