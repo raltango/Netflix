@@ -1,765 +1,426 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
  
- <item><title>[COLOR=yellow]<<[/COLOR][COLOR=yellow] VISITA GNULA Y BUSCA TU GENERO FAVORITO Y COMENTA EN TELEGRAN[/COLOR][COLOR=yellow]>>[/COLOR]</title><link>http://gnula.nu/</link></item>
  
-
-<item>
-<title>[COLOR deepskyblue][B]estrenos-Gnula.nu[/B] [/COLOR]</title>
-<link>$doregex[makelist2]</link>
-
-<regex>
-<name>makelist2</name>
-<listrepeat><![CDATA[
-   <title>GNULA-[makelist2.param2] </title>
-    <link>$doregex[makelist]</link>
- <thumbnail>[makelist2.param3]</thumbnail>
-<fanart>[makelist2.param3]</fanart>    
-]]></listrepeat>
-<expres>class="Ntooltip" href="(.*?)">(.*?)<[\w\W\s]{0,19}src="(.*?)"</expres>
-<page>http://gnula.nu/peliculas-online/lista-de-peliculas-online-parte-1/</page>
-<referer>http://gnula.nu</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36</agent>
-<cookieJar>$doregex[createCFCookie]</cookieJar>
-</regex>
-
-
-<regex>
-        <name>createCFCookie</name>
-        <expres></expres>
-        <page>$pyFunction:cloudflare.createCookie('http://gnula.nu',Cookie_Jar,'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36')</page>
-        <cookieJar></cookieJar>
-</regex>
-
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[COLOR lightblue][makelist2.param2] - [makelist.param1][/COLOR]</title>
-<link>$doregex[url]/$doregex[id2]/v.flv</link>
-<regex>
-<name>url</name>
-<expres>vplayer[\w\W\s]{0,8}src="(.*?)\/i</expres>
-<page>http://streamin.to/embed-[makelist.param1]-740x360.html</page>	 
-<referer>http://streamin.to</referer>
-</regex>
-<regex>
-<name>id2</name>
-<expres>image\|[\w\W\s]{0,3}\|(.*?)\|file</expres>
-<page>http://streamin.to/embed-[makelist.param1]-740x360.html</page>	 
-<referer>http://streamin.to</referer>
-</regex>
-<thumbnail>[makelist2.param3]</thumbnail>
-<fanart>[makelist2.param3]</fanart>
-]]></listrepeat>
-<expres>http://streamin.to/(.*?)"</expres>
-<page>[makelist2.param1]</page>
-<referer>http://gnula.nu</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36</agent>
-<cookieJar>$doregex[createCFCookie]</cookieJar>
-
-</regex>
-
-<regex>
-        <name>createCFCookie</name>
-        <expres></expres>
-        <page>$pyFunction:cloudflare.createCookie('http://gnula.nu',Cookie_Jar,'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36')</page>
-        <cookieJar></cookieJar>
-</regex>
-<thumbnail>http://jpg</thumbnail><fanart>http://.jpg</fanart>
-</item>
-
+ 
+ 
 
 
  
 
-<item>
-<title>[COLOR deepskyblue][B]Accion-Gnula.nu[/B] [/COLOR]</title>
-<link>$doregex[makelist2]</link>
-
-<regex>
-<name>makelist2</name>
-<listrepeat><![CDATA[
-   <title>GNULA-[makelist2.param2] </title>
-    <link>$doregex[makelist]</link>
- <thumbnail>[makelist2.param3]</thumbnail>
-<fanart>[makelist2.param3]</fanart>    
-]]></listrepeat>
-<expres>class="Ntooltip" href="(.*?)">(.*?)<[\w\W\s]{0,19}src="(.*?)"</expres>
-<page>http://gnula.nu/generos/lista-de-peliculas-del-genero-accion/</page>
-<referer>http://gnula.nu</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36</agent>
-<cookieJar>$doregex[createCFCookie]</cookieJar>
-</regex>
-
-
-<regex>
-        <name>createCFCookie</name>
-        <expres></expres>
-        <page>$pyFunction:cloudflare.createCookie('http://gnula.nu',Cookie_Jar,'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36')</page>
-        <cookieJar></cookieJar>
-</regex>
-
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[COLOR lightblue][makelist2.param2] - [makelist.param1][/COLOR]</title>
-<link>$doregex[url]/$doregex[id2]/v.flv</link>
-<regex>
-<name>url</name>
-<expres>vplayer[\w\W\s]{0,8}src="(.*?)\/i</expres>
-<page>http://streamin.to/embed-[makelist.param1]-740x360.html</page>	 
-<referer>http://streamin.to</referer>
-</regex>
-<regex>
-<name>id2</name>
-<expres>image\|[\w\W\s]{0,3}\|(.*?)\|file</expres>
-<page>http://streamin.to/embed-[makelist.param1]-740x360.html</page>	 
-<referer>http://streamin.to</referer>
-</regex>
-<thumbnail>[makelist2.param3]</thumbnail>
-<fanart>[makelist2.param3]</fanart>
-]]></listrepeat>
-<expres>http://streamin.to/(.*?)"</expres>
-<page>[makelist2.param1]</page>
-<referer>http://gnula.nu</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36</agent>
-<cookieJar>$doregex[createCFCookie]</cookieJar>
-
-</regex>
-
-<regex>
-        <name>createCFCookie</name>
-        <expres></expres>
-        <page>$pyFunction:cloudflare.createCookie('http://gnula.nu',Cookie_Jar,'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36')</page>
-        <cookieJar></cookieJar>
-</regex>
-<thumbnail>http://jpg</thumbnail><fanart>http://.jpg</fanart>
-</item>
-
-
 
 <item>
-<title>[COLOR deepskyblue][B]Infantil-Gnula.nu[/B] [/COLOR]</title>
-<link>$doregex[makelist2]</link>
-
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name= JHG</link>
 <regex>
-<name>makelist2</name>
-<listrepeat><![CDATA[
-   <title>GNULA-[makelist2.param2] </title>
-    <link>$doregex[makelist]</link>
- <thumbnail>[makelist2.param3]</thumbnail>
-<fanart>[makelist2.param3]</fanart>    
-]]></listrepeat>
-<expres>class="Ntooltip" href="(.*?)">(.*?)<[\w\W\s]{0,19}src="(.*?)"</expres>
-<page>http://gnula.nu/generos/lista-de-peliculas-del-genero-infantil/</page>
-<referer>http://gnula.nu</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36</agent>
-<cookieJar>$doregex[createCFCookie]</cookieJar>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.in/av1</page>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
 </regex>
-
-
-<regex>
-        <name>createCFCookie</name>
-        <expres></expres>
-        <page>$pyFunction:cloudflare.createCookie('http://gnula.nu',Cookie_Jar,'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36')</page>
-        <cookieJar></cookieJar>
-</regex>
-
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[COLOR lightblue][makelist2.param2] - [makelist.param1][/COLOR]</title>
-<link>$doregex[url]/$doregex[id2]/v.flv</link>
-<regex>
-<name>url</name>
-<expres>vplayer[\w\W\s]{0,8}src="(.*?)\/i</expres>
-<page>http://streamin.to/embed-[makelist.param1]-740x360.html</page>	 
-<referer>http://streamin.to</referer>
-</regex>
-<regex>
-<name>id2</name>
-<expres>image\|[\w\W\s]{0,3}\|(.*?)\|file</expres>
-<page>http://streamin.to/embed-[makelist.param1]-740x360.html</page>	 
-<referer>http://streamin.to</referer>
-</regex>
-<thumbnail>[makelist2.param3]</thumbnail>
-<fanart>[makelist2.param3]</fanart>
-]]></listrepeat>
-<expres>http://streamin.to/(.*?)"</expres>
-<page>[makelist2.param1]</page>
-<referer>http://gnula.nu</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36</agent>
-<cookieJar>$doregex[createCFCookie]</cookieJar>
-
-</regex>
-
-<regex>
-        <name>createCFCookie</name>
-        <expres></expres>
-        <page>$pyFunction:cloudflare.createCookie('http://gnula.nu',Cookie_Jar,'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36')</page>
-        <cookieJar></cookieJar>
-</regex>
-<thumbnail>http://jpg</thumbnail><fanart>http://.jpg</fanart>
-</item>
-
-
-
-
-<item>
-<title>[COLOR deepskyblue][B]Aventura-Gnula.nu[/B] [/COLOR]</title>
-<link>$doregex[makelist2]</link>
-
-<regex>
-<name>makelist2</name>
-<listrepeat><![CDATA[
-   <title>GNULA-[makelist2.param2] </title>
-    <link>$doregex[makelist]</link>
- <thumbnail>[makelist2.param3]</thumbnail>
-<fanart>[makelist2.param3]</fanart>    
-]]></listrepeat>
-<expres>class="Ntooltip" href="(.*?)">(.*?)<[\w\W\s]{0,19}src="(.*?)"</expres>
-<page>http://gnula.nu/generos/lista-de-peliculas-del-genero-aventuras/</page>
-<referer>http://gnula.nu</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36</agent>
-<cookieJar>$doregex[createCFCookie]</cookieJar>
-</regex>
-
-
-<regex>
-        <name>createCFCookie</name>
-        <expres></expres>
-        <page>$pyFunction:cloudflare.createCookie('http://gnula.nu',Cookie_Jar,'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36')</page>
-        <cookieJar></cookieJar>
-</regex>
-
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[COLOR lightblue][makelist2.param2] - [makelist.param1][/COLOR]</title>
-<link>$doregex[url]/$doregex[id2]/v.flv</link>
-<regex>
-<name>url</name>
-<expres>vplayer[\w\W\s]{0,8}src="(.*?)\/i</expres>
-<page>http://streamin.to/embed-[makelist.param1]-740x360.html</page>	 
-<referer>http://streamin.to</referer>
-</regex>
-<regex>
-<name>id2</name>
-<expres>image\|[\w\W\s]{0,3}\|(.*?)\|file</expres>
-<page>http://streamin.to/embed-[makelist.param1]-740x360.html</page>	 
-<referer>http://streamin.to</referer>
-</regex>
-<thumbnail>[makelist2.param3]</thumbnail>
-<fanart>[makelist2.param3]</fanart>
-]]></listrepeat>
-<expres>http://streamin.to/(.*?)"</expres>
-<page>[makelist2.param1]</page>
-<referer>http://gnula.nu</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36</agent>
-<cookieJar>$doregex[createCFCookie]</cookieJar>
-
-</regex>
-
-<regex>
-        <name>createCFCookie</name>
-        <expres></expres>
-        <page>$pyFunction:cloudflare.createCookie('http://gnula.nu',Cookie_Jar,'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36')</page>
-        <cookieJar></cookieJar>
-</regex>
-<thumbnail>http://jpg</thumbnail><fanart>http://.jpg</fanart>
-</item>
-
-
-
-
-<item>
-<title>[COLOR deepskyblue][B]Comedia romantica-Gnula.nu[/B] [/COLOR]</title>
-<link>$doregex[makelist2]</link>
-
-<regex>
-<name>makelist2</name>
-<listrepeat><![CDATA[
-   <title>Gnula-[makelist2.param2]  </title>
-    <link>$doregex[makelist]</link>
- <thumbnail>[makelist2.param3]</thumbnail>
-<fanart>[makelist2.param3]</fanart>    
-]]></listrepeat>
-<expres>class="Ntooltip" href="(.*?)">(.*?)<[\w\W\s]{0,19}src="(.*?)"</expres>
-<page>http://gnula.nu/generos/lista-de-peliculas-del-genero-comedia-romantica/</page>
-<referer>http://gnula.nu</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36</agent>
-<cookieJar>$doregex[createCFCookie]</cookieJar>
-</regex>
-
-
-
-
-
-<regex>
-        <name>createCFCookie</name>
-        <expres></expres>
-        <page>$pyFunction:cloudflare.createCookie('http://gnula.nu',Cookie_Jar,'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36')</page>
-        <cookieJar></cookieJar>
-</regex>
-
-
-
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[COLOR lightblue][makelist2.param2] - [makelist.param1][/COLOR]</title>
-<link>$doregex[url]/$doregex[id2]/v.flv</link>
-<regex>
-<name>url</name>
-<expres>vplayer[\w\W\s]{0,8}src="(.*?)\/i</expres>
-<page>http://streamin.to/embed-[makelist.param1]-740x360.html</page>	 
-<referer>http://streamin.to</referer>
-</regex>
-<regex>
-<name>id2</name>
-<expres>image\|[\w\W\s]{0,3}\|(.*?)\|file</expres>
-<page>http://streamin.to/embed-[makelist.param1]-740x360.html</page>	 
-<referer>http://streamin.to</referer>
-</regex>
-<thumbnail>[makelist2.param3]</thumbnail>
-<fanart>[makelist2.param3]</fanart>
-]]></listrepeat>
-<expres>http://streamin.to/(.*?)"</expres>
-<page>[makelist2.param1]</page>
-<referer>http://gnula.nu</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36</agent>
-<cookieJar>$doregex[createCFCookie]</cookieJar>
-
-</regex>
-
-<regex>
-        <name>createCFCookie</name>
-        <expres></expres>
-        <page>$pyFunction:cloudflare.createCookie('http://gnula.nu',Cookie_Jar,'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36')</page>
-        <cookieJar></cookieJar>
-</regex>
-<thumbnail>http://jpg</thumbnail><fanart>http://.jpg</fanart>
-</item>
-
-
-
-<item>
-<title>[COLOR deepskyblue][B]zombis-Gnula.nu[/B] [/COLOR]</title>
-<link>$doregex[makelist2]</link>
-
-<regex>
-<name>makelist2</name>
-<listrepeat><![CDATA[
-   <title>Gnula-[makelist2.param2]  </title>
-    <link>$doregex[makelist]</link>
- <thumbnail>[makelist2.param3]</thumbnail>
-<fanart>[makelist2.param3]</fanart>    
-]]></listrepeat>
-<expres>class="Ntooltip" href="(.*?)">(.*?)<[\w\W\s]{0,19}src="(.*?)"</expres>
-<page>http://gnula.nu/generos/lista-de-peliculas-del-genero-zombis/</page>
-<referer>http://gnula.nu</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36</agent>
-<cookieJar>$doregex[createCFCookie]</cookieJar>
-</regex>
-
-
-
-
-
-<regex>
-        <name>createCFCookie</name>
-        <expres></expres>
-        <page>$pyFunction:cloudflare.createCookie('http://gnula.nu',Cookie_Jar,'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36')</page>
-        <cookieJar></cookieJar>
-</regex>
-
-
-
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[COLOR lightblue][makelist2.param2] - [makelist.param1][/COLOR]</title>
-<link>$doregex[url]/$doregex[id2]/v.flv</link>
-<regex>
-<name>url</name>
-<expres>vplayer[\w\W\s]{0,8}src="(.*?)\/i</expres>
-<page>http://streamin.to/embed-[makelist.param1]-740x360.html</page>	 
-<referer>http://streamin.to</referer>
-</regex>
-<regex>
-<name>id2</name>
-<expres>image\|[\w\W\s]{0,3}\|(.*?)\|file</expres>
-<page>http://streamin.to/embed-[makelist.param1]-740x360.html</page>	 
-<referer>http://streamin.to</referer>
-</regex>
-<thumbnail>[makelist2.param3]</thumbnail>
-<fanart>[makelist2.param3]</fanart>
-]]></listrepeat>
-<expres>http://streamin.to/(.*?)"</expres>
-<page>[makelist2.param1]</page>
-<referer>http://gnula.nu</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36</agent>
-<cookieJar>$doregex[createCFCookie]</cookieJar>
-
-</regex>
-
-<regex>
-        <name>createCFCookie</name>
-        <expres></expres>
-        <page>$pyFunction:cloudflare.createCookie('http://gnula.nu',Cookie_Jar,'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36')</page>
-        <cookieJar></cookieJar>
-</regex>
-<thumbnail>http://jpg</thumbnail><fanart>http://.jpg</fanart>
-</item>
-
-
-
-<item>
-<title>[COLOR deepskyblue][B]Fantasia-Gnula.nu[/B] [/COLOR]</title>
-<link>$doregex[makelist2]</link>
-
-<regex>
-<name>makelist2</name>
-<listrepeat><![CDATA[
-   <title>Gnula-[makelist2.param2]  </title>
-    <link>$doregex[makelist]</link>
- <thumbnail>[makelist2.param3]</thumbnail>
-<fanart>[makelist2.param3]</fanart>    
-]]></listrepeat>
-<expres>class="Ntooltip" href="(.*?)">(.*?)<[\w\W\s]{0,19}src="(.*?)"</expres>
-<page>http://gnula.nu/generos/lista-de-peliculas-del-genero-fantasia/</page>
-<referer>http://gnula.nu</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36</agent>
-<cookieJar>$doregex[createCFCookie]</cookieJar>
-</regex>
-
-
-
-
-
-<regex>
-        <name>createCFCookie</name>
-        <expres></expres>
-        <page>$pyFunction:cloudflare.createCookie('http://gnula.nu',Cookie_Jar,'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36')</page>
-        <cookieJar></cookieJar>
-</regex>
-
-
-
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[COLOR lightblue][makelist2.param2] - [makelist.param1][/COLOR]</title>
-<link>$doregex[url]/$doregex[id2]/v.flv</link>
-<regex>
-<name>url</name>
-<expres>vplayer[\w\W\s]{0,8}src="(.*?)\/i</expres>
-<page>http://streamin.to/embed-[makelist.param1]-740x360.html</page>	 
-<referer>http://streamin.to</referer>
-</regex>
-<regex>
-<name>id2</name>
-<expres>image\|[\w\W\s]{0,3}\|(.*?)\|file</expres>
-<page>http://streamin.to/embed-[makelist.param1]-740x360.html</page>	 
-<referer>http://streamin.to</referer>
-</regex>
-<thumbnail>[makelist2.param3]</thumbnail>
-<fanart>[makelist2.param3]</fanart>
-]]></listrepeat>
-<expres>http://streamin.to/(.*?)"</expres>
-<page>[makelist2.param1]</page>
-<referer>http://gnula.nu</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36</agent>
-<cookieJar>$doregex[createCFCookie]</cookieJar>
-
-</regex>
-
-<regex>
-        <name>createCFCookie</name>
-        <expres></expres>
-        <page>$pyFunction:cloudflare.createCookie('http://gnula.nu',Cookie_Jar,'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36')</page>
-        <cookieJar></cookieJar>
-</regex>
-<thumbnail>http://jpg</thumbnail><fanart>http://.jpg</fanart>
-</item>
-
-
-
-<item>
-<title>[COLOR deepskyblue][B]Sicarios-Gnula.nu[/B] [/COLOR]</title>
-<link>$doregex[makelist2]</link>
-
-<regex>
-<name>makelist2</name>
-<listrepeat><![CDATA[
-   <title>Gnula-[makelist2.param2]  </title>
-    <link>$doregex[makelist]</link>
- <thumbnail>[makelist2.param3]</thumbnail>
-<fanart>[makelist2.param3]</fanart>    
-]]></listrepeat>
-<expres>class="Ntooltip" href="(.*?)">(.*?)<[\w\W\s]{0,19}src="(.*?)"</expres>
-<page>http://gnula.nu/generos/lista-de-peliculas-del-genero-sicarios/</page>
-<referer>http://gnula.nu</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36</agent>
-<cookieJar>$doregex[createCFCookie]</cookieJar>
-</regex>
-
-
-
-
-
-<regex>
-        <name>createCFCookie</name>
-        <expres></expres>
-        <page>$pyFunction:cloudflare.createCookie('http://gnula.nu',Cookie_Jar,'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36')</page>
-        <cookieJar></cookieJar>
-</regex>
-
-
-
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[COLOR lightblue][makelist2.param2] - [makelist.param1][/COLOR]</title>
-<link>$doregex[url]/$doregex[id2]/v.flv</link>
-<regex>
-<name>url</name>
-<expres>vplayer[\w\W\s]{0,8}src="(.*?)\/i</expres>
-<page>http://streamin.to/embed-[makelist.param1]-740x360.html</page>	 
-<referer>http://streamin.to</referer>
-</regex>
-<regex>
-<name>id2</name>
-<expres>image\|[\w\W\s]{0,3}\|(.*?)\|file</expres>
-<page>http://streamin.to/embed-[makelist.param1]-740x360.html</page>	 
-<referer>http://streamin.to</referer>
-</regex>
-<thumbnail>[makelist2.param3]</thumbnail>
-<fanart>[makelist2.param3]</fanart>
-]]></listrepeat>
-<expres>http://streamin.to/(.*?)"</expres>
-<page>[makelist2.param1]</page>
-<referer>http://gnula.nu</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36</agent>
-<cookieJar>$doregex[createCFCookie]</cookieJar>
-
-</regex>
-
-<regex>
-        <name>createCFCookie</name>
-        <expres></expres>
-        <page>$pyFunction:cloudflare.createCookie('http://gnula.nu',Cookie_Jar,'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36')</page>
-        <cookieJar></cookieJar>
-</regex>
-<thumbnail>http://jpg</thumbnail><fanart>http://.jpg</fanart>
+<thumbnail>http://i.imgur.com/ZuwELpP.png</thumbnail>
+<title>[B][COLOR yellow]JHG[COLOR white] AV 1[COLOR red]    [/B][/COLOR]</title>
 </item>
 
 
 <item>
-<title>[COLOR deepskyblue][B]Gnula.nu[/B] [/COLOR]</title>
-<link>$doregex[makelist2]</link>
-
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name= JHG</link>
 <regex>
-<name>makelist2</name>
-<listrepeat><![CDATA[
-   <title>[makelist2.param2]  </title>
-    <link>$doregex[makelist]</link>
- <thumbnail>[makelist2.param3]</thumbnail>
-<fanart>[makelist2.param3]</fanart>    
-]]></listrepeat>
-<expres>class="Ntooltip" href="(.*?)">(.*?)<[\w\W\s]{0,19}src="(.*?)"</expres>
-<page>http://gnula.nu/peliculas-online/lista-de-peliculas-online-parte-1/</page>
-<referer>http://gnula.nu</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36</agent>
-<cookieJar>$doregex[createCFCookie]</cookieJar>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.in/av2</page>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
 </regex>
-
-
-
-
-
-<regex>
-        <name>createCFCookie</name>
-        <expres></expres>
-        <page>$pyFunction:cloudflare.createCookie('http://gnula.nu',Cookie_Jar,'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36')</page>
-        <cookieJar></cookieJar>
-</regex>
-
-
-
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[COLOR lightblue][makelist2.param2] - [makelist.param1][/COLOR]</title>
-<link>$doregex[url]/$doregex[id2]/v.flv</link>
-<regex>
-<name>url</name>
-<expres>vplayer[\w\W\s]{0,8}src="(.*?)\/i</expres>
-<page>http://streamin.to/embed-[makelist.param1]-740x360.html</page>	 
-<referer>http://streamin.to</referer>
-</regex>
-<regex>
-<name>id2</name>
-<expres>image\|[\w\W\s]{0,3}\|(.*?)\|file</expres>
-<page>http://streamin.to/embed-[makelist.param1]-740x360.html</page>	 
-<referer>http://streamin.to</referer>
-</regex>
-<thumbnail>[makelist2.param3]</thumbnail>
-<fanart>[makelist2.param3]</fanart>
-]]></listrepeat>
-<expres>http://streamin.to/(.*?)"</expres>
-<page>[makelist2.param1]</page>
-<referer>http://gnula.nu</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36</agent>
-<cookieJar>$doregex[createCFCookie]</cookieJar>
-
-</regex>
-
-<regex>
-        <name>createCFCookie</name>
-        <expres></expres>
-        <page>$pyFunction:cloudflare.createCookie('http://gnula.nu',Cookie_Jar,'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36')</page>
-        <cookieJar></cookieJar>
-</regex>
-<thumbnail>http://jpg</thumbnail><fanart>http://.jpg</fanart>
-</item>
-
-
-
-<item>
-<title>[COLOR deepskyblue][B]terror-Gnula.nu[/B] [/COLOR]</title>
-<link>$doregex[makelist2]</link>
-
-<regex>
-<name>makelist2</name>
-<listrepeat><![CDATA[
-   <title>Gnula-[makelist2.param2]  </title>
-    <link>$doregex[makelist]</link>
- <thumbnail>[makelist2.param3]</thumbnail>
-<fanart>[makelist2.param3]</fanart>    
-]]></listrepeat>
-<expres>class="Ntooltip" href="(.*?)">(.*?)<[\w\W\s]{0,19}src="(.*?)"</expres>
-<page>http://gnula.nu/generos/lista-de-peliculas-del-genero-terror/</page>
-<referer>http://gnula.nu</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36</agent>
-<cookieJar>$doregex[createCFCookie]</cookieJar>
-</regex>
-
-
-
-
-
-<regex>
-        <name>createCFCookie</name>
-        <expres></expres>
-        <page>$pyFunction:cloudflare.createCookie('http://gnula.nu',Cookie_Jar,'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36')</page>
-        <cookieJar></cookieJar>
-</regex>
-
-
-
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[COLOR lightblue][makelist2.param2] - [makelist.param1][/COLOR]</title>
-<link>$doregex[url]/$doregex[id2]/v.flv</link>
-<regex>
-<name>url</name>
-<expres>vplayer[\w\W\s]{0,8}src="(.*?)\/i</expres>
-<page>http://streamin.to/embed-[makelist.param1]-740x360.html</page>	 
-<referer>http://streamin.to</referer>
-</regex>
-<regex>
-<name>id2</name>
-<expres>image\|[\w\W\s]{0,3}\|(.*?)\|file</expres>
-<page>http://streamin.to/embed-[makelist.param1]-740x360.html</page>	 
-<referer>http://streamin.to</referer>
-</regex>
-<thumbnail>[makelist2.param3]</thumbnail>
-<fanart>[makelist2.param3]</fanart>
-]]></listrepeat>
-<expres>http://streamin.to/(.*?)"</expres>
-<page>[makelist2.param1]</page>
-<referer>http://gnula.nu</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36</agent>
-<cookieJar>$doregex[createCFCookie]</cookieJar>
-
-</regex>
-
-<regex>
-        <name>createCFCookie</name>
-        <expres></expres>
-        <page>$pyFunction:cloudflare.createCookie('http://gnula.nu',Cookie_Jar,'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36')</page>
-        <cookieJar></cookieJar>
-</regex>
-<thumbnail>http://jpg</thumbnail><fanart>http://.jpg</fanart>
+<thumbnail>http://i.imgur.com/ZuwELpP.png</thumbnail>
+<title>[B][COLOR yellow]JHG[COLOR white]  AV 2[COLOR red]  [/B][/COLOR]</title>
 </item>
 
 
 <item>
-<title>[COLOR deepskyblue][B]romantica-Gnula.nu[/B] [/COLOR]</title>
-<link>$doregex[makelist2]</link>
-
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name= JHG</link>
 <regex>
-<name>makelist2</name>
-<listrepeat><![CDATA[
-   <title>[makelist2.param2]  </title>
-    <link>$doregex[makelist]</link>
- <thumbnail>[makelist2.param3]</thumbnail>
-<fanart>[makelist2.param3]</fanart>    
-]]></listrepeat>
-<expres>class="Ntooltip" href="(.*?)">(.*?)<[\w\W\s]{0,19}src="(.*?)"</expres>
-<page>http://gnula.nu/generos/lista-de-peliculas-del-genero-romantica/</page>
-<referer>http://gnula.nu</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36</agent>
-<cookieJar>$doregex[createCFCookie]</cookieJar>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.in/av3</page>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
 </regex>
+<thumbnail>http://i.imgur.com/ZuwELpP.png</thumbnail>
+<title>[B][COLOR yellow]JHG[COLOR white]  AV 3[COLOR red]   [/B][/COLOR]</title>
+</item>
 
-
-
-
-
+<item>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(JHGMASTER)</link>
 <regex>
-        <name>createCFCookie</name>
-        <expres></expres>
-        <page>$pyFunction:cloudflare.createCookie('http://gnula.nu',Cookie_Jar,'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36')</page>
-        <cookieJar></cookieJar>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.in/av4</page>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
 </regex>
+<thumbnail>http://i.imgur.com/ZuwELpP.png</thumbnail>
+<title>[B][COLOR yellow]JHG [COLOR white] AV 4[COLOR red]   [/B][/COLOR]</title>
+</item>
 
 
-
+<item>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(JHGMASTER)</link>
 <regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[COLOR lightblue][makelist2.param2] - [makelist.param1][/COLOR]</title>
-<link>$doregex[url]/$doregex[id2]/v.flv</link>
-<regex>
-<name>url</name>
-<expres>vplayer[\w\W\s]{0,8}src="(.*?)\/i</expres>
-<page>http://streamin.to/embed-[makelist.param1]-740x360.html</page>	 
-<referer>http://streamin.to</referer>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.in/av5</page>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
 </regex>
-<regex>
-<name>id2</name>
-<expres>image\|[\w\W\s]{0,3}\|(.*?)\|file</expres>
-<page>http://streamin.to/embed-[makelist.param1]-740x360.html</page>	 
-<referer>http://streamin.to</referer>
-</regex>
-<thumbnail>[makelist2.param3]</thumbnail>
-<fanart>[makelist2.param3]</fanart>
-]]></listrepeat>
-<expres>http://streamin.to/(.*?)"</expres>
-<page>[makelist2.param1]</page>
-<referer>http://gnula.nu</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36</agent>
-<cookieJar>$doregex[createCFCookie]</cookieJar>
+<thumbnail>http://i.imgur.com/ZuwELpP.png</thumbnail>
+<title>[B][COLOR yellow]JHG[COLOR white] AV 5[COLOR red]   [/B][/COLOR]</title>
+</item>
 
-</regex>
 
+<item>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name= JHGMASTER</link>
 <regex>
-        <name>createCFCookie</name>
-        <expres></expres>
-        <page>$pyFunction:cloudflare.createCookie('http://gnula.nu',Cookie_Jar,'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36')</page>
-        <cookieJar></cookieJar>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.in/av6</page>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
 </regex>
-<thumbnail>http://jpg</thumbnail><fanart>http://.jpg</fanart>
+<thumbnail>http://i.imgur.com/ZuwELpP.png</thumbnail>
+<title>[B][COLOR yellow]JHG[COLOR white]   AV 6[COLOR red] [/B][/COLOR]</title>
+</item>
+
+
+<item>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(JHGMASTER)</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.in/av7</page>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+<thumbnail>http://i.imgur.com/ZuwELpP.png</thumbnail>
+<title>[B][COLOR yellow]JHG[COLOR white] AV 7[COLOR red]   [/B][/COLOR]</title>
+</item>
+
+
+<item>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.in/av8</page>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+<thumbnail>http://i.imgur.com/ZuwELpP.png</thumbnail>
+<title>[B][COLOR yellow]JHG[COLOR white] AV 8[COLOR red]   [/B][/COLOR]</title>
+</item>
+
+
+<item>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(JHGMASTER)</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.in/av9</page>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+<thumbnail>http://i.imgur.com/ZuwELpP.png</thumbnail>
+<title>[B][COLOR yellow]JHG[COLOR white] AV 9[COLOR red]   [/B][/COLOR]</title>
+</item>
+
+
+<item>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name= (JHGMASTER)</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.in/av10</page>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+<thumbnail>http://i.imgur.com/ZuwELpP.png</thumbnail>
+<title>[B][COLOR yellow]JHG[COLOR white]+ AV10[COLOR red]   [/B][/COLOR]</title>
+</item>
+
+
+<item>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.in/av11</page>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+<thumbnail>http://i.imgur.com/ZuwELpP.png</thumbnail>[/B][/COLOR]</title>
+</item>
+
+
+<item>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.in/av12</page>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+<thumbnail>http://i.imgur.com/ZuwELpP.png</thumbnail>
+<title>[B][COLOR yellow]JHG[COLOR white] AV 12[COLOR red]   [/B][/COLOR]</title>
+</item>
+
+
+<item>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.in/av13</page>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+<thumbnail>http://i.imgur.com/ZuwELpP.png</thumbnail>
+<title>[B][COLOR yellow]JHG[COLOR white] AV 13[COLOR red]   [/B][/COLOR]</title>
+</item>
+
+
+<item>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name= </link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.in/av14</page>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+<thumbnail>http://i.imgur.com/ZuwELpP.png</thumbnail>
+<title>[B][COLOR yellow]JHG[COLOR white] AV 14[COLOR red]   [/B][/COLOR]</title>
+</item>
+
+
+<item>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.in/av15</page>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+<thumbnail>http://i.imgur.com/ZuwELpP.png</thumbnail>
+<title>[B][COLOR yellow]JHG[COLOR white] AV 15[COLOR red]  [/B][/COLOR]</title>
+</item>
+
+
+<item>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.in/av16</page>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+<thumbnail>http://i.imgur.com/ZuwELpP.png</thumbnail>
+<title>[B][COLOR yellow]JHG [COLOR white] AV 16[COLOR red]   [/B][/COLOR]</title>
+</item>
+
+
+<item>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.in/av17</page>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+<thumbnail>http://i.imgur.com/ZuwELpP.png</thumbnail>
+<title>[B][COLOR yellow]JHG[COLOR white] ARENAVISION 17[COLOR red]   [/B][/COLOR]</title>
+</item>
+
+
+<item>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name= </link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.in/av18</page>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+<thumbnail>http://i.imgur.com/ZuwELpP.png</thumbnail>
+<title>[B][COLOR yellow]JHG[COLOR white] ARENAVISION 18[COLOR red]   [/B][/COLOR]</title>
+</item>
+
+
+<item>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name= </link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.in/av19</page>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+<thumbnail>http://i.imgur.com/ZuwELpP.png</thumbnail>
+<title>[B][COLOR yellow]JHG[COLOR white] ARENAVISION 19[COLOR red]   [/B][/COLOR]</title>
+</item>
+
+
+<item>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.in/av20</page>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+<thumbnail>http://i.imgur.com/ZuwELpP.png</thumbnail>
+<title>[B][COLOR yellow]JHG[COLOR white] ARENAVISION 20[COLOR red]  [/B][/COLOR]</title>
+</item>
+
+
+<item>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name= </link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.in/av21</page>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+<thumbnail>http://i.imgur.com/ZuwELpP.png</thumbnail>
+<title>[B][COLOR yellow]JHG[COLOR white] ARENAVISION 21[COLOR red]   [PLEXUS + Acestream][/B][/COLOR]</title>
+</item>
+
+
+<item>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name= </link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.in/av22</page>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+<thumbnail>http://i.imgur.com/ZuwELpP.png</thumbnail>
+<title>[B][COLOR yellow]JHG[COLOR white] ARENAVISION 22[COLOR red]   [/B][/COLOR]</title>
+</item>
+
+
+<item>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.in/av23</page>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+<thumbnail>http://i.imgur.com/ZuwELpP.png</thumbnail>
+<title>[B][COLOR yellow]JHG[COLOR white] ARENAVISION 23[COLOR red]   [/B][/COLOR]</title>
+</item>
+
+
+<item>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.in/av24</page>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+<thumbnail>http://i.imgur.com/ZuwELpP.png</thumbnail>
+<title>[B][COLOR yellow]JHG[COLOR white] ARENAVISION 24[COLOR red]   [/B][/COLOR]</title>
+</item>
+
+
+<item>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name= </link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.in/av25</page>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+<thumbnail>http://i.imgur.com/ZuwELpP.png</thumbnail>
+<title>[B][COLOR yellow]JHG[COLOR white] ARENAVISION 25[COLOR red]   [/B][/COLOR]</title>
+</item>
+
+
+<item>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.in/av26</page>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+<thumbnail>http://i.imgur.com/ZuwELpP.png</thumbnail>
+<title>[B][COLOR yellow]JHG[COLOR white] ARENAVISION 26[COLOR red]  [/B][/COLOR]</title>
+</item>
+
+
+<item>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.in/av27</page>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+<thumbnail>http://i.imgur.com/ZuwELpP.png</thumbnail>
+<title>[B][COLOR yellow]JHG[COLOR white] ARENAVISION 27[COLOR red]   [/B][/COLOR]</title>
+</item>
+
+
+<item>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.in/av28</page>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+<thumbnail>http://i.imgur.com/ZuwELpP.png</thumbnail>
+<title>[B][COLOR yellow]JHG[COLOR white] ARENAVISION 28[COLOR red]   [/B][/COLOR]</title>
+</item>
+
+
+<item>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name= </link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.in/av29</page>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+<thumbnail>http://i.imgur.com/ZuwELpP.png</thumbnail>
+<title>[B][COLOR yellow]JHG[COLOR white] ARENAVISION 29[COLOR red]  [/B][/COLOR]</title>
+</item>
+
+
+<item>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name= </link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.in/av30</page>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+<thumbnail>http://i.imgur.com/ZuwELpP.png</thumbnail>
+<title>[B][COLOR yellow]JHG[COLOR white] ARENAVISION 30[COLOR red]   [/B][/COLOR]</title>
 </item>
