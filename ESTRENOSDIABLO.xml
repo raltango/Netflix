@@ -1,0 +1,1141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?> 
+
+<SetViewMode>500</SetViewMode>
+
+<item> <!-- 1080 -->
+<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] [COLOR gold][B]3D[/B][COLOR lime] XXX:Reactivado[/COLOR]</title>
+<thumbnail>https://image.tmdb.org/t/p/w640/iOT9ca00e4hrMdgu1lDKvbIG6RI.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/3VgLpWEjNM2awBlN3TwrY3AZnzU.jpg</fanart>
+<link>$doregex[url]|Cookie=$get_cookies$</link>
+<regex>
+<name>url</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+    import re
+    strurl = (re.findall('"fmt_stream_map.*?37\|(https.*?)\|', page_data)[0]).replace('\\u0026', '&').replace('\\u003d', '=')
+    return strurl
+]]></expres>
+<page>https://drive.google.com/open?id=0B-KjOMGAT4CuMGp3NFFKbkdIQ1k</page>
+<cookieJar></cookieJar>
+</item>
+
+<item>
+<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR][COLOR lime] Cincuenta sombras más oscuras[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/jtzfxn9cy6ca'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://image.tmdb.org/t/p/w640/skinwcpFhGykt4gE2jSg916L7AS.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/16aJtXO6lObbBUr11IvkjB1QD1f.jpg</fanart>
+</item>
+
+<item> <!-- 1080 -->
+<title>[ [COLOR blue]C[/COLOR][COLOR yellow]T[/COLOR][COLOR red]A[/COLOR] ] [COLOR lime] Batman: La LEGO película[/COLOR]</title>
+<thumbnail>https://image.tmdb.org/t/p/w640/7YQ6FR7vuPkktPGQ0iUjLfmKI2K.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/1rIIzTMm1WVxMCiXdJKLMgGCcXb.jpg</fanart>
+<link>$doregex[url]|Cookie=$get_cookies$</link>
+<regex>
+<name>url</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+    import re
+    strurl = (re.findall('"fmt_stream_map.*?37\|(https.*?)\|', page_data)[0]).replace('\\u0026', '&').replace('\\u003d', '=')
+    return strurl
+]]></expres>
+<page>https://drive.google.com/open?id=0B-KjOMGAT4CuVDZrY05lVXR6V2s</page>
+<cookieJar></cookieJar>
+</item>
+
+<item> <!-- 1080 -->
+<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] [COLOR lime] Guardianes de la galaxia[/COLOR]</title>
+<thumbnail>https://image.tmdb.org/t/p/w640/9Ju7p4daJi5rcTUghYZxHlP15ia.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/bHarw8xrmQeqf3t8HpuMY7zoK4x.jpg</fanart>
+<link>$doregex[url]|Cookie=$get_cookies$</link>
+<regex>
+<name>url</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+    import re
+    strurl = (re.findall('"fmt_stream_map.*?37\|(https.*?)\|', page_data)[0]).replace('\\u0026', '&').replace('\\u003d', '=')
+    return strurl
+]]></expres>
+<page>https://drive.google.com/open?id=0B-KjOMGAT4CuOXVkSTg3bEkwb0E</page>
+<cookieJar></cookieJar>
+</item>
+
+<item> <!-- 1080 -->
+<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR][B]3D[/B][COLOR lime] La gran muralla[/COLOR]</title>
+<thumbnail>https://image.tmdb.org/t/p/w640/8VenQvaBTOM2By4rsJbCZhl6hFU.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/fvG75x8sdEzNYJ2mC1vuiaqy3BI.jpg</fanart>
+<link>$doregex[url]|Cookie=$get_cookies$</link>
+<regex>
+<name>url</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+    import re
+    strurl = (re.findall('"fmt_stream_map.*?37\|(https.*?)\|', page_data)[0]).replace('\\u0026', '&').replace('\\u003d', '=')
+    return strurl
+]]></expres>
+<page>https://drive.google.com/open?id=0B-KjOMGAT4CuVjNmaVVBYWRsbHM</page>
+<cookieJar></cookieJar>
+</item>
+
+<item> <!-- 1080 -->
+<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR][B]3D[/B][COLOR lime] Passengers[/COLOR]</title>
+<thumbnail>http://pics.filmaffinity.com/passengers-367242067-large.jpg</thumbnail>
+<fanart>http://images.eldiario.es/fotos/OBERTURAjpg_EDIIMA20161229_0746_5.jpg</fanart>
+<link>$doregex[url]|Cookie=$get_cookies$</link>
+<regex>
+<name>url</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+    import re
+    strurl = (re.findall('"fmt_stream_map.*?37\|(https.*?)\|', page_data)[0]).replace('\\u0026', '&').replace('\\u003d', '=')
+    return strurl
+]]></expres>
+<page>https://drive.google.com/open?id=0B-KjOMGAT4CuTzA0R2Zwb0Y2XzQ</page>
+<cookieJar></cookieJar>
+</item>
+
+<item> <!-- 1080 -->
+<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] [COLOR lime] En el corazón del mar[/COLOR]</title>
+<thumbnail>https://image.tmdb.org/t/p/w640/8A2oihHwR1nOpjYgCKQFT8ZG44B.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/41vanBJhYWuACVHvX7rk2Jmqbb4.jpg</fanart>
+<link>$doregex[url]|Cookie=$get_cookies$</link>
+<regex>
+<name>url</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+    import re
+    strurl = (re.findall('"fmt_stream_map.*?37\|(https.*?)\|', page_data)[0]).replace('\\u0026', '&').replace('\\u003d', '=')
+    return strurl
+]]></expres>
+<page>https://drive.google.com/open?id=0B-KjOMGAT4CuTTN2bjJmQ1lqd0U</page>
+<cookieJar></cookieJar>
+</item>
+
+<item> <!-- 1080 -->
+<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] [COLOR lime] El renacido[/COLOR]</title>
+<thumbnail>https://image.tmdb.org/t/p/w640/uVb4ejquff6LLSeJxcMGtAP8fSP.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/uS1SkjVviraGfFNgkDwe7ohTm8B.jpg</fanart>
+<link>$doregex[url]|Cookie=$get_cookies$</link>
+<regex>
+<name>url</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+    import re
+    strurl = (re.findall('"fmt_stream_map.*?37\|(https.*?)\|', page_data)[0]).replace('\\u0026', '&').replace('\\u003d', '=')
+    return strurl
+]]></expres>
+<page>https://drive.google.com/open?id=0B-KjOMGAT4CuNjd6Y3ZFc1l0VlE</page>
+<cookieJar></cookieJar>
+</item>
+
+<item> <!-- 1080 -->
+<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ]  [COLOR lime] Blinky Bill, el koala[/COLOR]</title>
+<thumbnail>https://image.tmdb.org/t/p/w640/djetGF7wFW26L7QtXQmN7EM4hkR.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/l1B6JadFSiSD8MbKLWbZzjH2sXK.jpg</fanart>
+<link>$doregex[url]|Cookie=$get_cookies$</link>
+<regex>
+<name>url</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+    import re
+    strurl = (re.findall('"fmt_stream_map.*?37\|(https.*?)\|', page_data)[0]).replace('\\u0026', '&').replace('\\u003d', '=')
+    return strurl
+]]></expres>
+<page>https://drive.google.com/open?id=0B-KjOMGAT4CuVnlrUG04LXZrQVE</page>
+<cookieJar></cookieJar>
+</item>
+
+<item>
+<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ]  ][COLOR lime] Los del Túnel[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/kq4vjw0672js'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://image.tmdb.org/t/p/w640/ZhJY4y6owKYP4SIOcqeSGFQW1l.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/4LcsP32aYGM121jYrSa25pmfaRC.jpg</fanart>
+</item>
+
+<item>
+<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] [COLOR lime] Lion[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/p4o5cwfwii4m'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://image.tmdb.org/t/p/w640/qI6CjJPq4UjXdVqZO10x7V0N8nf.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/a0cvTQOZ3hIXAGQp9VQq8U5lNXO.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ][COLOR lime] ¿Que culpa tiene el niño?[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/1f0mx227ebuj'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://image.tmdb.org/t/p/w640/eWPD4RO7QQjiD8evdnQ0pUmGC33.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/dKnVJRcUg6OOX4nDgM1z5KsMyB4.jpg</fanart>
+</item>
+
+<item>
+<title>[ [COLOR blue]C[/COLOR][COLOR yellow]T[/COLOR][COLOR red]A[/COLOR] ][COLOR lime] Xxx:Reactivado[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/pz83umr6j9kd'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://image.tmdb.org/t/p/w640/iOT9ca00e4hrMdgu1lDKvbIG6RI.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/3VgLpWEjNM2awBlN3TwrY3AZnzU.jpg</fanart>
+</item>
+
+<item>
+<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] [COLOR gold] HD[/COLOR][COLOR lime] Xxx:Reactivado[/COLOR]</title>
+<link>$doregex[getUrl]|Accept-Encoding=gzip, deflate, sdch</link>
+<thumbnail>https://image.tmdb.org/t/p/w640/iOT9ca00e4hrMdgu1lDKvbIG6RI.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/3VgLpWEjNM2awBlN3TwrY3AZnzU.jpg</fanart>
+<regex><name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re , requests ,json
+def GetLSProData(page_data,Cookie_Jar,m):
+
+ ref = 'http://copiapop.com/ataulfo/mus-pelis-110151' 
+ url='http://copiapop.com/ataulfo/mus-pelis-110151/157595-xrc,1735771,list,1,2.mkv'
+ headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Referer': ref ,
+            'X-Requested-With' : 'XMLHttpRequest' , 'Accept' : '*/*'}
+ session = requests.Session()
+ r = session.get(url, headers=headers)
+ rv1 = r.cookies
+
+ vfile , vtoken = re.findall('action/DownloadFile.*?fileId.*?value="(.*?)".*?Token".*?value="(.*?)"', r.text)[0]
+ data_a ={'fileId': vfile , '__RequestVerificationToken': vtoken}
+ nr = requests.post('http://copiapop.com/action/DownloadFile?location=fi&f=%s'%vfile , headers=headers,cookies=rv1 , data=data_a).text
+ nrj=json.loads(nr)
+ nr = nrj['Content']
+ r2 = re.findall(r'(?s)value=\"(.*?)\"', nr)[0]
+ data_a ={'__RequestVerificationToken': r2 , 'Username': 'amistad' , 'Password' : 'asegurada'}
+ nr1 = requests.post('http://copiapop.com/action/Account/Login', headers=headers,cookies = rv1 , data=data_a)
+ print nr1.headers['Set-Cookie']
+ rasp = re.findall('ASPXAUTH_v2=(.*?);', nr1.headers['Set-Cookie'])[0]
+ rv1['.ASPXAUTH_v2'] = rasp
+ data_a ={'fileId': vfile , '__RequestVerificationToken': vtoken}
+ nr3 = requests.post('http://copiapop.com/action/DownloadFile?location=fi&f=%s'%vfile , headers=headers, cookies = rv1 , data=data_a).text
+ r3 = re.findall('DownloadUrl":"(.*?)"', nr3)[0]
+ print r3
+ return r3
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item> <!-- 1080 -->
+<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] [COLOR gold][B]3D[/B][COLOR lime] El Libro de la selva[/COLOR]</title>
+<thumbnail>https://image.tmdb.org/t/p/w640/7cxfpgeAAeNcATy0nyOvXM4sPNr.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/eIOTsGg9FCVrBc4r2nXaV61JF4F.jpg</fanart>
+<link>$doregex[url]|Cookie=$get_cookies$</link>
+<regex>
+<name>url</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+    import re
+    strurl = (re.findall('"fmt_stream_map.*?37\|(https.*?)\|', page_data)[0]).replace('\\u0026', '&').replace('\\u003d', '=')
+    return strurl
+]]></expres>
+<page>https://drive.google.com/open?id=0B5zoyWG3nNtCTzdNZlRCbVJLNHc</page>
+<cookieJar></cookieJar>
+</item>
+
+<item> <!-- 1080 -->
+<title>[ [COLOR blue]C[/COLOR][COLOR yellow]T[/COLOR][COLOR red]A[/COLOR] ] [COLOR lime] Premonición[/COLOR]</title>
+<thumbnail>https://image.tmdb.org/t/p/w640/4eMh0JBGqyT542GwLp8vBgOiL50.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/a8JW8gR2asNDJOEaAVPYoyQdlpa.jpg</fanart>
+<link>$doregex[url]|Cookie=$get_cookies$</link>
+<regex>
+<name>url</name> <!--cta-->
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+    import re
+    strurl = (re.findall('"fmt_stream_map.*?37\|(https.*?)\|', page_data)[0]).replace('\\u0026', '&').replace('\\u003d', '=')
+    return strurl
+]]></expres>
+<page>https://drive.google.com/open?id=0B5zoyWG3nNtCMk9ySjlQTmw0SUk</page>
+<cookieJar></cookieJar>
+</item>
+
+<item> <!-- 1080 -->
+<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ]  [COLOR lime] Iam a hero[/COLOR]</title>
+<thumbnail>https://image.tmdb.org/t/p/w640/8Ex1DuL1m7uX5nRUVpY3ybAw0lO.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/mq1AcKJrt5hdwWw2mtVyj5XJXCW.jpg</fanart>
+<link>$doregex[url]|Cookie=$get_cookies$</link>
+<regex>
+<name>url</name> <!--cta-->
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+    import re
+    strurl = (re.findall('"fmt_stream_map.*?37\|(https.*?)\|', page_data)[0]).replace('\\u0026', '&').replace('\\u003d', '=')
+    return strurl
+]]></expres>
+<page>https://drive.google.com/open?id=0B5zoyWG3nNtCck1TZk8wQkU5Q2M</page>
+<cookieJar></cookieJar>
+</item>
+
+<item> <!-- normal 3D -->
+<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ]  [COLOR gold][B]3D[/B][COLOR lime] Resident Evil[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name> <!-- cta -->
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='https://drive.google.com/open?id=0B5zoyWG3nNtCeElPLU44elhMQmc'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://image.tmdb.org/t/p/w640/q5euimOmeJ9uCQkZXR2iUJIMf6K.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/4BSouhWvo89bFdiJD2FBlTD5nLV.jpg</fanart>
+</item>
+
+<item> <!-- cta -->
+<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] [COLOR lime] Toni erdmann[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/xc197ky08qcy'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://image.tmdb.org/t/p/w640/gJNjVE8WGUjiSKUtMDEvNzxR5zq.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/biR9nYZyOwXC2wQVmSUk6TI3eHl.jpg</fanart>
+</item>
+
+<item> <!-- cta -->
+<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] [COLOR lime] Múltiples[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/ydgqw1gp9n44'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://image.tmdb.org/t/p/w640/dUt1xmaw7R889LexMCTDMv4ibSi.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/9pkZesKMnblFfKxEhQx45YQ2kIe.jpg</fanart>
+</item>
+
+<item> <!-- cta -->
+<title>[ [COLOR blue]C[/COLOR][COLOR yellow]T[/COLOR][COLOR red]A[/COLOR] ][COLOR lime] La gran muralla[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/ct037lqwu7hi'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://image.tmdb.org/t/p/w640/8VenQvaBTOM2By4rsJbCZhl6hFU.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/xeHe0f7RdsZzjW76si6fGUmu2Qq.jpg</fanart>
+</item>
+
+
+<item>
+<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] [COLOR lime] A Todo Gas 8[/COLOR]</title>
+<link>$doregex[getUrl]|Referer=http://partagora.com/Catoal/pilla-64224/atg8,761603,list,1,1.mov</link>
+<thumbnail>https://image.tmdb.org/t/p/w640/iWogXuzOPg2sreRFQfh8tUnLss7.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/awuUwOAGCPqC4mIDQmeKdPiiLR5.jpg</fanart>
+<regex><name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re , requests 
+def GetLSProData(page_data,Cookie_Jar,m):
+ url='http://partagora.com/Catoal/pilla-64224/atg8,761603,list,1,1.mov'
+ headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Referer': ''}
+ r = requests.get(url, headers=headers).text
+ vfile , vtoken = re.findall('action/DownloadFile.*?fileId.*?value="(.*?)".*?Token".*?value="(.*?)"', r)[0]
+ #print data_a
+ ref = url
+ headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Referer': ref,'X-Requested-With': 'XMLHttpRequest'}
+ data_a ={'fileId': vfile , '__RequestVerificationToken': vtoken}
+ nr = requests.post('http://partagora.com/action/DownloadFile?location=fi&amp;f=761603', headers=headers, data=data_a).text
+ movie = re.findall('DownloadUrl":"(.*?)"', nr)[0]
+ print movie 
+ return movie 
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://cultura.villarrobledo.com/wp-content/uploads/Underworld_Guerras_de_Sangre_-_Teaser_.jpg_cmyk.jpg</thumbnail>
+<fanart>http://es.web.img2.acsta.net/newsv7/16/10/30/14/18/288342.jpg</fanart>
+</item>
+
+<item> <!-- 1080 -->
+<title>[ [COLOR blue]C[/COLOR][COLOR yellow]T[/COLOR][COLOR red]A[/COLOR] ] [COLOR lime] El Libro de la selva[/COLOR]</title>
+<thumbnail>https://image.tmdb.org/t/p/w640/7cxfpgeAAeNcATy0nyOvXM4sPNr.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/eIOTsGg9FCVrBc4r2nXaV61JF4F.jpg</fanart>
+<link>$doregex[url]|Cookie=$get_cookies$</link>
+<regex>
+<name>url</name> <!--cta-->
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+    import re
+    strurl = (re.findall('"fmt_stream_map.*?37\|(https.*?)\|', page_data)[0]).replace('\\u0026', '&').replace('\\u003d', '=')
+    return strurl
+]]></expres>
+<page>https://drive.google.com/open?id=0B5zoyWG3nNtCcG43Wkl6OUJ0bGs</page>
+<cookieJar></cookieJar>
+</item>
+
+<item> <!-- 1080 -->
+<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] [COLOR lime] Monster Trucks[/COLOR]</title>
+<thumbnail>https://image.tmdb.org/t/p/w640/2Vr47xEcWIik5qnaNjSVCKx1REm.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/jKIUU6uEAd1UgaPGjNmnQSvV22k.jpg</fanart>
+<link>$doregex[url]|Cookie=$get_cookies$</link>
+<regex>
+<name>url</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+    import re
+    strurl = (re.findall('"fmt_stream_map.*?37\|(https.*?)\|', page_data)[0]).replace('\\u0026', '&').replace('\\u003d', '=')
+    return strurl
+]]></expres>
+<page>https://drive.google.com/open?id=0B5zoyWG3nNtCaWRmSEpMXzVTMVU</page>
+<cookieJar></cookieJar>
+</item>
+
+<item>
+<title>[ [COLOR blue]C[/COLOR][COLOR yellow]T[/COLOR][COLOR red]A[/COLOR] ] [COLOR gold][B]3D[/B][COLOR lime] ¡Canta![/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='https://drive.google.com/open?id=0B5zoyWG3nNtCLUs0VUVhRHJrTkE'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://image.tmdb.org/t/p/w640/yOQ2KnZQvXpM6RPiEjovY6syeTd.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/s81LxtnpgEc2xWh4DWe3u0uRcpc.jpg</fanart>
+</item>
+
+<item>
+<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ]  [COLOR lime] Comancheria[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='https://drive.google.com/open?id=0B5zoyWG3nNtCMDNfNEFxUmtoc0E'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://image.tmdb.org/t/p/w640/tJbbQPZuzCV7kAQ0743Xjh67Bk6.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/fbw7dG2FPoPeTVFKfKaurorbbO8.jpg</fanart>
+</item>
+
+<item> <!-- 1080 -->
+<title>[ [COLOR blue]C[/COLOR][COLOR yellow]T[/COLOR][COLOR red]A[/COLOR] ] [COLOR lime] Assassins Creed[/COLOR]</title>
+<thumbnail>http://pics.filmaffinity.com/assassin_s_creed-271195640-large.jpg</thumbnail>
+<fanart>https://ubistatic19-a.akamaihd.net/ubicomstatic/es-ES/global/media/Header_1600x1000_264197.jpg</fanart>
+<link>$doregex[url]|Cookie=$get_cookies$</link>
+<regex>
+<name>url</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+    import re
+    strurl = (re.findall('"fmt_stream_map.*?37\|(https.*?)\|', page_data)[0]).replace('\\u0026', '&').replace('\\u003d', '=')
+    return strurl
+]]></expres>
+<page>https://drive.google.com/open?id=0B5zoyWG3nNtCUGp4NWhvbkhveXc</page>
+<cookieJar></cookieJar>
+</item>
+
+<item>
+<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ]  [COLOR gold][B]3D[/B][COLOR lime] Assassins Creed[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='https://drive.google.com/open?id=0B5zoyWG3nNtCLUs0VUVhRHJrTkE'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/assassin_s_creed-271195640-large.jpg</thumbnail>
+<fanart>https://ubistatic19-a.akamaihd.net/ubicomstatic/es-ES/global/media/Header_1600x1000_264197.jpg</fanart>
+</item>
+
+
+<item> <!-- 1080 -->
+<title>[ [COLOR blue]C[/COLOR][COLOR yellow]T[/COLOR][COLOR red]A[/COLOR] ] [COLOR lime] El Editor de Libros[/COLOR]</title>
+<thumbnail>http://es.web.img2.acsta.net/pictures/16/06/08/10/18/368568.jpg</thumbnail>
+<fanart>http://es.web.img3.acsta.net/pictures/16/06/14/17/27/524335.jpg</fanart>
+<link>$doregex[url]|Cookie=$get_cookies$</link>
+<regex>
+<name>url</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+    import re
+    strurl = (re.findall('"fmt_stream_map.*?37\|(https.*?)\|', page_data)[0]).replace('\\u0026', '&').replace('\\u003d', '=')
+    return strurl
+]]></expres>
+<page>https://drive.google.com/open?id=0B5zoyWG3nNtCSGRMQVhsZ1llOHM</page>
+<cookieJar></cookieJar>
+</item>
+
+<item> <!-- 1080 -->
+<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ]  [COLOR lime] Teen Titans el Contrato de judas[/COLOR]</title>
+<thumbnail>http://pics.filmaffinity.com/Teen_Titans_The_Judas_Contract-492728072-large.jpg</thumbnail>
+<fanart>http://blogdesuperheroes.es/wp-content/plugins/BdSGallery/BdSGaleria/44918.jpg</fanart>
+<link>$doregex[url]|Cookie=$get_cookies$</link>
+<regex>
+<name>url</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+    import re
+    strurl = (re.findall('"fmt_stream_map.*?37\|(https.*?)\|', page_data)[0]).replace('\\u0026', '&').replace('\\u003d', '=')
+    return strurl
+]]></expres>
+<page>https://drive.google.com/open?id=0B5zoyWG3nNtCU2YtZktjSU04bHc</page>
+<cookieJar></cookieJar>
+</item>
+
+<item>
+<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ]  ][COLOR lime] Logan - Español  (con subs asiaticos) HDTV[/COLOR]</title>
+<link>$doregex[getUrl]|Referer=http://partagora.com/Catoal/pilla-64224/logan,703021,list,1,1.avi</link>
+<thumbnail>http://inyoumagazine.com/wp-content/uploads/2016/10/gyht.jpg</thumbnail>
+<fanart>http://statcdn.fandango.com/MPX/image/NBCU_Fandango/827/883/logan_trailer1.jpg</fanart>
+<regex><name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re , requests 
+def GetLSProData(page_data,Cookie_Jar,m):
+ url='http://partagora.com/Catoal/pilla-64224/logan,703021,list,1,1.avi'
+ headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Referer': ''}
+ r = requests.get(url, headers=headers).text
+ vfile , vtoken = re.findall('action/DownloadFile.*?fileId.*?value="(.*?)".*?Token".*?value="(.*?)"', r)[0]
+ #print data_a
+ ref = url
+ headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Referer': ref,'X-Requested-With': 'XMLHttpRequest'}
+ data_a ={'fileId': vfile , '__RequestVerificationToken': vtoken}
+ nr = requests.post('http://partagora.com/action/DownloadFile?location=fi&amp;f=703021', headers=headers, data=data_a).text
+ movie = re.findall('DownloadUrl":"(.*?)"', nr)[0]
+ print movie 
+ return movie 
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://inyoumagazine.com/wp-content/uploads/2016/10/gyht.jpg</thumbnail>
+<fanart>http://statcdn.fandango.com/MPX/image/NBCU_Fandango/827/883/logan_trailer1.jpg</fanart>
+</item>
+
+<item> <!-- 1080 -->
+<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] [COLOR gold][B]3D[/B][COLOR lime] Star Wars - Rouge one[/COLOR]</title>
+<thumbnail>http://s21.postimg.org/8jau0fy5j/cwq_bzvxeaevup4.jpg</thumbnail>
+<fanart>http://www.zona84.es/wp-content/uploads/2016/11/darth-vader-star-wars-rogue-one-reveal.jpg</fanart>
+<link>$doregex[url]|Cookie=$get_cookies$</link>
+<regex>
+<name>url</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+    import re
+    strurl = (re.findall('"fmt_stream_map.*?37\|(https.*?)\|', page_data)[0]).replace('\\u0026', '&').replace('\\u003d', '=')
+    return strurl
+]]></expres>
+<page>https://drive.google.com/open?id=0B5zoyWG3nNtCQlF3RDZNNjlIVTA</page>
+<cookieJar></cookieJar>
+</item>
+
+<item>
+<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ]  ][COLOR gold] HD 1080[/COLOR][COLOR lime] Star Wars - Rouge one[/COLOR]</title>
+<link>$doregex[getUrl]|Accept-Encoding=gzip, deflate, sdch</link>
+<thumbnail>http://s21.postimg.org/8jau0fy5j/cwq_bzvxeaevup4.jpg</thumbnail>
+<fanart>http://www.zona84.es/wp-content/uploads/2016/11/darth-vader-star-wars-rogue-one-reveal.jpg</fanart>
+<regex><name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re , requests ,json
+def GetLSProData(page_data,Cookie_Jar,m):
+
+ ref = 'http://copiapop.com/ataulfo/mes-pelis-103680' 
+ url='http://copiapop.com/ataulfo/mes-pelis-103680/769224-rgo,1632078,list,1,2.mkv'
+ headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Referer': ref ,
+            'X-Requested-With' : 'XMLHttpRequest' , 'Accept' : '*/*'}
+ session = requests.Session()
+ r = session.get(url, headers=headers)
+ rv1 = r.cookies
+
+ vfile , vtoken = re.findall('action/DownloadFile.*?fileId.*?value="(.*?)".*?Token".*?value="(.*?)"', r.text)[0]
+ data_a ={'fileId': vfile , '__RequestVerificationToken': vtoken}
+ nr = requests.post('http://copiapop.com/action/DownloadFile?location=fi&f=%s'%vfile , headers=headers,cookies=rv1 , data=data_a).text
+ nrj=json.loads(nr)
+ nr = nrj['Content']
+ r2 = re.findall(r'(?s)value=\"(.*?)\"', nr)[0]
+ data_a ={'__RequestVerificationToken': r2 , 'Username': 'amistad' , 'Password' : 'asegurada'}
+ nr1 = requests.post('http://copiapop.com/action/Account/Login', headers=headers,cookies = rv1 , data=data_a)
+ print nr1.headers['Set-Cookie']
+ rasp = re.findall('ASPXAUTH_v2=(.*?);', nr1.headers['Set-Cookie'])[0]
+ rv1['.ASPXAUTH_v2'] = rasp
+ data_a ={'fileId': vfile , '__RequestVerificationToken': vtoken}
+ nr3 = requests.post('http://copiapop.com/action/DownloadFile?location=fi&f=%s'%vfile , headers=headers, cookies = rv1 , data=data_a).text
+ r3 = re.findall('DownloadUrl":"(.*?)"', nr3)[0]
+ print r3
+ return r3
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] [COLOR lime] Star Wars - Rouge one[/COLOR]</title>
+<urlsolve>http://streamcloud.eu/kxckrd3grkug</urlsolve>
+<thumbnail>http://s21.postimg.org/8jau0fy5j/cwq_bzvxeaevup4.jpg</thumbnail>
+<fanart>http://www.zona84.es/wp-content/uploads/2016/11/darth-vader-star-wars-rogue-one-reveal.jpg</fanart>
+</item>
+
+<item>
+<title>[ [COLOR blue]C[/COLOR][COLOR yellow]T[/COLOR][COLOR red]A[/COLOR] ][COLOR lime] Hombres de valor[/COLOR]</title>
+<link>$doregex[getUrl]|Accept-Encoding=gzip, deflate, sdch</link>
+<thumbnail>http://www.cineycine.com/archivos/2016/05/uss-indianapolis-poster-usa400.jpg</thumbnail>
+<fanart>http://es.web.img3.acsta.net/c_300_300/pictures/16/03/10/13/53/388470.jpg</fanart>
+<regex><name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re , requests ,json
+def GetLSProData(page_data,Cookie_Jar,m):
+
+ ref = 'http://copiapop.com/ataulfo/mes-pelis-103680' 
+ url='http://copiapop.com/ataulfo/mes-pelis-103680/594839-hdv,1624338,list,1,2.mkv'
+ headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Referer': ref ,
+            'X-Requested-With' : 'XMLHttpRequest' , 'Accept' : '*/*'}
+ session = requests.Session()
+ r = session.get(url, headers=headers)
+ rv1 = r.cookies
+
+ vfile , vtoken = re.findall('action/DownloadFile.*?fileId.*?value="(.*?)".*?Token".*?value="(.*?)"', r.text)[0]
+ data_a ={'fileId': vfile , '__RequestVerificationToken': vtoken}
+ nr = requests.post('http://copiapop.com/action/DownloadFile?location=fi&f=%s'%vfile , headers=headers,cookies=rv1 , data=data_a).text
+ nrj=json.loads(nr)
+ nr = nrj['Content']
+ r2 = re.findall(r'(?s)value=\"(.*?)\"', nr)[0]
+ data_a ={'__RequestVerificationToken': r2 , 'Username': 'amistad' , 'Password' : 'asegurada'}
+ nr1 = requests.post('http://copiapop.com/action/Account/Login', headers=headers,cookies = rv1 , data=data_a)
+ print nr1.headers['Set-Cookie']
+ rasp = re.findall('ASPXAUTH_v2=(.*?);', nr1.headers['Set-Cookie'])[0]
+ rv1['.ASPXAUTH_v2'] = rasp
+ data_a ={'fileId': vfile , '__RequestVerificationToken': vtoken}
+ nr3 = requests.post('http://copiapop.com/action/DownloadFile?location=fi&f=%s'%vfile , headers=headers, cookies = rv1 , data=data_a).text
+ r3 = re.findall('DownloadUrl":"(.*?)"', nr3)[0]
+ print r3
+ return r3
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ]  [COLOR gold][B]3D[/B][COLOR lime] Vaiana[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='https://drive.google.com/open?id=0B5zoyWG3nNtCODdwa0x5c0puYW8'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://es.web.img2.acsta.net/pictures/16/09/21/11/07/103296.jpg</thumbnail>
+<fanart>http://es.web.img3.acsta.net/newsv7/16/07/20/15/41/502665.jpg</fanart>
+</item>
+
+<item> <!-- 1080 -->
+<title>[ [COLOR blue]C[/COLOR][COLOR yellow]T[/COLOR][COLOR red]A[/COLOR] ] [COLOR lime] La Noche que mi Madre Mató a mi Padre[/COLOR]</title>
+<thumbnail>http://pics.filmaffinity.com/la_noche_que_mi_madre_mato_a_mi_padre-826322137-large.jpg</thumbnail>
+<fanart>http://img.rtve.es/v/3591504?w=1180&preview=1461911156570.jpg</fanart>
+<link>$doregex[url]|Cookie=$get_cookies$</link>
+<regex>
+<name>url</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+    import re
+    strurl = (re.findall('"fmt_stream_map.*?37\|(https.*?)\|', page_data)[0]).replace('\\u0026', '&').replace('\\u003d', '=')
+    return strurl
+]]></expres>
+<page>https://drive.google.com/open?id=0B5zoyWG3nNtCVElYZDA5dTh2TmM</page>
+<cookieJar></cookieJar>
+</item>
+
+<item>
+<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] [COLOR lime] Underworld V Guerras de sangre[/COLOR]</title>
+<link>$doregex[getUrl]|Referer=http://partagora.com/Catoal/pilla-64224/underworld-v-guerras-de-sangre,672078,list,1,1.mp4</link>
+<thumbnail>http://cultura.villarrobledo.com/wp-content/uploads/Underworld_Guerras_de_Sangre_-_Teaser_.jpg_cmyk.jpg</thumbnail>
+<fanart>http://es.web.img2.acsta.net/newsv7/16/10/30/14/18/288342.jpg</fanart>
+<regex><name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re , requests 
+def GetLSProData(page_data,Cookie_Jar,m):
+ url='http://partagora.com/Catoal/pilla-64224/underworld-v-guerras-de-sangre,672078,list,1,1.mp4'
+ headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Referer': ''}
+ r = requests.get(url, headers=headers).text
+ vfile , vtoken = re.findall('action/DownloadFile.*?fileId.*?value="(.*?)".*?Token".*?value="(.*?)"', r)[0]
+ #print data_a
+ ref = url
+ headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Referer': ref,'X-Requested-With': 'XMLHttpRequest'}
+ data_a ={'fileId': vfile , '__RequestVerificationToken': vtoken}
+ nr = requests.post('http://partagora.com/action/DownloadFile?location=fi&amp;f=672078', headers=headers, data=data_a).text
+ movie = re.findall('DownloadUrl":"(.*?)"', nr)[0]
+ print movie 
+ return movie 
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://cultura.villarrobledo.com/wp-content/uploads/Underworld_Guerras_de_Sangre_-_Teaser_.jpg_cmyk.jpg</thumbnail>
+<fanart>http://es.web.img2.acsta.net/newsv7/16/10/30/14/18/288342.jpg</fanart>
+</item>
+
+<item>
+<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ]  ][COLOR lime] Conexión Estambul[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/7w5z04c1hv98'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/tschiller_off_duty_tv-372708396-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/tschiller_off_duty_tv-372708396-large.jpg</fanart>
+</item>
+
+<item>
+<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ]  [COLOR lime] Vaiana[/COLOR]</title>
+<urlsolve>http://streamcloud.eu/npz763xpybyg</urlsolve>
+<thumbnail>http://es.web.img2.acsta.net/pictures/16/09/21/11/07/103296.jpg</thumbnail>
+<fanart>http://es.web.img3.acsta.net/newsv7/16/07/20/15/41/502665.jpg</fanart>
+</item>
+
+<item>
+<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ]  [COLOR lime] La Reina de españa[/COLOR]</title>
+<urlsolve>http://streamcloud.eu/w7u08ys77jls</urlsolve>
+<thumbnail>http://es.web.img3.acsta.net/pictures/16/11/07/13/01/287360.jpg</thumbnail>
+<fanart>http://es.web.img2.acsta.net/videothumbnails/16/09/08/10/19/311129.jpg</fanart>
+</item>
+
+<item>
+<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ]  [COLOR lime] Fiesta de empresa[/COLOR]</title>
+<urlsolve>http://streamcloud.eu/pe7nevg1nq2y</urlsolve>
+<thumbnail>http://pelicula-gratuito.online/wp-content/uploads/2016/12/FIESTA-DE-EMPRESA.jpg</thumbnail>
+<fanart>http://estaticos3.nochedecine.com/wp-content/uploads/2016/11/nt_16_cartel-teaser-FIESTA-DE-EMPRESA-destacada.jpg</fanart>
+</item>
+
+<item>
+<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ]  [COLOR lime] 1898. Los últimos de filipinas[/COLOR]</title>
+<urlsolve>http://streamcloud.eu/xvkvp0ek7eer</urlsolve>
+<thumbnail>http://pics.filmaffinity.com/1898_los_ultimos_de_filipinas-735303912-large.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/RTQDpiGVuEA/maxresdefault.jpg</fanart>
+</item>
+
+<item> <!-- 1080 -->
+<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ]  [COLOR gold][B]3D[/B][COLOR lime] Warcraft: El origen[/COLOR]</title>
+<thumbnail>http://www.cinecalidad.com/espana/wp-content/uploads/2016/09/warcraft-el-origen.jpg</thumbnail>
+<fanart>http://i.imgur.com/ThxGCxm.jpg</fanart>
+<link>$doregex[url]|Cookie=$get_cookies$</link>
+<regex>
+<name>url</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+    import re
+    strurl = (re.findall('"fmt_stream_map.*?37\|(https.*?)\|', page_data)[0]).replace('\\u0026', '&').replace('\\u003d', '=')
+    return strurl
+]]></expres>
+<page>https://drive.google.com/open?id=0B5zoyWG3nNtCUnFlb01LVW9iNlU</page>
+<cookieJar></cookieJar>
+</item>
+
+<item> <!-- 1080 -->
+<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ]  [COLOR gold] HD 1080[/COLOR] Villaviciosa de al lado[/COLOR]</title>
+<thumbnail>http://pics.filmaffinity.com/villaviciosa_de_al_lado-665174723-large.jpg</thumbnail>
+<fanart>http://static.noticiasdealava.com/images/2016/12/02/villaviciosa-de-al-lado-1_4225_1.jpg</fanart>
+<link>$doregex[url]|Cookie=$get_cookies$</link>
+<regex>
+<name>url</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+    import re
+    strurl = (re.findall('"fmt_stream_map.*?37\|(https.*?)\|', page_data)[0]).replace('\\u0026', '&').replace('\\u003d', '=')
+    return strurl
+]]></expres>
+<page>https://drive.google.com/open?id=0B5zoyWG3nNtCVEF0TTVxSy1xUmM</page>
+<cookieJar></cookieJar>
+</item>
+
+<item>
+<title>[ [COLOR blue]C[/COLOR][COLOR yellow]T[/COLOR][COLOR red]A[/COLOR] ][COLOR lime] Villaviciosa de al lado[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/b79m96bh63td'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/villaviciosa_de_al_lado-665174723-large.jpg</thumbnail>
+<fanart>http://static.noticiasdealava.com/images/2016/12/02/villaviciosa-de-al-lado-1_4225_1.jpg</fanart>
+</item>
+
+<item>
+<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] [COLOR lime] Marea Negra[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/c7kscclhzyz3'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.mubis.es/media/movies/5088/155486/marea-negra-original.jpg</thumbnail>
+<fanart>http://ep00.epimg.net/tematicos/imagenes/2016/11/14/elpaismas/1479121984_646981_1479122178_noticia_normal.jpg</fanart>
+</item>
+
+<item> <!-- 1080 -->
+<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] [COLOR lime] Un traidor entre nosotros[/COLOR]</title>
+<thumbnail>http://static.wixstatic.com/media/93e1f0_41aa05203d574e00ac92dc84de4e9f75~mv2.jpg</thumbnail>
+<fanart>http://cde.3.elcomercio.pe/ima/0/1/4/8/9/1489752/base_image.jpg</fanart>
+<link>$doregex[url]|Cookie=$get_cookies$</link>
+<regex>
+<name>url</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+    import re
+    strurl = (re.findall('"fmt_stream_map.*?37\|(https.*?)\|', page_data)[0]).replace('\\u0026', '&').replace('\\u003d', '=')
+    return strurl
+]]></expres>
+<page>https://drive.google.com/open?id=0B5zoyWG3nNtCMDF5WGNGd0ttQ3M</page>
+<cookieJar></cookieJar>
+</item>
+
+<item>
+<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] [COLOR lime] Aliados[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/dji47p2s2m2a'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://media.salir-static.net/_images_/peliculas/9/4/b/c/cartel_aliados_0.jpg</thumbnail>
+<fanart>http://estaticos04.expansion.com/elparentesis/aliados/imagenes/foto_1_modificada.jpg</fanart>
+</item>
+
+<item> <!-- 1080 -->
+<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] COLOR gold][B]3D[/B][/COLOR][COLOR lime] Animales fantásticos y dónde encontrarlos[/COLOR]</title>
+<thumbnail>http://www.cinecalidad.to/espana/wp-content/uploads/2017/02/animales-fantasticos-y-donde-encontrarlos.jpg</thumbnail>
+<fanart>http://cinepremiere.impresionesaerea.netdna-cdn.com/noticias/2016/08-agosto/Animales-fantasticos-y-donde-encontrarlos-secuela.jpg</fanart>
+<link>$doregex[url]|Cookie=$get_cookies$</link>
+<regex>
+<name>url</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+    import re
+    strurl = (re.findall('"fmt_stream_map.*?37\|(https.*?)\|', page_data)[0]).replace('\\u0026', '&').replace('\\u003d', '=')
+    return strurl
+]]></expres>
+<page>https://drive.google.com/open?id=0B5zoyWG3nNtCMV9fZ1NkbFlsd3c</page>
+<cookieJar></cookieJar>
+</item>
+
+<item>
+<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] [COLOR lime] No culpes al karma de lo que te pasa por gilipollas[/COLOR]</title>
+<link>$doregex[getUrl]|Referer=http://partagora.com/Catoal/pilla-64224/noculpesalkarmadeloquete,645266,list,1,1.mp4
+</link>
+<thumbnail>http://es.web.img3.acsta.net/c_215_290/pictures/16/10/05/12/57/096367.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/2ufHXTryOKY/maxresdefault.jpg</fanart>
+<regex><name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re , requests 
+def GetLSProData(page_data,Cookie_Jar,m):
+ url='http://partagora.com/Catoal/pilla-64224/noculpesalkarmadeloquete,645266,list,1,1.mp4'
+ headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Referer': ''}
+ r = requests.get(url, headers=headers).text
+ vfile , vtoken = re.findall('action/DownloadFile.*?fileId.*?value="(.*?)".*?Token".*?value="(.*?)"', r)[0]
+ #print data_a
+ ref = url
+ headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Referer': ref,'X-Requested-With': 'XMLHttpRequest'}
+ data_a ={'fileId': vfile , '__RequestVerificationToken': vtoken}
+ nr = requests.post('http://partagora.com/action/DownloadFile?location=fi&amp;f=645266', headers=headers, data=data_a).text
+ movie = re.findall('DownloadUrl":"(.*?)"', nr)[0]
+ print movie 
+ return movie 
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://es.web.img3.acsta.net/c_215_290/pictures/16/10/05/12/57/096367.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/2ufHXTryOKY/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] [COLOR lime] Malditos Vecinos[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://es.web.img2.acsta.net/pictures/14/03/20/13/33/069578.jpg</thumbnail>
+<fanart>https://i.blogs.es/0102bd/malditos-vecinos-cartel/original.jpg</fanart>
+<externallink>&#104;&#116;&#116;&#112;&#115;://&#114;&#097;&#119;&#046;&#103;&#105;&#116;&#104;&#117;&#098;&#117;&#115;&#101;&#114;&#099;&#111;&#110;&#116;&#101;&#110;&#116;&#046;&#099;&#111;&#109;/&#067;&#097;&#114;&#108;&#101;&#115;&#116;&#111;/&#080;&#101;&#108;&#105;&#099;&#117;&#108;&#097;&#115;/&#109;&#097;&#115;&#116;&#101;&#114;/&#083;&#068;&#095;&#072;&#068;/malditosvecinos.xml</externallink>	
+</item>
+
+<item>
+<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] [COLOR lime] Malditos Vecinos 2[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://es.web.img2.acsta.net/pictures/16/03/22/13/25/066732.jpg</thumbnail>
+<fanart>http://im.ziffdavisinternational.com/ign_es/screenshot/default/malditos-vecinos-2-horizontal-1_b1fw.jpg</fanart>
+<externallink>&#104;&#116;&#116;&#112;&#115;://&#114;&#097;&#119;&#046;&#103;&#105;&#116;&#104;&#117;&#098;&#117;&#115;&#101;&#114;&#099;&#111;&#110;&#116;&#101;&#110;&#116;&#046;&#099;&#111;&#109;/&#067;&#097;&#114;&#108;&#101;&#115;&#116;&#111;/&#080;&#101;&#108;&#105;&#099;&#117;&#108;&#097;&#115;/&#109;&#097;&#115;&#116;&#101;&#114;/&#083;&#068;&#095;&#072;&#068;/malditosvecinos2.xml</externallink>	
+</item>
+
+<item>
+<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] [COLOR lime] Las Aparencias Engañan[/COLOR]</title>
+<link>$doregex[getUrl]|Referer=http://diskokosmiko.mx/elibertol/-49050/p,789474,list,1,3.avi</link>
+<thumbnail>http://image.tmdb.org/t/p/w300/ysJ7q8WQR3oeeInBXoeOJZXPL5g.jpg</thumbnail>
+<fanart>http://estaticos1.nochedecine.com/wp-content/uploads/2016/08/nt_16_Las-apariencias-enga%C3%B1an-carrusel-650x435.jpg</fanart>
+<regex><name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re , requests 
+def GetLSProData(page_data,Cookie_Jar,m):
+ url='http://diskokosmiko.mx/elibertol/-49050/p,789474,list,1,3.avi'
+ headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Referer': ''}
+ r = requests.get(url, headers=headers).text
+ vfile , vtoken = re.findall('action/DownloadFile.*?fileId.*?value="(.*?)".*?Token".*?value="(.*?)"', r)[0]
+ #print data_a
+ ref = url
+ headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Referer': ref,'X-Requested-With': 'XMLHttpRequest'}
+ data_a ={'fileId': vfile , '__RequestVerificationToken': vtoken}
+ nr = requests.post('http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=789474', headers=headers, data=data_a).text
+ movie = re.findall('DownloadUrl":"(.*?)"', nr)[0]
+ print movie 
+ return movie 
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.elotrocine.cl/wp-content/uploads/2016/08/NerudaAfiche1.jpg</thumbnail>
+<fanart>http://www.concierto.cl/files/2016/09/Neruda_afiches-GneccoGael.jpg</fanart>
+</item>
+
+<item>
+<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] [COLOR lime] Scooby-Doo! Duelo en el viejo oeste[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/8v5rljkc77nd'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://2.bp.blogspot.com/-3Gk0Mc0I_N0/WKMZb22oDXI/AAAAAAAAIxo/GjWSeTuaRWMg6h_vBaoLYng4nhSmgEu2ACLcB/s400/sssssss.jpg</thumbnail>
+<fanart>http://i63.tinypic.com/mjtjk3.jpg</fanart>
+</item>
+
+<item>
+<title>[ [COLOR blue]C[/COLOR][COLOR yellow]T[/COLOR][COLOR red]A[/COLOR] ][COLOR lime] La Leyenda del Chupacabras[/COLOR]</title>
+<link>$doregex[getUrl]|Accept-Encoding=gzip, deflate, sdch</link>
+<thumbnail>http://onlinefullwatch.co/wp-content/uploads/2016/09/La-Leyenda-del-Chupacabras-2016-Online-Free-HD-Movie.jpg</thumbnail>
+<fanart>https://www.control-total.net/wp-content/uploads/2016/10/IMG_5196.jpg</fanart>
+<regex><name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re , requests ,json
+def GetLSProData(page_data,Cookie_Jar,m):
+
+ ref = 'http://copiapop.com/ataulfo/mas-pelis-94361' 
+ url='http://copiapop.com/ataulfo/mas-pelis-94361/609890-ldc,1534389,list,1,2.mkv'
+ headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Referer': ref ,
+            'X-Requested-With' : 'XMLHttpRequest' , 'Accept' : '*/*'}
+ session = requests.Session()
+ r = session.get(url, headers=headers)
+ rv1 = r.cookies
+
+ vfile , vtoken = re.findall('action/DownloadFile.*?fileId.*?value="(.*?)".*?Token".*?value="(.*?)"', r.text)[0]
+ data_a ={'fileId': vfile , '__RequestVerificationToken': vtoken}
+ nr = requests.post('http://copiapop.com/action/DownloadFile?location=fi&f=%s'%vfile , headers=headers,cookies=rv1 , data=data_a).text
+ nrj=json.loads(nr)
+ nr = nrj['Content']
+ r2 = re.findall(r'(?s)value=\"(.*?)\"', nr)[0]
+ data_a ={'__RequestVerificationToken': r2 , 'Username': 'amistad' , 'Password' : 'asegurada'}
+ nr1 = requests.post('http://copiapop.com/action/Account/Login', headers=headers,cookies = rv1 , data=data_a)
+ print nr1.headers['Set-Cookie']
+ rasp = re.findall('ASPXAUTH_v2=(.*?);', nr1.headers['Set-Cookie'])[0]
+ rv1['.ASPXAUTH_v2'] = rasp
+ data_a ={'fileId': vfile , '__RequestVerificationToken': vtoken}
+ nr3 = requests.post('http://copiapop.com/action/DownloadFile?location=fi&f=%s'%vfile , headers=headers, cookies = rv1 , data=data_a).text
+ r3 = re.findall('DownloadUrl":"(.*?)"', nr3)[0]
+ print r3
+ return r3
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] [COLOR lime] Toda la Verdad[/COLOR]</title>
+<link>$doregex[getUrl]|Referer=http://diskokosmiko.mx/elibertol/ot-48149/358521-tlv,783734,list,1,3.mkv
+</link>
+<thumbnail>http://pics.filmaffinity.com/the_whole_truth-656626274-large.jpg</thumbnail>
+<fanart>http://image.tmdb.org/t/p/w300/49xLFrqrU1KIoQpUlixlOhiDbU6.jpg</fanart>
+<regex><name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re , requests 
+def GetLSProData(page_data,Cookie_Jar,m):
+ url='http://diskokosmiko.mx/elibertol/ot-48149/358521-tlv,783734,list,1,3.mkv'
+ headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Referer': ''}
+ r = requests.get(url, headers=headers).text
+ vfile , vtoken = re.findall('action/DownloadFile.*?fileId.*?value="(.*?)".*?Token".*?value="(.*?)"', r)[0]
+ #print data_a
+ ref = url
+ headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Referer': ref,'X-Requested-With': 'XMLHttpRequest'}
+ data_a ={'fileId': vfile , '__RequestVerificationToken': vtoken}
+ nr = requests.post('http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=783734', headers=headers, data=data_a).text
+ movie = re.findall('DownloadUrl":"(.*?)"', nr)[0]
+ print movie 
+ return movie 
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.elotrocine.cl/wp-content/uploads/2016/08/NerudaAfiche1.jpg</thumbnail>
+<fanart>http://www.concierto.cl/files/2016/09/Neruda_afiches-GneccoGael.jpg</fanart>
+</item>
+
+<item> <!-- 1080 -->
+<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] [COLOR lime] Lego Scooby Doo Hollywood Encantado[/COLOR]</title>
+<thumbnail>http://i64.tinypic.com/2r2sjyv.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w1280/t9h9ryrSD12qokh1trcZzOQNAI9.jpg</fanart>
+<link>$doregex[url]|Cookie=$get_cookies$</link>
+<regex>
+<name>url</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+    import re
+    strurl = (re.findall('"fmt_stream_map.*?37\|(https.*?)\|', page_data)[0]).replace('\\u0026', '&').replace('\\u003d', '=')
+    return strurl
+]]></expres>
+<page>https://drive.google.com/open?id=0B5zoyWG3nNtCaksxUlQ0aEhlQWs</page>
+<cookieJar></cookieJar>
+</item>
+
+<item> <!-- 720 -->
+<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ][COLOR lime] Como Perros Salvajes[/COLOR]</title> 
+<thumbnail>http://www.lahiguera.net/cinemania/pelicula/7899/como_perros_salvajes-cartel-7319.jpg</thumbnail>
+<fanart>http://es.web.img2.acsta.net/pictures/16/12/19/15/25/160042.jpg</fanart>
+<link>$doregex[url]|Cookie=$get_cookies$</link>
+<regex>
+<name>url</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+    import re
+    strurl = (re.findall('"fmt_stream_map.*?22\|(https.*?)\|', page_data)[0]).replace('\\u0026', '&').replace('\\u003d', '=')
+    return strurl
+]]></expres>
+<page>https://drive.google.com/open?id=0B5zoyWG3nNtCUTJtQXZUOU9UaHM</page>
+<cookieJar></cookieJar>
+</item>
+
+<item> <!-- 1080 -->
+<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Verano en Brooklyn[/COLOR]</title>
+<thumbnail>http://es.web.img2.acsta.net/c_215_290/pictures/16/09/21/11/19/547007.jpg</thumbnail>
+<fanart>http://es.web.img3.acsta.net/videothumbnails/16/09/22/16/51/172463.jpg</fanart>
+<link>$doregex[url]|Cookie=$get_cookies$</link>
+<regex>
+<name>url</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+    import re
+    strurl = (re.findall('"fmt_stream_map.*?37\|(https.*?)\|', page_data)[0]).replace('\\u0026', '&').replace('\\u003d', '=')
+    return strurl
+]]></expres>
+<page>https://drive.google.com/open?id=0B5zoyWG3nNtCYWRoa1RJS1YtS1E</page>
+<cookieJar></cookieJar>
+</item>
