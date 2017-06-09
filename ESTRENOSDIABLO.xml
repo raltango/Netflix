@@ -655,7 +655,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[ [COLOR blue]C[/COLOR][COLOR yellow]T[/COLOR][COLOR red]A[/COLOR] ][COLOR lime] Hombres de valor[/COLOR]</title>
+<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ][COLOR lime] Hombres de valor[/COLOR]</title>
 <link>$doregex[getUrl]|Accept-Encoding=gzip, deflate, sdch</link>
 <thumbnail>http://www.cineycine.com/archivos/2016/05/uss-indianapolis-poster-usa400.jpg</thumbnail>
 <fanart>http://es.web.img3.acsta.net/c_300_300/pictures/16/03/10/13/53/388470.jpg</fanart>
