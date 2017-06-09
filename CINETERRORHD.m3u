@@ -227,6 +227,11 @@ plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=41991&peli=
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=81180&peli=pIqlcWqbcQ==&id=31037&tit=RWwgb3RybyBsYWRvIGRlIGxhIHB1ZXJ0YQ==
 #EXTINF:0,[COLOR skyblue] **[/COLOR][COLOR yellow]El pacto de los lobos [/COLOR][COLOR yellow](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=84230&peli=pIukbWuYeQ==&id=31590&tit=RWwgcGFjdG8gZGUgbG9zIGxvYm9z
+#EXTINF:0,[COLOR tomato] **[/COLOR][COLOR lime]El paso del diablo [/COLOR][COLOR lime](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=vrrmpJjLhA==&cole=58737&peli=qYypaWyb&id=33362&tit=RWwgcGFzbyBkZWwgZGlhYmxv
+#EXTINF:0,[COLOR tomato] **[/COLOR][COLOR lime]El perro de Baskerville [/COLOR][COLOR lime](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=3cbg&cole=25581&peli=p4uoa2qY&id=5626&tit=RWwgcGVycm8gZGUgQmFza2VydmlsbGU=
+
 
 
 
