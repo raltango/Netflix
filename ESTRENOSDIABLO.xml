@@ -38,7 +38,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/jtzfxn9cy6ca'
 </item>
 
 <item> <!-- 1080 -->
-<title>[ [COLOR blue]C[/COLOR][COLOR yellow]T[/COLOR][COLOR red]A[/COLOR] ] [COLOR lime] Batman: La LEGO película[/COLOR]</title>
+<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] [COLOR lime] Batman: La LEGO película[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w640/7YQ6FR7vuPkktPGQ0iUjLfmKI2K.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/1rIIzTMm1WVxMCiXdJKLMgGCcXb.jpg</fanart>
 <link>$doregex[url]|Cookie=$get_cookies$</link>
@@ -211,7 +211,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/1f0mx227ebuj'
 </item>
 
 <item>
-<title>[ [COLOR blue]C[/COLOR][COLOR yellow]T[/COLOR][COLOR red]A[/COLOR] ][COLOR lime] Xxx:Reactivado[/COLOR]</title>
+<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ][COLOR lime] Xxx:Reactivado[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -286,7 +286,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item> <!-- 1080 -->
-<title>[ [COLOR blue]C[/COLOR][COLOR yellow]T[/COLOR][COLOR red]A[/COLOR] ] [COLOR lime] Premonición[/COLOR]</title>
+<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] [COLOR lime] Premonición[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w640/4eMh0JBGqyT542GwLp8vBgOiL50.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/a8JW8gR2asNDJOEaAVPYoyQdlpa.jpg</fanart>
 <link>$doregex[url]|Cookie=$get_cookies$</link>
@@ -422,7 +422,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item> <!-- 1080 -->
-<title>[ [COLOR blue]C[/COLOR][COLOR yellow]T[/COLOR][COLOR red]A[/COLOR] ] [COLOR lime] El Libro de la selva[/COLOR]</title>
+<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ][COLOR lime] El Libro de la selva[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w640/7cxfpgeAAeNcATy0nyOvXM4sPNr.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/eIOTsGg9FCVrBc4r2nXaV61JF4F.jpg</fanart>
 <link>$doregex[url]|Cookie=$get_cookies$</link>
@@ -456,7 +456,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[ [COLOR blue]C[/COLOR][COLOR yellow]T[/COLOR][COLOR red]A[/COLOR] ] [COLOR gold][B]3D[/B][COLOR lime] ¡Canta![/COLOR]</title>
+<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] [COLOR gold][B]3D[/B][COLOR lime] ¡Canta![/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -492,7 +492,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='https://drive.google.com/open?id=0B
 </item>
 
 <item> <!-- 1080 -->
-<title>[ [COLOR blue]C[/COLOR][COLOR yellow]T[/COLOR][COLOR red]A[/COLOR] ] [COLOR lime] Assassins Creed[/COLOR]</title>
+<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] [COLOR lime] Assassins Creed[/COLOR]</title>
 <thumbnail>http://pics.filmaffinity.com/assassin_s_creed-271195640-large.jpg</thumbnail>
 <fanart>https://ubistatic19-a.akamaihd.net/ubicomstatic/es-ES/global/media/Header_1600x1000_264197.jpg</fanart>
 <link>$doregex[url]|Cookie=$get_cookies$</link>
@@ -528,7 +528,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='https://drive.google.com/open?id=0B
 
 
 <item> <!-- 1080 -->
-<title>[ [COLOR blue]C[/COLOR][COLOR yellow]T[/COLOR][COLOR red]A[/COLOR] ] [COLOR lime] El Editor de Libros[/COLOR]</title>
+<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] [COLOR lime] El Editor de Libros[/COLOR]</title>
 <thumbnail>http://es.web.img2.acsta.net/pictures/16/06/08/10/18/368568.jpg</thumbnail>
 <fanart>http://es.web.img3.acsta.net/pictures/16/06/14/17/27/524335.jpg</fanart>
 <link>$doregex[url]|Cookie=$get_cookies$</link>
@@ -713,7 +713,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='https://drive.google.com/open?id=0B
 </item>
 
 <item> <!-- 1080 -->
-<title>[ [COLOR blue]C[/COLOR][COLOR yellow]T[/COLOR][COLOR red]A[/COLOR] ] [COLOR lime] La Noche que mi Madre Mató a mi Padre[/COLOR]</title>
+<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ][COLOR lime] La Noche que mi Madre Mató a mi Padre[/COLOR]</title>
 <thumbnail>http://pics.filmaffinity.com/la_noche_que_mi_madre_mato_a_mi_padre-826322137-large.jpg</thumbnail>
 <fanart>http://img.rtve.es/v/3591504?w=1180&preview=1461911156570.jpg</fanart>
 <link>$doregex[url]|Cookie=$get_cookies$</link>
@@ -1020,7 +1020,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/8v5rljkc77nd'
 </item>
 
 <item>
-<title>[ [COLOR blue]C[/COLOR][COLOR yellow]T[/COLOR][COLOR red]A[/COLOR] ][COLOR lime] La Leyenda del Chupacabras[/COLOR]</title>
+<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ][COLOR lime] La Leyenda del Chupacabras[/COLOR]</title>
 <link>$doregex[getUrl]|Accept-Encoding=gzip, deflate, sdch</link>
 <thumbnail>http://onlinefullwatch.co/wp-content/uploads/2016/09/La-Leyenda-del-Chupacabras-2016-Online-Free-HD-Movie.jpg</thumbnail>
 <fanart>https://www.control-total.net/wp-content/uploads/2016/10/IMG_5196.jpg</fanart>
@@ -1105,6 +1105,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <page>https://drive.google.com/open?id=0B5zoyWG3nNtCaksxUlQ0aEhlQWs</page>
 <cookieJar></cookieJar>
 </item>
+
 
 <item> <!-- 720 -->
 <title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ][COLOR lime] Como Perros Salvajes[/COLOR]</title> 
