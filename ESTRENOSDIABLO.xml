@@ -1140,3 +1140,304 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <page>https://drive.google.com/open?id=0B5zoyWG3nNtCYWRoa1RJS1YtS1E</page>
 <cookieJar></cookieJar>
 </item>
+
+
+
+
+
+
+<item> <!-- 1080 -->
+<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] Norman del Norte[/COLOR]</title>
+<thumbnail>http://es.web.img3.acsta.net/pictures/16/02/09/13/04/159672.jpg</thumbnail>
+<fanart>http://es.web.img2.acsta.net/r_1280_720/pictures/15/08/25/10/00/008776.jpg</fanart>
+<link>$doregex[url]|Cookie=$get_cookies$</link>
+<regex>
+<name>url</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+    import re
+    strurl = (re.findall('"fmt_stream_map.*?37\|(https.*?)\|', page_data)[0]).replace('\\u0026', '&').replace('\\u003d', '=')
+    return strurl
+]]></expres>
+<page>https://drive.google.com/open?id=0B899bzyBZFp4SGVEVlVPV0FlMUk</page>
+<cookieJar></cookieJar>
+</item>
+
+
+<item>
+<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] Vaya Cambiazo[/COLOR]</title>
+<link>$doregex[getUrl]|Accept-Encoding=gzip, deflate, sdch</link>
+<thumbnail>https://2.bp.blogspot.com/-ev0hdyn1QKs/WIh0yo_llJI/AAAAAAAAMi0/kmL30bsKnWsOiGfg1TT4n5spwirq24w-ACLcB/s640/VAYA%2BCAMBIAZO%2BDISNEY%2BCHANNEL%2BPELICULA%2BORIGINAL%2BDCGROUPNEWS.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/6gA_g8FLjnU/hqdefault.jpg</fanart>
+<regex><name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re , requests ,json
+def GetLSProData(page_data,Cookie_Jar,m):
+
+ ref = 'http://copiapop.com/ataulfo/mas-pelis-94361' 
+ url='http://copiapop.com/ataulfo/mas-pelis-94361/340787-vcz,1530956.mkv'
+ headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Referer': ref ,
+            'X-Requested-With' : 'XMLHttpRequest' , 'Accept' : '*/*'}
+ session = requests.Session()
+ r = session.get(url, headers=headers)
+ rv1 = r.cookies
+
+ vfile , vtoken = re.findall('action/DownloadFile.*?fileId.*?value="(.*?)".*?Token".*?value="(.*?)"', r.text)[0]
+ data_a ={'fileId': vfile , '__RequestVerificationToken': vtoken}
+ nr = requests.post('http://copiapop.com/action/DownloadFile?location=fi&f=%s'%vfile , headers=headers,cookies=rv1 , data=data_a).text
+ nrj=json.loads(nr)
+ nr = nrj['Content']
+ r2 = re.findall(r'(?s)value=\"(.*?)\"', nr)[0]
+ data_a ={'__RequestVerificationToken': r2 , 'Username': 'amistad' , 'Password' : 'asegurada'}
+ nr1 = requests.post('http://copiapop.com/action/Account/Login', headers=headers,cookies = rv1 , data=data_a)
+ print nr1.headers['Set-Cookie']
+ rasp = re.findall('ASPXAUTH_v2=(.*?);', nr1.headers['Set-Cookie'])[0]
+ rv1['.ASPXAUTH_v2'] = rasp
+ data_a ={'fileId': vfile , '__RequestVerificationToken': vtoken}
+ nr3 = requests.post('http://copiapop.com/action/DownloadFile?location=fi&f=%s'%vfile , headers=headers, cookies = rv1 , data=data_a).text
+ r3 = re.findall('DownloadUrl":"(.*?)"', nr3)[0]
+ print r3
+ return r3
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] ¡Canta![/COLOR]</title>
+<link>$doregex[getUrl]|Referer=http://partagora.com/Catoal/pilla-64224/canta,630275,list,1,1.mp4
+</link>
+<thumbnail>http://www.labutaca.net/peliculas/wp-content/uploads/2015/11/sing-cartel1.jpg</thumbnail>
+<fanart>https://losinterrogantes.com/wp-content/uploads/2016/12/canta-pelicula-dibujos-imagen-03.jpg</fanart>
+<regex><name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re , requests 
+def GetLSProData(page_data,Cookie_Jar,m):
+ url='http://partagora.com/Catoal/pilla-64224/canta,630275,list,1,1.mp4'
+ headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Referer': ''}
+ r = requests.get(url, headers=headers).text
+ vfile , vtoken = re.findall('action/DownloadFile.*?fileId.*?value="(.*?)".*?Token".*?value="(.*?)"', r)[0]
+ #print data_a
+ ref = url
+ headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Referer': ref,'X-Requested-With': 'XMLHttpRequest'}
+ data_a ={'fileId': vfile , '__RequestVerificationToken': vtoken}
+ nr = requests.post('http://partagora.com/action/DownloadFile?location=fi&amp;f=630275', headers=headers, data=data_a).text
+ movie = re.findall('DownloadUrl":"(.*?)"', nr)[0]
+ print movie 
+ return movie 
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.labutaca.net/peliculas/wp-content/uploads/2015/11/sing-cartel1.jpg</thumbnail>
+<fanart>https://losinterrogantes.com/wp-content/uploads/2016/12/canta-pelicula-dibujos-imagen-03.jpg</fanart>
+<info>Buster Moon es un elegante koala que regenta un teatro que conoció tiempos mejores. Es un optimista nato, lo que está muy bien si no fuera un poco caradura, pero ama a su teatro con pasión y es capaz de cualquier cosa para salvarlo.</info>
+</item>
+
+<item>
+<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] 100 Metros[/COLOR]</title>
+<link>$doregex[getUrl]|Referer=http://partagora.com/Catoal/pilla-64224/100-metros,630175,list,1,1.mp4
+</link>
+<thumbnail>http://pics.filmaffinity.com/100_metros-170169519-mmed.jpg</thumbnail>
+<fanart>http://estaticos.elperiodico.com/resources/jpg/9/1/dani-rovira-karra-elejalde-una-imagen-pelicula-100-metros-que-ruedan-sant-just-desvern-1458413024319.jpg</fanart>
+<regex><name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re , requests 
+def GetLSProData(page_data,Cookie_Jar,m):
+ url='http://partagora.com/Catoal/pilla-64224/100-metros,630175,list,1,1.mp4'
+ headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Referer': ''}
+ r = requests.get(url, headers=headers).text
+ vfile , vtoken = re.findall('action/DownloadFile.*?fileId.*?value="(.*?)".*?Token".*?value="(.*?)"', r)[0]
+ #print data_a
+ ref = url
+ headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Referer': ref,'X-Requested-With': 'XMLHttpRequest'}
+ data_a ={'fileId': vfile , '__RequestVerificationToken': vtoken}
+ nr = requests.post('http://partagora.com/action/DownloadFile?location=fi&amp;f=630175', headers=headers, data=data_a).text
+ movie = re.findall('DownloadUrl":"(.*?)"', nr)[0]
+ print movie 
+ return movie 
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/100_metros-170169519-mmed.jpg</thumbnail>
+<fanart>http://estaticos.elperiodico.com/resources/jpg/9/1/dani-rovira-karra-elejalde-una-imagen-pelicula-100-metros-que-ruedan-sant-just-desvern-1458413024319.jpg</fanart>
+<info>Ramón (Dani Rovira), padre de familia treintañero, vive para el trabajo hasta que su cuerpo empieza a fallar. Diagnosticado de esclerosis múltiple, todos los pronósticos parecen indicar que en un año no será capaz de caminar ni cien metros. Ramón decide entonces plantarle cara a la vida participando en la prueba deportiva más dura del planeta.</info>
+</item>
+
+<item>
+<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] Animales fantásticos y dónde encontrarlos [/COLOR]</title>
+<urlsolve>http://thevideos.tv/3pz2w9y79r2n.html</urlsolve>
+<thumbnail>http://www.cinecalidad.to/espana/wp-content/uploads/2017/02/animales-fantasticos-y-donde-encontrarlos.jpg</thumbnail>
+<fanart>http://cinepremiere.impresionesaerea.netdna-cdn.com/noticias/2016/08-agosto/Animales-fantasticos-y-donde-encontrarlos-secuela.jpg</fanart>
+</item>
+
+<item>
+<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] Dr Stranger (Doctor Estaño)[/COLOR]</title>
+<urlsolve>http://thevideos.tv/vqceuj1hr5p7.html</urlsolve>
+<thumbnail>http://cdn1-www.comingsoon.net/assets/uploads/gallery/doctor-strange-1403135280/cf5nqhcxiae59i9-jpg-large.jpg</thumbnail>
+<fanart>http://www.kiuu.gremradio.com.mx/wp-content/uploads/2016/11/DOCTOR-STRANGE-01.png</fanart>
+</item>
+
+<!--<item>
+<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] Dr Stranger (Doctor Estaño)[/COLOR]</title>
+<link>$doregex[getUrl]|Accept-Encoding=gzip, deflate, sdch</link>
+<thumbnail>http://cdn1-www.comingsoon.net/assets/uploads/gallery/doctor-strange-1403135280/cf5nqhcxiae59i9-jpg-large.jpg</thumbnail>
+<fanart>http://www.kiuu.gremradio.com.mx/wp-content/uploads/2016/11/DOCTOR-STRANGE-01.png</fanart>
+<regex><name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re , requests ,json
+def GetLSProData(page_data,Cookie_Jar,m):
+
+ ref = 'http://copiapop.com/ataulfo/mas-pelis-94361' 
+ url='http://copiapop.com/ataulfo/mas-pelis-94361/858509-drs,1495241.mkv'
+ headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Referer': ref ,
+            'X-Requested-With' : 'XMLHttpRequest' , 'Accept' : '*/*'}
+ session = requests.Session()
+ r = session.get(url, headers=headers)
+ rv1 = r.cookies
+
+ vfile , vtoken = re.findall('action/DownloadFile.*?fileId.*?value="(.*?)".*?Token".*?value="(.*?)"', r.text)[0]
+ data_a ={'fileId': vfile , '__RequestVerificationToken': vtoken}
+ nr = requests.post('http://copiapop.com/action/DownloadFile?location=fi&f=%s'%vfile , headers=headers,cookies=rv1 , data=data_a).text
+ nrj=json.loads(nr)
+ nr = nrj['Content']
+ r2 = re.findall(r'(?s)value=\"(.*?)\"', nr)[0]
+ data_a ={'__RequestVerificationToken': r2 , 'Username': 'amistad' , 'Password' : 'asegurada'}
+ nr1 = requests.post('http://copiapop.com/action/Account/Login', headers=headers,cookies = rv1 , data=data_a)
+ print nr1.headers['Set-Cookie']
+ rasp = re.findall('ASPXAUTH_v2=(.*?);', nr1.headers['Set-Cookie'])[0]
+ rv1['.ASPXAUTH_v2'] = rasp
+ data_a ={'fileId': vfile , '__RequestVerificationToken': vtoken}
+ nr3 = requests.post('http://copiapop.com/action/DownloadFile?location=fi&f=%s'%vfile , headers=headers, cookies = rv1 , data=data_a).text
+ r3 = re.findall('DownloadUrl":"(.*?)"', nr3)[0]
+ print r3
+ return r3
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+</item>-->
+
+<item>
+<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] ** [COLOR lime]Contratiempo[/COLOR] **</title>
+<link>$doregex[getUrl]|Referer=http://partagora.com/Catoal/pilla-64224/contra,607957,list,1,1.mp4
+</link>
+<thumbnail>http://es.web.img3.acsta.net/c_215_290/pictures/16/11/18/11/16/356441.jpg</thumbnail>
+<fanart>http://hoyunclick.es/wp-content/uploads/2017/01/img15396d.jpg</fanart>
+<regex><name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re , requests 
+def GetLSProData(page_data,Cookie_Jar,m):
+ url='http://partagora.com/Catoal/pilla-64224/contra,607957,list,1,1.mp4'
+ headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Referer': ''}
+ r = requests.get(url, headers=headers).text
+ vfile , vtoken = re.findall('action/DownloadFile.*?fileId.*?value="(.*?)".*?Token".*?value="(.*?)"', r)[0]
+ #print data_a
+ ref = url
+ headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Referer': ref,'X-Requested-With': 'XMLHttpRequest'}
+ data_a ={'fileId': vfile , '__RequestVerificationToken': vtoken}
+ nr = requests.post('http://partagora.com/action/DownloadFile?location=fi&amp;f=607957', headers=headers, data=data_a).text
+ movie = re.findall('DownloadUrl":"(.*?)"', nr)[0]
+ print movie 
+ return movie 
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://es.web.img3.acsta.net/c_215_290/pictures/16/11/18/11/16/356441.jpg</thumbnail>
+<fanart>http://hoyunclick.es/wp-content/uploads/2017/01/img15396d.jpg</fanart>
+</item>
+
+<item>
+<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] ** [COLOR lime]Jackie[/COLOR] **</title>
+<link>$doregex[getUrl]|Referer=http://partagora.com/Catoal/pilla-64224/ja02,594996,list,1,1.avi
+</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/archive/8/84/20170108193609!Jackie_(2016_film).png</thumbnail>
+<fanart>http://www.80grados.net/wp-content/uploads/2016/12/jackie-1.jpeg</fanart>
+<regex><name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re , requests 
+def GetLSProData(page_data,Cookie_Jar,m):
+ url='http://partagora.com/Catoal/pilla-64224/ja02,594996,list,1,1.avi'
+ headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Referer': ''}
+ r = requests.get(url, headers=headers).text
+ vfile , vtoken = re.findall('action/DownloadFile.*?fileId.*?value="(.*?)".*?Token".*?value="(.*?)"', r)[0]
+ #print data_a
+ ref = url
+ headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Referer': ref,'X-Requested-With': 'XMLHttpRequest'}
+ data_a ={'fileId': vfile , '__RequestVerificationToken': vtoken}
+ nr = requests.post('http://partagora.com/action/DownloadFile?location=fi&amp;f=594996', headers=headers, data=data_a).text
+ movie = re.findall('DownloadUrl":"(.*?)"', nr)[0]
+ print movie 
+ return movie 
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/archive/8/84/20170108193609!Jackie_(2016_film).png</thumbnail>
+<fanart>http://www.80grados.net/wp-content/uploads/2016/12/jackie-1.jpeg</fanart>
+</item>
+
+<item>
+<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] ** [COLOR lime]Ozzy[/COLOR] **</title>
+<link>$doregex[getUrl]|Referer=http://partagora.com/Catoal/pilla2-64269/umvv,556216,list,1,1.mp4
+</link>
+<thumbnail>http://es.web.img2.acsta.net/c_215_290/pictures/16/08/05/13/46/582902.jpg</thumbnail>
+<fanart>http://es.web.img3.acsta.net/videothumbnails/16/07/26/11/43/075025.jpg</fanart>
+<regex><name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re , requests 
+def GetLSProData(page_data,Cookie_Jar,m):
+ url='http://partagora.com/Catoal/pilla-64224/ozzy,586525,list,1,1.mp4'
+ headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Referer': ''}
+ r = requests.get(url, headers=headers).text
+ vfile , vtoken = re.findall('action/DownloadFile.*?fileId.*?value="(.*?)".*?Token".*?value="(.*?)"', r)[0]
+ #print data_a
+ ref = url
+ headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Referer': ref,'X-Requested-With': 'XMLHttpRequest'}
+ data_a ={'fileId': vfile , '__RequestVerificationToken': vtoken}
+ nr = requests.post('http://partagora.com/action/DownloadFile?location=fi&amp;f=586525', headers=headers, data=data_a).text
+ movie = re.findall('DownloadUrl":"(.*?)"', nr)[0]
+ print movie 
+ return movie 
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://es.web.img2.acsta.net/c_215_290/pictures/16/08/05/13/46/582902.jpg</thumbnail>
+<fanart>http://es.web.img3.acsta.net/videothumbnails/16/07/26/11/43/075025.jpg</fanart>
+</item>
+
+<item>
+<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] ** [COLOR lime]Después de nosotros[/COLOR] **</title>
+<urlsolve>http://www.yourupload.com/watch/53CGcdQps174</urlsolve>
+<thumbnail>http://www.cinecalidad.to/espana/wp-content/uploads/2017/02/despues-de-nosotros.jpg</thumbnail>
+<fanart>http://estaticos.elperiodico.com/resources/jpg/5/0/estrenos-semana-trailer-despues-nosotros-2016-1476280815805.jpg</fanart>
+</item>
+
+<item>
+<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] ** [COLOR lime]Batalla por Sebastopol [/COLOR] **</title>
+<urlsolve>http://thevideos.tv/rgtd5sfdeqrq.html</urlsolve>
+<thumbnail>http://www.cinecalidad.to/espana/wp-content/uploads/2017/02/battle-for-sevastopol.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w1280/yDw87FgCgsK3bRg6aPMUZMoCLLN.jpg</fanart>
+</item>
+
+<item>
+<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime]** [COLOR gold]Inferno HD Dual[/COLOR] **</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://www.yourupload.com/watch/yNf0yqoMI0o5'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/inferno-993771440-large.jpg</thumbnail>
+<fanart>http://laprensa-bucket.s3-us-west-2.amazonaws.com/wp-content/uploads/2016/10/04150611/tom1.jpg</fanart>
+</item>
