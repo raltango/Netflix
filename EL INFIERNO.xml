@@ -3,7 +3,7 @@
 <SetViewMode>500</SetViewMode>
            
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] A 23 pasos de Baker Street[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red][COLOR red] A 23 pasos de Baker Street[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -22,7 +22,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/n8iya7v6dqfx'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] A bayoneta calada[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red][COLOR red] A bayoneta calada[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -41,7 +41,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/nv0gaffisumq'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] A Bittersweet Life[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red][COLOR red] A Bittersweet Life[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -60,7 +60,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/ik4skzwy8unl'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] A cambio de nada[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red][COLOR red] A cambio de nada[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -79,7 +79,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/nth8gsim4i04'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] A casa por navidad[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red][COLOR red] A casa por navidad[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -98,7 +98,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/4btvfcvh1vjo'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] A ciegas[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red][COLOR red] A ciegas[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -117,7 +117,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/qjxxt22mwe03'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] A ciegas (TV)[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red][COLOR red] A ciegas (TV)[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -136,7 +136,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/fmjqlu3lkwy9'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] A Cinderella Story: If the Shoe Fits[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red][COLOR red] A Cinderella Story: If the Shoe Fits[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -155,7 +155,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/606krj98vx4h'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] A contrarreloj[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red][COLOR red] A contrarreloj[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -174,7 +174,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/eyoegpmfkmid'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] A cualquier precio[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red][COLOR red] A cualquier precio[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -194,7 +194,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/1rccy1umv5yw'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] A escondidas[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] A escondidas[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -213,7 +213,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/4ixb4wkyayo5'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] A fondo (Go Fast)[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] A fondo (Go Fast)[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -232,7 +232,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/9qt4ubbu2oo0'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] A golpe de monedas[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] A golpe de monedas[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -251,7 +251,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/4njo1fs4hqzf'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] A golpes[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] A golpes[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -270,7 +270,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/5r857ki3wh2g'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] A Good Woman[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] A Good Woman[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -289,7 +289,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/iglmpujtlyyd'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] A Horrible Way to Die[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] A Horrible Way to Die[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -308,7 +308,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/t05txde2l96q'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] A la caza[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] A la caza[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -327,7 +327,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/t9vo6exxjtlr'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] A la caza del lobo rojo[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] A la caza del lobo rojo[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -346,7 +346,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/8xmmhvwntpe6'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] A la deriva[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] A la deriva[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -365,7 +365,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/ke9ma3y1v1z7'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] A la Habana me voy[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] A la Habana me voy[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -384,7 +384,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/vm8us7jlhde9'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] A la hora señalada[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] A la hora señalada[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -403,7 +403,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/83kvecwqvm5y'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] A la mañana siguiente[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] A la mañana siguiente[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -422,7 +422,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/9kc0h2zhtpis'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] A las cinco de la tarde[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] A las cinco de la tarde[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -441,7 +441,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/u798j8wt5bru'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] A las duras y a las maduras[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] A las duras y a las maduras[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -460,7 +460,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/b26pesuf5uns'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] A Little Bit Zombie[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] A Little Bit Zombie[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -479,7 +479,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/vi9k0l22awqh'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] A los cirujanos se les va la mano[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] A los cirujanos se les va la mano[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -498,7 +498,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/5ksgfd1446u4'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] A merced del odio[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] A merced del odio[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -517,7 +517,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/nxncv8bew0yh'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] A mí no me mire usted[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] A mí no me mire usted[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -536,7 +536,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/6pe7nr3xhkjd'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] A París con el amor[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] A París con el amor[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -555,7 +555,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/mmh5nm896hl1'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] A pleno sol[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] A pleno sol[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -574,7 +574,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/45odt7pnf4tq'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] A por ellas[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] A por ellas[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -593,7 +593,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/ojv9e93mj5ls'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] A por todas[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] A por todas[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -612,7 +612,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/lyxyp0desdvs'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] A por todas de nuevo[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] A por todas de nuevo[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -631,7 +631,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/5kb91c0etecq'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] A por todas de nuevo, una vez más[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] A por todas de nuevo, una vez más[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -654,7 +654,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/v12ikc84cyd9'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] A por todas: La lucha final[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] A por todas: La lucha final[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -673,7 +673,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/qx1av0m3fut4'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] A por todas: Vamos a triunfar[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] A por todas: Vamos a triunfar[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -692,7 +692,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/8940i5tad497'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] A propósito de Henry[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] A propósito de Henry[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -711,7 +711,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/lurwhpvum8cm'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] A propósito de Llewyn Davis[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] A propósito de Llewyn Davis[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -730,7 +730,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/dzddsbmzzkvc'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] A puerta fría[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] A puerta fría[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -749,7 +749,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/1dr1bs3899bj'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] A Roma con amor[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] A Roma con amor[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -768,7 +768,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/xsshszdjtiqg'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] A Scanner Darkly (Una mirada a la oscuridad)[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] A Scanner Darkly (Una mirada a la oscuridad)[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -787,7 +787,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/6myhu3ks2pcu'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] A solas con ella[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] A solas con ella[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -806,7 +806,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/o52zmjlwmats'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] A Teacher[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] A Teacher[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -825,7 +825,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/wqry56eug841'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] A tiro limpio[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] A tiro limpio[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -844,7 +844,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/ujq1bhkm3acs'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] A toda marcha[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] A toda marcha[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -863,7 +863,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/awzl2bpwaoz3'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] A todo gas[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] A todo gas[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -882,7 +882,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/6im243hzos07'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] A todo gas 2[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] A todo gas 2[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -901,7 +901,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/8a1wkwt368v3'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] A todo gas: Los Bandoleros (C)[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] A todo gas: Los Bandoleros (C)[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -920,7 +920,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/l0i4qcehspyr'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] A todo gas: Tokyo Race (A todo gas 3)[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] A todo gas: Tokyo Race (A todo gas 3)[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -939,7 +939,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/8sd3o8q925he'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] A todo gas: Turbo-Charged Prelude (C)[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] A todo gas: Turbo-Charged Prelude (C)[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -958,7 +958,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/l8eciu8ique8'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] A todo riesgo[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] A todo riesgo[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -977,7 +977,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/0hrsb4o30yxq'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] A través del espejo[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] A través del espejo[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -996,7 +996,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/mmo47cfx7iia'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] A tu lado (TV)[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] A tu lado (TV)[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -1015,7 +1015,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/wvglunf57nyf'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] A un paso de la muerte[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] A un paso de la muerte[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -1034,7 +1034,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/suae7pm8bpac'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] A veinte millas de la justicia[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] A veinte millas de la justicia[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -1053,7 +1053,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/lgu45f5aa59u'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] A vida o muerte[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] A vida o muerte[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -1072,7 +1072,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/d5l9l26crwti'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] A.I. Inteligencia Artificial[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] A.I. Inteligencia Artificial[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -1091,7 +1091,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/j1l6q8pwvwz6'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] A.R.C.H.I.E.[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] A.R.C.H.I.E.[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -1110,7 +1110,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/d5jgd5vomgks'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] AAA - La película[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] AAA - La película[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -1129,7 +1129,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/i8q9uezv0ik6'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Aaltra[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Aaltra[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -1148,7 +1148,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/bxx9u64avf49'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Abajo el amor[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Abajo el amor[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -1167,7 +1167,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/jfgmelcpaaop'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Abajo el telón[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Abajo el telón[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -1186,7 +1186,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/dnzf2gl9442k'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Abandonada[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Abandonada[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -1205,7 +1205,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/fph53ahddgcm'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Abandonados[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Abandonados[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -1224,7 +1224,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/hvr37kvqf9mt'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Abandoned Mine[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Abandoned Mine[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -1243,7 +1243,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/07ip1q0ox2jq'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Abbott y Costello contra los fantasmas[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Abbott y Costello contra los fantasmas[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -1262,7 +1262,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/nxghfv0sh1a4'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Abismo[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Abismo[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -1281,7 +1281,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/vsch1heujxuc'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Abominable[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Abominable[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -1300,7 +1300,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/pwk1qs9d5xw5'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Abraham (El primer patriarca) (TV)[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Abraham (El primer patriarca) (TV)[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -1319,7 +1319,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/c60yme033n5t'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Abraham Lincoln[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Abraham Lincoln[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -1338,7 +1338,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/el5f323r73wc'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Abraham Lincoln: Cazador de vampiros[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Abraham Lincoln: Cazador de vampiros[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -1357,7 +1357,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/pxr2016jyba4'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Abre los ojos[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Abre los ojos[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -1376,7 +1376,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/o9ale4kkpg30'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Ábrete de orejas[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Ábrete de orejas[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -1395,7 +1395,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/jt1c18vuujou'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Abril sangriento[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Abril sangriento[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -1414,7 +1414,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/jgxjkii1bte7'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Absolutamente fabulosas[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Absolutamente fabulosas[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -1433,7 +1433,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/b0c76g1klnas'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Absolutamente todo[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Absolutamente todo[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -1452,7 +1452,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/daqjdbbpuv6k'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Abuelo made in Spain[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Abuelo made in Spain[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -1471,7 +1471,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/e6tz2oha3v02'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Abuelos al poder[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Abuelos al poder[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -1490,7 +1490,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/sqavq72eld9f'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Abzurdah[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Abzurdah[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -1509,7 +1509,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/qh2picexq9r5'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] AC/DC: Let There Be Rock, la película[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] AC/DC: Let There Be Rock, la película[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -1528,7 +1528,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/dcxq3ki7k6j5'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] AC/DC: Live at Donington[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] AC/DC: Live at Donington[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -1547,7 +1547,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/hfdhj0wbg4fb'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] AC/DC: Live at River Plate[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] AC/DC: Live at River Plate[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -1566,7 +1566,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/pp5iqqsvdg6u'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] AC/DC: No Bull[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] AC/DC: No Bull[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -1585,7 +1585,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/z0ehipf3ny50'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Acantilado[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Acantilado[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -1604,7 +1604,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/t23o8kvr8ouf'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Acantilado rojo (versión internacional)[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Acantilado rojo (versión internacional)[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -1623,7 +1623,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/vakzusl6i924'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Acceso ilegal[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Acceso ilegal[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -1642,7 +1642,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/hr6oqb1vbv79'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Accidente[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Accidente[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -1667,7 +1667,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/pbxrpa5mkvd3'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Acción en el Atlántico Norte[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Acción en el Atlántico Norte[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -1686,7 +1686,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/hcd1qunqyto4'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Acción policial[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Acción policial[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -1705,7 +1705,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/3km8k97leka7'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Ace Ventura Jr.: Detective de Mascotas[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Ace Ventura Jr.: Detective de Mascotas[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -1724,7 +1724,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/dhqkqehdxs59'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Ace Ventura, un detective diferente[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Ace Ventura, un detective diferente[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -1743,7 +1743,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/lk4dky6snwcm'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Ace Ventura: Operación África[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Ace Ventura: Operación África[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -1762,7 +1762,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/4pz5cno216cs'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Acero puro[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Acero puro[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -1781,7 +1781,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/ahgl3e10duia'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Acero y seda (Steel and Lace)[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Acero y seda (Steel and Lace)[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -1800,7 +1800,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/tuugm27scdf0'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Acorralado (Officer Down)[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Acorralado (Officer Down)[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -1819,7 +1819,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/nwl5uqocgbm3'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Acorralado (Rambo)[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Acorralado (Rambo)[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -1837,7 +1837,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/36hout6l3rj7'
 </item>
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Acorralados[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Acorralados[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -1855,7 +1855,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/oy4e0wjn07at'
 </item>
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Acosada íntimamente (TV)[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Acosada íntimamente (TV)[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -1874,7 +1874,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/wa2si05ja5k0'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Acoso[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Acoso[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -1893,7 +1893,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/8srk6y2iemv6'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Acoso en la red social (TV)[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Acoso en la red social (TV)[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -1912,7 +1912,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/xtnvjarjzvuo'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Across the Line: La huida de Charly Wright[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Across the Line: La huida de Charly Wright[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -1931,7 +1931,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/w264msobw8o8'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Across the Universe[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Across the Universe[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -1950,7 +1950,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/js0zvslc2ocm'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Actividades criminales[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Actividades criminales[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -1969,7 +1969,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/78mf0y2csj19'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Acto de valor[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Acto de valor[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -1988,7 +1988,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/ep7aef6atatv'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Acusada a los 17 (TV)[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Acusada a los 17 (TV)[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -2007,7 +2007,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/x0srknkh9m13'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Acusado (TV)[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Acusado (TV)[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -2026,7 +2026,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/kb9mg6zlp5rd'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Acusado a traición[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Acusado a traición[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -2045,7 +2045,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/xwe5ctc7mr9g'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Adam resucitado[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Adam resucitado[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -2064,7 +2064,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/4649qbwz3ai4'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Adán y ella[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Adán y ella[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -2083,7 +2083,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/i3uyug1l1nbv'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Adiós a la reina[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Adiós a la reina[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -2102,7 +2102,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/jra6v4wlg2k7'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Adiós a las armas[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Adiós a las armas[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -2121,7 +2121,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/nks3bg6lkj3l'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Adiós pequeña, adiós[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Adiós pequeña, adiós[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -2140,7 +2140,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/39svkwhby3qf'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Adiós, mi amor[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Adiós, mi amor[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -2159,7 +2159,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/rxhe9ut3lzk7'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Adiós, muñeca[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Adiós, muñeca[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -2178,7 +2178,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/o9lmzhuenm7y'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Adivina quién viene esta noche[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Adivina quién viene esta noche[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -2197,7 +2197,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/yd1hnsmj28pk'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Admiradora Secreta[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Admiradora Secreta[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -2216,7 +2216,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/layhxvh2bai9'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Adopción denegada (TV)[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Adopción denegada (TV)[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -2235,7 +2235,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/iegdaif1cpfz'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Adopción fatal (TV)[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Adopción fatal (TV)[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -2254,7 +2254,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/2k81p9rtrzfr'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Adopción peligrosa (TV)[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Adopción peligrosa (TV)[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -2273,7 +2273,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/x3yyoyvp33uy'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Adulterio nacional [/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Adulterio nacional [/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -2292,7 +2292,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/f3i2c68vg96m'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Adultos a la fuerza[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Adultos a la fuerza[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -2311,7 +2311,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/sr2gd8rwjwce'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Adventureland[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Adventureland[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -2336,7 +2336,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/1sqw2lcms4z6'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Æon Flux[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Æon Flux[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -2355,7 +2355,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/ptu4ro1yl0w4'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Aeropuerto: S.O.S. vuelo secuestrado[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Aeropuerto: S.O.S. vuelo secuestrado[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -2374,7 +2374,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/tjwrvp9p1uwb'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] After Earth[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] After Earth[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -2393,7 +2393,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/nqegncgbj5e4'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] After School Special[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] After School Special[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -2412,7 +2412,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/92lwn1ewvzem'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] After the Dark[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] After the Dark[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -2431,7 +2431,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/w32no7ek81vv'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] AfterDeath[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] AfterDeath[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -2450,7 +2450,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/qxiqlqyueakj'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Afterparty[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Afterparty[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -2469,7 +2469,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/hbujkx5gq1fh'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Aftershock[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Aftershock[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -2488,7 +2488,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/ijizaah2eca2'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Agárralo como puedas[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Agárralo como puedas[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -2507,7 +2507,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/bjtgbx06q4aw'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Agente 007 contra el Dr. No[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Agente 007 contra el Dr. No[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -2526,7 +2526,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/jnhb4a28kwt0'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Agente contrainteligente[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Agente contrainteligente[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -2545,7 +2545,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/q6ppv9yf9ksp'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Agente doble[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Agente doble[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -2564,7 +2564,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/061hsuq6ff7a'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Agente especial[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Agente especial[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -2583,7 +2583,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/xg5n2s5nwnl3'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Agente juvenil[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Agente juvenil[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -2602,7 +2602,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/qughuxr7lwi3'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Agente Ñero Ñero 7[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Agente Ñero Ñero 7[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -2621,7 +2621,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/4dff2nsoza0f'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Agítese antes de usarla[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Agítese antes de usarla[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -2640,7 +2640,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/r24d3onpfj8c'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Ágora[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Ágora[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -2659,7 +2659,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/vlglpx7m1z8s'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Agosto[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Agosto[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -2678,7 +2678,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/ts5byt7puodj'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Agresión en la casa del terror[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Agresión en la casa del terror[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -2697,7 +2697,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/cmj0wnstvhgl'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Agua[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Agua[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -2716,7 +2716,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/lyh1gde816qa'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Agua para elefantes[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Agua para elefantes[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -2735,7 +2735,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/6jwlm3ozl2dk'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Águila de acero[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Águila de acero[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -2754,7 +2754,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/le35gcwkyof9'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Águila de acero II[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Águila de acero II[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -2773,7 +2773,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/luge3giswhmw'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Águila de acero III[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Águila de acero III[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -2792,7 +2792,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/8gch72c881ep'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Águila de acero IV[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Águila de acero IV[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -2811,7 +2811,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/tyh77f4kpe6k'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Águila roja. La película[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Águila roja. La película[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -2830,7 +2830,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/ani6n5yuuvrn'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Aguirre, la cólera de Dios[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Aguirre, la cólera de Dios[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -2849,7 +2849,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/ku2v6r16b64t'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Agustina de Aragón[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Agustina de Aragón[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -2868,7 +2868,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/aj6il0shybtg'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Ahí os quedáis[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Ahí os quedáis[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -2887,7 +2887,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/s5vsrpb8hbxo'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Ahí va ese bólido[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Ahí va ese bólido[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -2906,7 +2906,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/h0k11qnbzgxy'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Ahora los padres son ellos[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Ahora los padres son ellos[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -2925,7 +2925,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/p49hdrtzkvhh'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Ahora me ves 2[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Ahora me ves 2[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -2944,7 +2944,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/q41jwp5anwxv'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Ahora me ves...[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Ahora me ves...[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -2963,7 +2963,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/828jgl1iht29'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Ahora o nunca[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Ahora o nunca[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -2982,7 +2982,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/j1uns3xiewfs'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Ahora o nunca[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Ahora o nunca[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -3001,7 +3001,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/aum025mz9oy6'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Ahora y siempre[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Ahora y siempre[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -3020,7 +3020,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/29ftsxhw6vrq'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Aimée y Jaguar[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Aimée y Jaguar[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -3039,7 +3039,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/ay97l61lqgkf'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Air[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Air[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -3058,7 +3058,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/do9w0zg4v0rn'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Air America[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Air America[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -3080,7 +3080,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/srhm4d78g150'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Æon Flux[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Æon Flux[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -3099,7 +3099,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/ptu4ro1yl0w4'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Aeropuerto: S.O.S. vuelo secuestrado[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Aeropuerto: S.O.S. vuelo secuestrado[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -3118,7 +3118,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/tjwrvp9p1uwb'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] After Earth[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] After Earth[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -3137,7 +3137,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/nqegncgbj5e4'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] After School Special[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] After School Special[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -3156,7 +3156,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/92lwn1ewvzem'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] After the Dark[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] After the Dark[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -3175,7 +3175,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/w32no7ek81vv'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] AfterDeath[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] AfterDeath[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -3194,7 +3194,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/qxiqlqyueakj'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Afterparty[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Afterparty[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -3213,7 +3213,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/hbujkx5gq1fh'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Aftershock[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Aftershock[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -3232,7 +3232,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/ijizaah2eca2'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Agárralo como puedas[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Agárralo como puedas[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -3251,7 +3251,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/bjtgbx06q4aw'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Agente 007 contra el Dr. No[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Agente 007 contra el Dr. No[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -3270,7 +3270,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/jnhb4a28kwt0'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Agente contrainteligente[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Agente contrainteligente[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -3289,7 +3289,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/q6ppv9yf9ksp'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Agente doble[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Agente doble[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -3308,7 +3308,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/061hsuq6ff7a'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Agente especial[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Agente especial[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -3327,7 +3327,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/xg5n2s5nwnl3'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Agente juvenil[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Agente juvenil[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -3346,7 +3346,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/qughuxr7lwi3'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Agente Ñero Ñero 7[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Agente Ñero Ñero 7[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -3365,7 +3365,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/4dff2nsoza0f'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Agítese antes de usarla[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Agítese antes de usarla[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -3384,7 +3384,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/r24d3onpfj8c'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Ágora[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Ágora[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -3403,7 +3403,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/vlglpx7m1z8s'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Agosto[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Agosto[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -3422,7 +3422,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/ts5byt7puodj'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Agresión en la casa del terror[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Agresión en la casa del terror[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -3441,7 +3441,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/cmj0wnstvhgl'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Agua[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Agua[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -3460,7 +3460,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/lyh1gde816qa'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Agua para elefantes[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Agua para elefantes[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -3479,7 +3479,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/6jwlm3ozl2dk'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Águila de acero[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Águila de acero[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -3498,7 +3498,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/le35gcwkyof9'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Águila de acero II[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Águila de acero II[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -3517,7 +3517,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/luge3giswhmw'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Águila de acero III[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Águila de acero III[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -3536,7 +3536,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/8gch72c881ep'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Águila de acero IV[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Águila de acero IV[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -3555,7 +3555,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/tyh77f4kpe6k'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Águila roja. La película[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Águila roja. La película[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -3574,7 +3574,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/ani6n5yuuvrn'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Aguirre, la cólera de Dios[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Aguirre, la cólera de Dios[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -3593,7 +3593,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/ku2v6r16b64t'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Agustina de Aragón[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Agustina de Aragón[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -3612,7 +3612,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/aj6il0shybtg'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Ahí os quedáis[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Ahí os quedáis[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -3631,7 +3631,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/s5vsrpb8hbxo'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Ahí va ese bólido[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Ahí va ese bólido[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -3650,7 +3650,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/h0k11qnbzgxy'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Ahora los padres son ellos[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Ahora los padres son ellos[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -3669,7 +3669,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/p49hdrtzkvhh'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Ahora me ves 2[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Ahora me ves 2[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -3688,7 +3688,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/q41jwp5anwxv'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Ahora me ves...[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Ahora me ves...[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -3707,7 +3707,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/828jgl1iht29'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Ahora o nunca[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Ahora o nunca[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -3726,7 +3726,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/j1uns3xiewfs'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Ahora o nunca[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Ahora o nunca[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -3745,7 +3745,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/aum025mz9oy6'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Ahora y siempre[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Ahora y siempre[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -3764,7 +3764,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/29ftsxhw6vrq'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Aimée y Jaguar[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Aimée y Jaguar[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -3783,7 +3783,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/ay97l61lqgkf'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Air[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Air[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -3802,7 +3802,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/do9w0zg4v0rn'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Air America[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Air America[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -3824,7 +3824,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/srhm4d78g150'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Air Bud[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Air Bud[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -3843,7 +3843,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/dluclj43tl7p'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Air Buddies[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Air Buddies[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -3862,7 +3862,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/zognj4dn7iyk'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Airbag[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Airbag[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -3881,7 +3881,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/wt2nznxixiyu'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Airbender, el último guerrero[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Airbender, el último guerrero[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -3900,7 +3900,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/1gplrm9detwu'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Akira[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Akira[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -3919,7 +3919,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/2gv1ukixadte'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Al acecho (TV)[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Al acecho (TV)[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -3938,7 +3938,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/th6sv5tzsehd'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Al diablo con el diablo[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Al diablo con el diablo[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -3957,7 +3957,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/4z5du2nkk0h0'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Al encuentro de Mr. Banks[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Al encuentro de Mr. Banks[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -3976,7 +3976,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/em7j3xsmfq27'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Al filo de la medianoche[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Al filo de la medianoche[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -3995,7 +3995,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/wryyfurkglej'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Al filo de la muerte[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Al filo de la muerte[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -4014,7 +4014,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/l1bqdya8p8ea'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Al filo de la noticia[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Al filo de la noticia[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -4033,7 +4033,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/g4fjmczggo1q'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Al filo del mañana[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Al filo del mañana[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -4052,7 +4052,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/kazcq7zrd8nj'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Al fin solos[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Al fin solos[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -4071,7 +4071,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/wt73jumqr5i0'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Al final de la escalera[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Al final de la escalera[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -4093,7 +4093,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/hg08r1d5xv5b'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] Al final del edén[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red][COLOR red] Al final del edén[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -4111,7 +4111,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/i21p0wwyj3wh'
 </item>
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime] Al final del túnel[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red] Al final del túnel[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -4130,7 +4130,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/6nn6wit9una3'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] Al final todos mueren[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red][COLOR red] Al final todos mueren[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -4149,7 +4149,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/aflof2vcowvl'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] Al límite[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red][COLOR red] Al límite[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -4167,7 +4167,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/mszr76heijdb'
 </item>
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] Al límite[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red][COLOR red] Al límite[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -4185,7 +4185,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/73xwtv4xzlxw'
 </item>
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] Al límite de la verdad[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red][COLOR red] Al límite de la verdad[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -4204,7 +4204,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/kkyreoty73fp'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] Al otro lado del cielo[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red][COLOR red] Al otro lado del cielo[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -4223,7 +4223,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/75qn2uwl4ek3'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] Al otro lado del muro (West)[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red][COLOR red] Al otro lado del muro (West)[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -4242,7 +4242,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/l9hecerirxj1'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] Alabama Monroe[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red][COLOR red] Alabama Monroe[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -4261,7 +4261,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/brzib3obwpie'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] Alacrán enamorado[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red][COLOR red] Alacrán enamorado[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -4280,7 +4280,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/sjm5bklg3fz1'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] Aladdin (Aladino)[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red][COLOR red] Aladdin (Aladino)[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -4299,7 +4299,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/32qah3kbr4a3'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] Aladdin y el rey de los ladrones[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red][COLOR red] Aladdin y el rey de los ladrones[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -4318,7 +4318,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/fop860j9ylmr'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] Aladino[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red][COLOR red] Aladino[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -4337,7 +4337,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/zlonw7hmblmw'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] Alaridos (Cemetery Gates)[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red][COLOR red] Alaridos (Cemetery Gates)[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -4356,7 +4356,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/ar9hpg8vwu5o'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] Alarma catástrofe[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red][COLOR red] Alarma catástrofe[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -4375,7 +4375,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/tq2gzvf3zkob'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] Alas de mariposa[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red][COLOR red] Alas de mariposa[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -4394,7 +4394,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/i4og3fhgi2c3'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] Alatriste[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red][COLOR red] Alatriste[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -4413,7 +4413,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/p8j473zf784l'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] Albert[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red][COLOR red] Albert[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -4432,7 +4432,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/ckrwtihpu8y3'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] Albert Nobbs[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red][COLOR red] Albert Nobbs[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -4451,7 +4451,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/v3stzstn1ekc'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] Alcohol y coca[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red][COLOR red] Alcohol y coca[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -4470,7 +4470,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/mo7tm14b53q5'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] Alejandro Magno[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red][COLOR red] Alejandro Magno[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -4489,7 +4489,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/6mpf28qat437'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] Alemania, año cero[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red][COLOR red] Alemania, año cero[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -4508,7 +4508,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/8xdrilxdfeqo'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] Alerta máxima[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red][COLOR red] Alerta máxima[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -4527,7 +4527,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/e9iqlw76pqzd'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] Alex Rider: Operación Stormbreaker[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red][COLOR red] Alex Rider: Operación Stormbreaker[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -4545,7 +4545,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/ckylz4a3xeas'
 </item>
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] Alex & Friends. Sobreviviendo a los padres[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red][COLOR red] Alex & Friends. Sobreviviendo a los padres[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -4563,7 +4563,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/l6rkggot54hy'
 </item>
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] Alexander y el día terrible, horrible, espantoso, horroroso[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red][COLOR red] Alexander y el día terrible, horrible, espantoso, horroroso[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -4582,7 +4582,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/6g1u8h79wqp2'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] ALF: La película (TV)[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red][COLOR red] ALF: La película (TV)[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -4601,7 +4601,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/wme0vpvgj7l8'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] Alfie[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red][COLOR red] Alfie[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -4620,7 +4620,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/zyv57yyont8y'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] Alfombras mágicas[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red][COLOR red] Alfombras mágicas[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -4639,7 +4639,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/fcijbkp3kh45'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] Algo más que amigos[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red][COLOR red] Algo más que amigos[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -4658,7 +4658,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/96isjrwbk78e'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] Algo más que colegas[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red][COLOR red] Algo más que colegas[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -4677,7 +4677,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/m5of8hzpo04o'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] Algo más que cómplices[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red][COLOR red] Algo más que cómplices[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -4696,7 +4696,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/2vcuev20atjg'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] Algo para recordar[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red][COLOR red] Algo para recordar[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -4715,7 +4715,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/7k9imf7ggmmw'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] Algo pasa con Mary[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red][COLOR red] Algo pasa con Mary[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -4734,7 +4734,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/sovvtkrt8utg'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] Algo pasa en Hollywood[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red][COLOR red] Algo pasa en Hollywood[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -4753,7 +4753,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/w9lu3jvn33vh'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] Algo pasa en Las Vegas[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red][COLOR red] Algo pasa en Las Vegas[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -4772,7 +4772,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/cel9b311khvp'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] Algo prestado[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red][COLOR red] Algo prestado[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -4791,7 +4791,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/nwk0deifzr6e'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] Algo que contar[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red][COLOR red] Algo que contar[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -4810,7 +4810,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/cq9a34m9rp8g'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] Alguien a quien amar[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red][COLOR red] Alguien a quien amar[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -4829,7 +4829,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/c9xum628lnd7'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] Alguien como tú[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red][COLOR red] Alguien como tú[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -4848,7 +4848,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/2hrx4lr9ajg5'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] Alguien voló sobre el nido del cuco[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red][COLOR red] Alguien voló sobre el nido del cuco[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -4867,7 +4867,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/6wawkh4j1a4p'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] Algunas veces ellos vuelven (TV)[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red][COLOR red] Algunas veces ellos vuelven (TV)[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -4886,7 +4886,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/fmmi5wjt8awc'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] Algunos hombres buenos[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red][COLOR red] Algunos hombres buenos[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -4905,7 +4905,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/w6zfmfv208d0'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] Ali[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red][COLOR red] Ali[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -4924,7 +4924,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/7v06sottv6yj'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] Alí Babá y los cuarenta ladrones[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red][COLOR red] Alí Babá y los cuarenta ladrones[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -4943,7 +4943,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/q0ehb45bglmm'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] Ali G anda suelto[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red][COLOR red] Ali G anda suelto[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -4962,7 +4962,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/1mpf0md790pp'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] Aliados[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red][COLOR red] Aliados[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -4981,7 +4981,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/dji47p2s2m2a'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] Alice[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red][COLOR red] Alice[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -5000,7 +5000,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/m0xdv8ivcbmp'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] Alicia a través del espejo[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red][COLOR red] Alicia a través del espejo[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -5019,7 +5019,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/74b1ctyfdoyw'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] Alicia en el país de las maravillas[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red][COLOR red] Alicia en el país de las maravillas[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -5038,7 +5038,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/sa5muxz4j45i'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] Alicia en el país de las maravillas[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red][COLOR red] Alicia en el país de las maravillas[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -5057,7 +5057,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/ttkxe1bqfxbs'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] Alicia en el país de las maravillas (TV)[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red][COLOR red] Alicia en el país de las maravillas (TV)[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -5076,7 +5076,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/p69k83e6uua7'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] Alien 3 (Alien³)[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red][COLOR red] Alien 3 (Alien³)[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -5095,7 +5095,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/2heopvz21v6h'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] Alien Hunter[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red][COLOR red] Alien Hunter[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -5114,7 +5114,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/vnan3um89b7q'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] Alien nación[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red][COLOR red] Alien nación[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -5133,7 +5133,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/y4zj1u2hrt4b'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] Alien Nation: El Final[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red][COLOR red] Alien Nation: El Final[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -5152,7 +5152,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/rdco8e2xj5cp'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] Alien Nation: En cuerpo y alma (TV)[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red][COLOR red] Alien Nation: En cuerpo y alma (TV)[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -5171,7 +5171,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/lt5kqv1d9yvc'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] Alien Raiders[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red][COLOR red] Alien Raiders[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -5190,7 +5190,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/amcjbiw3v27s'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] Alien Tornado (TV)[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red][COLOR red] Alien Tornado (TV)[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -5209,7 +5209,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/xov71yvprq1k'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] Alien vs. Alien[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red][COLOR red] Alien vs. Alien[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -5228,7 +5228,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/8to8ars7jasq'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] Alien vs. Predator[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red][COLOR red] Alien vs. Predator[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -5256,7 +5256,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/f3890h1tvar4'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] Alien vs. Predator 2[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red][COLOR red] Alien vs. Predator 2[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -5275,7 +5275,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/nmulanmzq4wu'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] Alien, el octavo pasajero[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red][COLOR red] Alien, el octavo pasajero[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -5294,7 +5294,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/xqa8g9iu36ff'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] Alien: Resurrección[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red][COLOR red] Alien: Resurrección[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -5313,7 +5313,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/6gz3wkn6vkje'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] Alienado[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red][COLOR red] Alienado[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -5332,7 +5332,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/vfb1lgtmdhkw'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] Aliens: El regreso[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red][COLOR red] Aliens: El regreso[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -5351,7 +5351,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/zotdw1tqlkp4'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] All Cheerleaders Die[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red][COLOR red] All Cheerleaders Die[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -5370,7 +5370,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/uwxq1zi6idoz'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] All Star Superman (Superman viaja al sol)[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red][COLOR red] All Star Superman (Superman viaja al sol)[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -5388,7 +5388,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/362n5errctlx'
 </item>
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] All We Had[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red][COLOR red] All We Had[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -5406,7 +5406,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/ih6wymgyq81n'
 </item>
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] Allan Quatermain y la ciudad perdida del oro[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red][COLOR red] Allan Quatermain y la ciudad perdida del oro[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -5425,7 +5425,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/dh8mel9khd2k'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] Allanamiento de morada[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red][COLOR red] Allanamiento de morada[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -5444,7 +5444,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/1efigd9hmxcx'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] Alleycats[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red][COLOR red] Alleycats[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -5463,7 +5463,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/k1on874mxyz1'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] Alma asesina[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red][COLOR red] Alma asesina[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -5482,7 +5482,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/54wtgugtff41'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] Alma de bailarina[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red][COLOR red] Alma de bailarina[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -5501,7 +5501,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/gderhcneere4'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] Alma de Dios[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red][COLOR red] Alma de Dios[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -5520,7 +5520,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/uasyeeas6dg5'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] Alma en suplicio[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red][COLOR red] Alma en suplicio[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -5539,7 +5539,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/ycm8tt97i7ke'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] Alma salvaje[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red][COLOR red] Alma salvaje[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -5558,7 +5558,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/vgcp183xvsrn'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] Almas condenadas[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red][COLOR red] Almas condenadas[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -5577,7 +5577,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/xve4ec7e67kp'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] Almas en la hoguera[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red][COLOR red] Almas en la hoguera[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -5596,7 +5596,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/7borpsyldlh3'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime]COLOR lime] Almas oscuras[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red]COLOR red] Almas oscuras[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -5614,7 +5614,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/h0il13xfcpvh'
 </item>
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] Almost Christmas[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red][COLOR red] Almost Christmas[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -5632,7 +5632,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/w20aj3oi63ve'
 </item>
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] Aloha[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red][COLOR red] Aloha[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -5651,7 +5651,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/ql7r0hwtfhz3'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] Alone in the Dark[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red][COLOR red] Alone in the Dark[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -5670,7 +5670,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/eq137twre6fz'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] Alone in the Dark II: El regreso de las sombras[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red][COLOR red] Alone in the Dark II: El regreso de las sombras[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -5689,7 +5689,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/zv7bhwkv8r5a'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] Alpha[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red][COLOR red] Alpha[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -5708,7 +5708,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/74gelg5mqvza'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] Alpha Dog[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red][COLOR red] Alpha Dog[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -5727,7 +5727,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/covo65g6ww3u'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] Alrededor del mundo con Timón y Pumba[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red][COLOR red] Alrededor del mundo con Timón y Pumba[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -5746,7 +5746,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/bktdxz3k8nt6'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] Alta fidelidad[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red][COLOR red] Alta fidelidad[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -5765,7 +5765,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/02z6xruyp87a'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] Alta sociedad[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red][COLOR red] Alta sociedad[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -5784,7 +5784,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/qfuptsyv44jc'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] Alta tensión[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red][COLOR red] Alta tensión[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -5803,7 +5803,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/orfaqso53ne6'
 
 
 <item>
-<title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] Altamira[/COLOR]</title>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR red][COLOR red] Altamira[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
