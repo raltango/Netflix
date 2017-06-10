@@ -2,6 +2,27 @@
 
 <SetViewMode>500</SetViewMode>
 
+
+
+<item> <!— 720 —>
+<title>Drácula, la leyenda jamás contada</title> 
+<thumbnail>https://image.tmdb.org/t/p/w640/45CH2aFnWb1yaE4MrpMIxXSID10.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/6UPlIYKxZqUR6Xbpgu1JKG0J7UC.jpg</fanart>
+<link>$doregex[url]|Cookie=$get_cookies$</link>
+<regex>
+<name>url</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+    import re
+    strurl = (re.findall('"fmt_stream_map.*?22\|(https.*?)\|', page_data)[0]).replace('\\u0026', '&').replace('\\u003d', '=')
+    return strurl
+]]></expres>
+<page>https://drive.google.com/open?id=0B-KjOMGAT4CueVVfUVVGT01ZRGc</page>
+<cookieJar></cookieJar>
+</item>
+
+
+
 <item> <!-- 1080 -->
 <title>[ [COLOR blue]*DIABLO[/COLOR][COLOR yellow] 2.0[/COLOR] ] [COLOR gold][B]3D[/B][COLOR lime] XXX:Reactivado[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w640/iOT9ca00e4hrMdgu1lDKvbIG6RI.jpg</thumbnail>
