@@ -7787,6 +7787,350 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/ftr09p5emlla'
 
 
 
+<item>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] Anna Karenina[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/83ydju4cswyn'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/anna_karenina-226766329-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/anna_karenina-226766329-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] Ana y el rey[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/yaukdz1sf8hl'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/anna_and_the_king-362588501-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/anna_and_the_king-362588501-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] Anabel[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/fizsb2spxj3q'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/anabel-595185217-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/anabel-595185217-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] Anacleto: Agente secreto[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/flj4b3rq0fpf'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/anacleto_agente_secreto-863043600-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/anacleto_agente_secreto-863043600-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] Anaconda 3: La amenaza (TV)[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/gd28yrjhcxf3'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/anaconda_3_the_offspring_tv-356808729-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/anaconda_3_the_offspring_tv-356808729-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] Anaconda 4: Rastro de sangre (TV)[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/zcwionarz0g9'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/anacondas_trail_of_blood_anaconda_4_tv-909837012-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/anacondas_trail_of_blood_anaconda_4_tv-909837012-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] Anarchy: La noche de las bestias[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/23lshl8k2exe'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/the_purge_anarchy_the_purge_2-822525892-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/the_purge_anarchy_the_purge_2-822525892-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] Anazapta[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/ychi120y9ooh'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/anazapta-684548890-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/anazapta-684548890-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] Ángel[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/7yssbatlqjh2'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/angel-880378957-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/angel-880378957-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] Ángel de venganza[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/apsa7cn2ehfd'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/lila_eve-741059344-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/lila_eve-741059344-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] Ángeles de hierro[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/crys3t6f5sm5'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/iron_jawed_angels-765488149-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/iron_jawed_angels-765488149-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] Ángeles y demonios[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/5pqda58l43rr'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/angels_demons-758086263-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/angels_demons-758086263-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] Ángeles y demonios[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/m2r269byp3cr'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/the_prophecy-436280726-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/the_prophecy-436280726-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] Ángeles y demonios 2[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/w1hlj675wc5d'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/the_prophecy_ii-893555305-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/the_prophecy_ii-893555305-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] Ángeles y demonios 3[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/zgtjzakssec4'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/the_prophecy_3_the_ascent-671672026-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/the_prophecy_3_the_ascent-671672026-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] Angry Birds, la película[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/6fv3b4xeg5kf'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/the_angry_birds_movie-593249429-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/the_angry_birds_movie-593249429-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] Aníbal[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/v6k57ehocl1f'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/annibale-138881528-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/annibale-138881528-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR lime][COLOR lime] Anillos en sus dedos[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/oghsl122dqm9'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/rings_on_her_fingers-568149928-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/rings_on_her_fingers-568149928-large.jpg</fanart>
+</item>
+
+
+
+
 
 
 
