@@ -12,7 +12,7 @@
 <link>http://condor1726.dedicatedpanel.com/series/APB/[makelist0.param1]</link> <!--- ruta que contiene la serie o pelicula archivos mkv,avi,mp4 etc. --->
 ]]></listrepeat>
 <expres><![CDATA[href="(.*?)">(.*?)<]]></expres>
-<page>http://condor1726.dedicatedpanel.com/series/12%20Monkeys/</page> <!--- ruta que contiene la serie o pelicula archivos mkv,avi,mp4 etc. --->
+<page>http://dl2.mihanpix.com/Serial/12Monkeys/</page> <!--- ruta que contiene la serie o pelicula archivos mkv,avi,mp4 etc. --->
 <referer></referer>
 <cookieJar></cookieJar>
 </regex>
