@@ -24,7 +24,7 @@
 http://dl2.mihanpix.com/Serial/Vikings/
 
 <item>
-<title>[COLOR dodgerblue][B]SERIES[/B][/COLOR][COLOR yellow][B]DIABOLO[/B][/COLOR]</title> <!--- titulo a mostrar --->
+<title>[COLOR dodgerblue][B]ReP[/B][/COLOR][COLOR yellow][B]DIABOLO[/B][/COLOR]</title> <!--- titulo a mostrar --->
 <link>$doregex[makelist0]</link>
 
 <regex>
@@ -34,14 +34,13 @@ http://dl2.mihanpix.com/Serial/Vikings/
 <link>http://condor1726.dedicatedpanel.com/series/APB/[makelist0.param1]</link> <!--- ruta que contiene la serie o pelicula archivos mkv,avi,mp4 etc. --->
 ]]></listrepeat>
 <expres><![CDATA[href="(.*?)">(.*?)<]]></expres>
-<page>
-http://dl2.mihanpix.com/Serial/Vikings/</page> <!--- ruta que contiene la serie o pelicula archivos mkv,avi,mp4 etc. --->
+<page>http://diskokosmiko.mx/marcos20/peticiones-16957/list,1,11</page> <!--- ruta que contiene la serie o pelicula archivos mkv,avi,mp4 etc. --->
 <referer></referer>
 <cookieJar></cookieJar>
 </regex>
 
-<fanart>http://i.huffpost.com/gen/1244965/images/o-CROWDED-MOVIE-THEATER-facebook.jpg</fanart> <!--- portada --->
-<thumbnail>http://www.itouchapps.net/images/wubu-guess-the-app/movies.jpg</thumbnail> <!--- fondo --->
+<fanart></fanart> <!--- portada --->
+<thumbnail></thumbnail> <!--- fondo --->
 </item>
 
 
